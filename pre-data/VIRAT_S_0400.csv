@@ -1,0 +1,147 @@
+VIRAT_S_040000_03_000221_000372
+Event ID, Event Type, Event Duration, Event Start, Event End
+18, 3: Person Opening a Vehicle/Car Trunk, 0:00:03.636970, 0:00:35.669002, 0:00:39.272606
+19, 2: Person Unloading an Object from a Car/Vehicle, 0:00:14.948282, 0:00:39.673006, 0:00:54.587921
+20, 9: Person carrying an object, 0:00:05.305305, 0:01:00.527194, 0:01:05.799132
+21, 3: Person Opening a Vehicle/Car Trunk, 0:00:01.968635, 0:01:38.231565, 0:01:40.166834
+22, 2: Person Unloading an Object from a Car/Vehicle, 0:00:06.740073, 0:01:40.133467, 0:01:46.840174
+
+VIRAT_S_040000_04_000532_000622
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 9: Person carrying an object, 0:00:17.984651, 0:01:00.326994, 0:01:18.278278
+
+VIRAT_S_040000_06_000746_000964
+Event ID, Event Type, Event Duration, Event Start, Event End
+13, 5: Person getting into a Vehicle, 0:00:04.437771, 0:01:34.127461, 0:01:38.531865
+15, 5: Person getting into a Vehicle, 0:00:03.903904, 0:03:09.789790, 0:03:13.660327
+16, 9: Person carrying an object, 0:02:49.969970, 0:00:10.944278, 0:03:00.880881
+
+VIRAT_S_040000_07_000966_001071
+Event ID, Event Type, Event Duration, Event Start, Event End
+4, 2: Person Unloading an Object from a Car/Vehicle, 0:00:05.171839, 0:00:40.073407, 0:00:45.211879
+
+VIRAT_S_040000_08_001084_001190
+Event ID, Event Type, Event Duration, Event Start, Event End
+8, 9: Person carrying an object, 0:00:23.323323, 0:00:17.450784, 0:00:40.740741
+9, 1: Person loading an Object to a Vehicle, 0:00:14.214214, 0:01:00.560561, 0:01:14.741408
+
+VIRAT_S_040000_09_001194_001574
+Event ID, Event Type, Event Duration, Event Start, Event End
+13, 6: Person getting out of a Vehicle, 0:00:06.806807, 0:00:35.368702, 0:00:42.142142
+14, 2: Person Unloading an Object from a Car/Vehicle, 0:00:06.072739, 0:00:42.542543, 0:00:48.581915
+15, 9: Person carrying an object, 0:00:24.024024, 0:00:48.481815, 0:01:12.472472
+16, 1: Person loading an Object to a Vehicle, 0:00:04.871538, 0:02:11.331331, 0:02:16.169503
+
+VIRAT_S_040001_00_000035_000319
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 9: Person carrying an object, 0:00:46.479813, 0:00:10.143477, 0:00:56.589923
+10, 2: Person Unloading an Object from a Car/Vehicle, 0:00:03.003003, 0:02:24.978312, 0:02:27.947948
+11, 9: Person carrying an object, 0:00:32.265599, 0:03:46.292960, 0:04:18.525192
+
+VIRAT_S_040001_01_000448_001101
+Event ID, Event Type, Event Duration, Event Start, Event End
+61, 9: Person carrying an object, 0:02:21.374708, 0:04:40.413747, 0:07:01.755088
+70, 9: Person carrying an object, 0:00:44.811478, 0:08:34.748081, 0:09:19.526193
+71, 9: Person carrying an object, 0:00:53.820487, 0:09:15.388722, 0:10:09.175843
+
+VIRAT_S_040001_02_001102_001530
+Event ID, Event Type, Event Duration, Event Start, Event End
+35, 2: Person Unloading an Object from a Car/Vehicle, 0:00:04.637971, 0:00:42.909576, 0:00:47.514181
+37, 9: Person carrying an object, 0:00:41.508175, 0:01:49.376043, 0:02:30.850851
+38, 9: Person carrying an object, 0:00:41.174508, 0:05:36.970304, 0:06:18.111445
+43, 3: Person Opening a Vehicle/Car Trunk, 0:00:01.968635, 0:02:49.202536, 0:02:51.137804
+44, 4: Person Closing a Vehicle/Car Trunk, 0:00:01.968635, 0:02:50.103437, 0:02:52.038705
+45, 5: Person getting into a Vehicle, 0:00:02.669336, 0:02:54.841508, 0:02:57.477477
+47, 3: Person Opening a Vehicle/Car Trunk, 0:00:01.968635, 0:04:14.721388, 0:04:16.656657
+48, 4: Person Closing a Vehicle/Car Trunk, 0:00:01.968635, 0:04:19.225893, 0:04:21.161161
+49, 9: Person carrying an object, 0:00:34.501168, 0:04:24.064064, 0:04:58.531865
+50, 9: Person carrying an object, 0:00:07.941275, 0:02:40.160160, 0:02:48.068068
+
+VIRAT_S_040001_03_001531_001595
+Event ID, Event Type, Event Duration, Event Start, Event End
+5, 3: Person Opening a Vehicle/Car Trunk, 0:00:02.002002, 0:00:37.437437, 0:00:39.406073
+6, 2: Person Unloading an Object from a Car/Vehicle, 0:00:01.968635, 0:00:42.909576, 0:00:44.844845
+7, 4: Person Closing a Vehicle/Car Trunk, 0:00:01.968635, 0:00:44.444444, 0:00:46.379713
+
+VIRAT_S_040003_00_000000_000072
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 9: Person carrying an object, 0:00:11.077744, 0:00:10.010010, 0:00:21.054388
+9, 9: Person carrying an object, 0:00:09.309309, 0:00:01.434768, 0:00:10.710711
+
+VIRAT_S_040003_01_000083_000193
+Event ID, Event Type, Event Duration, Event Start, Event End
+15, 2: Person Unloading an Object from a Car/Vehicle, 0:00:04.304304, 0:00:35.068402, 0:00:39.339339
+16, 9: Person carrying an object, 0:00:52.552553, 0:00:38.538539, 0:01:31.057724
+
+VIRAT_S_040003_02_000197_000552
+Event ID, Event Type, Event Duration, Event Start, Event End
+39, 10: Person running, 0:00:07.307307, 0:02:52.172172, 0:02:59.446113
+40, 10: Person running, 0:00:08.041375, 0:02:52.806139, 0:03:00.814147
+44, 2: Person Unloading an Object from a Car/Vehicle, 0:00:05.238572, 0:04:34.374374, 0:04:39.579580
+45, 9: Person carrying an object, 0:00:46.346346, 0:02:13.133133, 0:02:59.446113
+
+VIRAT_S_040003_04_000758_001118
+Event ID, Event Type, Event Duration, Event Start, Event End
+35, 2: Person Unloading an Object from a Car/Vehicle, 0:00:03.636970, 0:03:17.263931, 0:03:20.867534
+41, 2: Person Unloading an Object from a Car/Vehicle, 0:00:04.571238, 0:03:16.896897, 0:03:21.434768
+
+VIRAT_S_040003_05_001123_001437
+Event ID, Event Type, Event Duration, Event Start, Event End
+41, 2: Person Unloading an Object from a Car/Vehicle, 0:00:01.968635, 0:00:36.102769, 0:00:38.038038
+45, 2: Person Unloading an Object from a Car/Vehicle, 0:00:01.968635, 0:03:10.423757, 0:03:12.359026
+46, 9: Person carrying an object, 0:00:41.274608, 0:00:39.205873, 0:01:20.447114
+47, 9: Person carrying an object, 0:00:48.581915, 0:03:14.594595, 0:04:03.143143
+
+VIRAT_S_040005_00_000003_000058
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 5: Person getting into a Vehicle, 0:00:03.803804, 0:00:16.383050, 0:00:20.153487
+
+VIRAT_S_040005_06_000886_001016
+Event ID, Event Type, Event Duration, Event Start, Event End
+16, 9: Person carrying an object, 0:00:02.669336, 0:00:46.880214, 0:00:49.516183
+17, 9: Person carrying an object, 0:00:02.202202, 0:01:14.841508, 0:01:17.010344
+23, 6: Person getting out of a Vehicle, 0:00:03.470137, 0:00:33.633634, 0:00:37.070404
+24, 6: Person getting out of a Vehicle, 0:00:04.938272, 0:00:32.899566, 0:00:37.804471
+25, 3: Person Opening a Vehicle/Car Trunk, 0:00:02.569236, 0:00:38.905572, 0:00:41.441441
+26, 2: Person Unloading an Object from a Car/Vehicle, 0:00:02.068735, 0:00:44.544545, 0:00:46.579913
+27, 2: Person Unloading an Object from a Car/Vehicle, 0:00:01.968635, 0:00:44.544545, 0:00:46.479813
+28, 4: Person Closing a Vehicle/Car Trunk, 0:00:01.968635, 0:00:45.445445, 0:00:47.380714
+29, 3: Person Opening a Vehicle/Car Trunk, 0:00:03.103103, 0:01:18.244912, 0:01:21.314648
+30, 1: Person loading an Object to a Vehicle, 0:00:02.135469, 0:01:21.314648, 0:01:23.416750
+31, 1: Person loading an Object to a Vehicle, 0:00:02.569236, 0:01:21.314648, 0:01:23.850517
+32, 4: Person Closing a Vehicle/Car Trunk, 0:00:01.968635, 0:01:23.450117, 0:01:25.385385
+33, 5: Person getting into a Vehicle, 0:00:04.404404, 0:01:28.154821, 0:01:32.525859
+34, 5: Person getting into a Vehicle, 0:00:03.536870, 0:01:29.756423, 0:01:33.259927
+35, 9: Person carrying an object, 0:00:02.502503, 0:00:46.880214, 0:00:49.349349
+36, 9: Person carrying an object, 0:00:02.268936, 0:01:14.774775, 0:01:17.010344
+
+VIRAT_S_040005_07_001026_001223
+Event ID, Event Type, Event Duration, Event Start, Event End
+18, 9: Person carrying an object, 0:00:10.110110, 0:00:47.814481, 0:00:57.891225
+19, 9: Person carrying an object, 0:00:09.209209, 0:01:17.677678, 0:01:26.853520
+30, 9: Person carrying an object, 0:00:02.435769, 0:03:02.048715, 0:03:04.451118
+31, 6: Person getting out of a Vehicle, 0:00:03.003003, 0:00:35.268602, 0:00:38.238238
+32, 6: Person getting out of a Vehicle, 0:00:02.602603, 0:00:36.102769, 0:00:38.672005
+33, 3: Person Opening a Vehicle/Car Trunk, 0:00:01.968635, 0:00:39.939940, 0:00:41.875209
+34, 2: Person Unloading an Object from a Car/Vehicle, 0:00:02.802803, 0:00:44.477811, 0:00:47.247247
+35, 2: Person Unloading an Object from a Car/Vehicle, 0:00:02.035369, 0:00:45.345345, 0:00:47.347347
+36, 3: Person Opening a Vehicle/Car Trunk, 0:00:02.002002, 0:01:28.421755, 0:01:30.390390
+37, 1: Person loading an Object to a Vehicle, 0:00:03.169837, 0:01:29.956623, 0:01:33.093093
+38, 1: Person loading an Object to a Vehicle, 0:00:02.869536, 0:01:30.457124, 0:01:33.293293
+39, 4: Person Closing a Vehicle/Car Trunk, 0:00:03.203203, 0:01:33.226560, 0:01:36.396396
+40, 5: Person getting into a Vehicle, 0:00:04.804805, 0:01:37.964631, 0:01:42.736069
+41, 5: Person getting into a Vehicle, 0:00:03.470137, 0:01:39.766433, 0:01:43.203203
+42, 6: Person getting out of a Vehicle, 0:00:04.571238, 0:02:50.136803, 0:02:54.674675
+43, 6: Person getting out of a Vehicle, 0:00:03.536870, 0:02:51.037704, 0:02:54.541208
+44, 3: Person Opening a Vehicle/Car Trunk, 0:00:02.802803, 0:02:56.209543, 0:02:58.978979
+45, 2: Person Unloading an Object from a Car/Vehicle, 0:00:02.402402, 0:03:00.480480, 0:03:02.849516
+46, 2: Person Unloading an Object from a Car/Vehicle, 0:00:02.035369, 0:03:00.480480, 0:03:02.482482
+47, 4: Person Closing a Vehicle/Car Trunk, 0:00:01.968635, 0:03:00.714047, 0:03:02.649316
+48, 9: Person carrying an object, 0:00:10.110110, 0:00:47.814481, 0:00:57.891225
+49, 9: Person carrying an object, 0:00:09.209209, 0:01:17.677678, 0:01:26.853520
+50, 9: Person carrying an object, 0:00:02.869536, 0:03:02.048715, 0:03:04.884885
+
+VIRAT_S_040005_08_001225_001276
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 5: Person getting into a Vehicle, 0:00:03.436770, 0:00:13.880547, 0:00:17.283951
+

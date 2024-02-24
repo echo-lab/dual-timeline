@@ -1,0 +1,530 @@
+VIRAT_S_010000_00_000000_000165
+Event ID, Event Type, Event Duration, Event Start, Event End
+19, 9: Person carrying an object, 0:00:43.476810, 0:00:47.147147, 0:01:30.590591
+20, 9: Person carrying an object, 0:00:10.377044, 0:01:00.427094, 0:01:10.770771
+21, 9: Person carrying an object, 0:00:03.403403, 0:01:02.595929, 0:01:05.965966
+22, 9: Person carrying an object, 0:00:16.282950, 0:01:00.093427, 0:01:16.343010
+23, 9: Person carrying an object, 0:00:19.753086, 0:00:56.756757, 0:01:16.476476
+24, 12: Person exiting a facility, 0:00:01.601602, 0:01:20.146813, 0:01:21.715048
+25, 12: Person exiting a facility, 0:00:01.568235, 0:01:21.114448, 0:01:22.649316
+26, 11: Person entering a facility, 0:00:02.435769, 0:01:31.191191, 0:01:33.593594
+27, 9: Person carrying an object, 0:00:17.150484, 0:00:06.406406, 0:00:23.523524
+28, 9: Person carrying an object, 0:00:15.715716, 0:00:07.674341, 0:00:23.356690
+29, 12: Person exiting a facility, 0:00:02.402402, 0:01:37.831164, 0:01:40.200200
+30, 12: Person exiting a facility, 0:00:02.035369, 0:01:37.831164, 0:01:39.833166
+31, 12: Person exiting a facility, 0:00:02.135469, 0:01:38.498498, 0:01:40.600601
+32, 12: Person exiting a facility, 0:00:02.168836, 0:01:44.137471, 0:01:46.272940
+36, 12: Person exiting a facility, 0:00:04.070737, 0:01:05.665666, 0:01:09.703036
+37, 9: Person carrying an object, 0:00:09.342676, 0:00:24.024024, 0:00:33.333333
+
+VIRAT_S_010000_01_000184_000324
+Event ID, Event Type, Event Duration, Event Start, Event End
+34, 9: Person carrying an object, 0:00:49.215883, 0:00:04.971638, 0:00:54.154154
+37, 11: Person entering a facility, 0:00:02.135469, 0:00:55.789122, 0:00:57.891225
+38, 9: Person carrying an object, 0:00:08.475142, 0:01:09.602936, 0:01:18.044711
+39, 11: Person entering a facility, 0:00:02.769436, 0:01:15.675676, 0:01:18.411745
+40, 12: Person exiting a facility, 0:00:01.568235, 0:00:09.509510, 0:00:11.044378
+41, 12: Person exiting a facility, 0:00:02.402402, 0:00:12.012012, 0:00:14.381048
+42, 9: Person carrying an object, 0:00:10.276944, 0:00:13.046380, 0:00:23.289957
+43, 9: Person carrying an object, 0:00:03.970637, 0:00:14.314314, 0:00:18.251585
+44, 12: Person exiting a facility, 0:00:02.268936, 0:00:26.359693, 0:00:28.595262
+45, 12: Person exiting a facility, 0:00:01.701702, 0:00:26.993660, 0:00:28.661995
+46, 9: Person carrying an object, 0:00:31.464798, 0:00:59.359359, 0:01:30.790791
+47, 12: Person exiting a facility, 0:00:01.568235, 0:01:16.009343, 0:01:17.544211
+
+VIRAT_S_010000_03_000442_000528
+Event ID, Event Type, Event Duration, Event Start, Event End
+26, 9: Person carrying an object, 0:00:15.348682, 0:00:22.455789, 0:00:37.771104
+27, 9: Person carrying an object, 0:00:26.459793, 0:00:00, 0:00:26.426426
+29, 11: Person entering a facility, 0:00:03.336670, 0:00:26.226226, 0:00:29.529530
+30, 12: Person exiting a facility, 0:00:01.568235, 0:00:40.040040, 0:00:41.574908
+
+VIRAT_S_010000_04_000530_000605
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 12: Person exiting a facility, 0:00:02.669336, 0:00:07.674341, 0:00:10.310310
+2, 12: Person exiting a facility, 0:00:02.202202, 0:00:08.241575, 0:00:10.410410
+5, 11: Person entering a facility, 0:00:02.769436, 0:00:40.874208, 0:00:43.610277
+6, 11: Person entering a facility, 0:00:02.535869, 0:00:40.974308, 0:00:43.476810
+7, 11: Person entering a facility, 0:00:02.168836, 0:00:46.479813, 0:00:48.615282
+8, 9: Person carrying an object, 0:00:05.405405, 0:00:53.053053, 0:00:58.425092
+9, 9: Person carrying an object, 0:00:24.190858, 0:00:22.055389, 0:00:46.212880
+
+VIRAT_S_010000_05_000638_000718
+Event ID, Event Type, Event Duration, Event Start, Event End
+15, 12: Person exiting a facility, 0:00:05.739072, 0:00:02.769436, 0:00:08.475142
+16, 12: Person exiting a facility, 0:00:02.569236, 0:00:08.742075, 0:00:11.277945
+17, 11: Person entering a facility, 0:00:02.402402, 0:00:44.010677, 0:00:46.379713
+18, 11: Person entering a facility, 0:00:01.568235, 0:00:44.310978, 0:00:45.845846
+
+VIRAT_S_010000_06_000728_000762
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 12: Person exiting a facility, 0:00:01.634968, 0:00:08.108108, 0:00:09.709710
+3, 12: Person exiting a facility, 0:00:01.568235, 0:00:08.775442, 0:00:10.310310
+4, 12: Person exiting a facility, 0:00:01.668335, 0:00:11.077744, 0:00:12.712713
+
+VIRAT_S_010000_07_000827_000860
+Event ID, Event Type, Event Duration, Event Start, Event End
+4, 9: Person carrying an object, 0:00:10.443777, 0:00:00, 0:00:10.410410
+5, 11: Person entering a facility, 0:00:01.568235, 0:00:09.676343, 0:00:11.211211
+6, 9: Person carrying an object, 0:00:20.520521, 0:00:00, 0:00:20.487154
+
+VIRAT_S_010000_08_000893_001024
+Event ID, Event Type, Event Duration, Event Start, Event End
+21, 9: Person carrying an object, 0:00:52.652653, 0:00:19.786453, 0:01:12.405739
+22, 9: Person carrying an object, 0:00:43.176510, 0:00:28.228228, 0:01:11.371371
+23, 11: Person entering a facility, 0:00:02.969636, 0:00:31.664998, 0:00:34.601268
+24, 11: Person entering a facility, 0:00:01.568235, 0:00:34.634635, 0:00:36.169503
+25, 9: Person carrying an object, 0:00:09.843177, 0:00:32.899566, 0:00:42.709376
+26, 9: Person carrying an object, 0:00:03.770437, 0:00:34.934935, 0:00:38.672005
+27, 9: Person carrying an object, 0:00:33.767100, 0:00:28.361695, 0:01:02.095429
+28, 9: Person carrying an object, 0:00:33.033033, 0:00:49.315983, 0:01:22.315649
+29, 9: Person carrying an object, 0:00:35.902569, 0:00:44.911578, 0:01:20.780781
+30, 9: Person carrying an object, 0:00:31.564898, 0:00:51.551552, 0:01:23.083083
+31, 9: Person carrying an object, 0:00:40.040040, 0:00:53.953954, 0:01:33.960627
+32, 9: Person carrying an object, 0:00:25.759092, 0:01:08.234902, 0:01:33.960627
+33, 9: Person carrying an object, 0:00:23.423423, 0:01:10.570571, 0:01:33.960627
+34, 9: Person carrying an object, 0:00:22.055389, 0:01:11.938605, 0:01:33.960627
+35, 12: Person exiting a facility, 0:00:04.304304, 0:01:21.014348, 0:01:25.285285
+36, 12: Person exiting a facility, 0:00:01.568235, 0:01:22.749416, 0:01:24.284284
+
+VIRAT_S_010001_00_000019_000065
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 11: Person entering a facility, 0:00:02.836170, 0:00:07.107107, 0:00:09.909910
+3, 12: Person exiting a facility, 0:00:01.568235, 0:00:08.274942, 0:00:09.809810
+5, 9: Person carrying an object, 0:00:04.871538, 0:00:00, 0:00:04.838172
+6, 9: Person carrying an object, 0:00:06.272940, 0:00:00, 0:00:06.239573
+7, 11: Person entering a facility, 0:00:02.569236, 0:00:20.253587, 0:00:22.789456
+8, 9: Person carrying an object, 0:00:02.202202, 0:00:00, 0:00:02.168836
+
+VIRAT_S_010001_01_000071_000167
+Event ID, Event Type, Event Duration, Event Start, Event End
+40, 9: Person carrying an object, 0:00:12.879546, 0:00:12.746079, 0:00:25.592259
+41, 9: Person carrying an object, 0:00:23.490157, 0:00:48.548549, 0:01:12.005339
+42, 11: Person entering a facility, 0:00:02.235569, 0:00:56.456456, 0:00:58.658659
+43, 9: Person carrying an object, 0:00:03.169837, 0:00:40.040040, 0:00:43.176510
+44, 9: Person carrying an object, 0:00:04.504505, 0:00:51.518185, 0:00:55.989323
+45, 9: Person carrying an object, 0:00:09.175843, 0:00:56.823490, 0:01:05.965966
+46, 11: Person entering a facility, 0:00:02.836170, 0:01:03.630297, 0:01:06.433100
+
+VIRAT_S_010001_02_000195_000498
+Event ID, Event Type, Event Duration, Event Start, Event End
+53, 12: Person exiting a facility, 0:00:01.801802, 0:00:07.007007, 0:00:08.775442
+54, 11: Person entering a facility, 0:00:01.835169, 0:00:30.463797, 0:00:32.265599
+55, 11: Person entering a facility, 0:00:01.568235, 0:00:32.132132, 0:00:33.667000
+56, 12: Person exiting a facility, 0:00:01.568235, 0:00:52.285619, 0:00:53.820487
+57, 9: Person carrying an object, 0:00:05.705706, 0:00:52.752753, 0:00:58.425092
+58, 9: Person carrying an object, 0:00:24.357691, 0:01:58.852186, 0:02:23.176510
+59, 12: Person exiting a facility, 0:00:02.102102, 0:02:04.758091, 0:02:06.826827
+60, 9: Person carrying an object, 0:00:21.921922, 0:02:18.304972, 0:02:40.193527
+61, 11: Person entering a facility, 0:00:02.669336, 0:03:26.373040, 0:03:29.009009
+62, 11: Person entering a facility, 0:00:02.435769, 0:03:33.446780, 0:03:35.849183
+63, 12: Person exiting a facility, 0:00:02.202202, 0:03:43.656990, 0:03:45.825826
+64, 12: Person exiting a facility, 0:00:02.936270, 0:03:45.158492, 0:03:48.061395
+65, 11: Person entering a facility, 0:00:02.002002, 0:03:33.613614, 0:03:35.582249
+66, 12: Person exiting a facility, 0:00:02.068735, 0:03:47.494161, 0:03:49.529530
+67, 12: Person exiting a facility, 0:00:01.568235, 0:03:49.095762, 0:03:50.630631
+68, 10: Person running, 0:00:07.574241, 0:00:05.705706, 0:00:13.246580
+69, 11: Person entering a facility, 0:00:02.469136, 0:00:23.323323, 0:00:25.759092
+70, 9: Person carrying an object, 0:00:18.818819, 0:00:10.010010, 0:00:28.795462
+71, 11: Person entering a facility, 0:00:02.268936, 0:01:34.661328, 0:01:36.896897
+72, 9: Person carrying an object, 0:00:36.870204, 0:02:01.021021, 0:02:37.857858
+73, 9: Person carrying an object, 0:00:29.629630, 0:02:07.594261, 0:02:37.190524
+74, 11: Person entering a facility, 0:00:02.202202, 0:02:35.088422, 0:02:37.257257
+75, 11: Person entering a facility, 0:00:02.902903, 0:03:06.252920, 0:03:09.122456
+76, 9: Person carrying an object, 0:00:08.108108, 0:03:20.200200, 0:03:28.274942
+
+VIRAT_S_010001_03_000537_000563
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 12: Person exiting a facility, 0:00:01.568235, 0:00:05.071738, 0:00:06.606607
+2, 9: Person carrying an object, 0:00:11.344678, 0:00:05.205205, 0:00:16.516517
+3, 9: Person carrying an object, 0:00:09.242576, 0:00:00, 0:00:09.209209
+
+VIRAT_S_010001_04_000583_000646
+Event ID, Event Type, Event Duration, Event Start, Event End
+4, 12: Person exiting a facility, 0:00:04.037371, 0:00:07.240574, 0:00:11.244578
+5, 11: Person entering a facility, 0:00:01.568235, 0:00:10.410410, 0:00:11.945279
+6, 11: Person entering a facility, 0:00:03.603604, 0:00:17.684351, 0:00:21.254588
+7, 9: Person carrying an object, 0:00:05.038372, 0:00:35.735736, 0:00:40.740741
+8, 9: Person carrying an object, 0:00:11.978645, 0:00:09.009009, 0:00:20.954288
+9, 12: Person exiting a facility, 0:00:02.235569, 0:00:38.338338, 0:00:40.540541
+10, 9: Person carrying an object, 0:00:13.446780, 0:00:36.102769, 0:00:49.516183
+11, 9: Person carrying an object, 0:00:02.902903, 0:00:46.613280, 0:00:49.482816
+
+VIRAT_S_010001_05_000649_000684
+Event ID, Event Type, Event Duration, Event Start, Event End
+10, 12: Person exiting a facility, 0:00:02.869536, 0:00:09.776443, 0:00:12.612613
+11, 9: Person carrying an object, 0:00:09.175843, 0:00:09.476143, 0:00:18.618619
+12, 12: Person exiting a facility, 0:00:01.568235, 0:00:03.570237, 0:00:05.105105
+
+VIRAT_S_010001_06_000685_000722
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 12: Person exiting a facility, 0:00:01.568235, 0:00:06.806807, 0:00:08.341675
+2, 11: Person entering a facility, 0:00:02.335669, 0:00:15.749082, 0:00:18.051385
+3, 9: Person carrying an object, 0:00:07.907908, 0:00:10.010010, 0:00:17.884551
+
+VIRAT_S_010001_07_000741_000810
+Event ID, Event Type, Event Duration, Event Start, Event End
+12, 9: Person carrying an object, 0:00:00.433767, 0:00:10.310310, 0:00:10.710711
+13, 12: Person exiting a facility, 0:00:02.235569, 0:00:13.446780, 0:00:15.648982
+14, 11: Person entering a facility, 0:00:02.135469, 0:00:22.722723, 0:00:24.824825
+15, 12: Person exiting a facility, 0:00:01.568235, 0:00:33.466800, 0:00:35.001668
+16, 12: Person exiting a facility, 0:00:01.568235, 0:00:34.334334, 0:00:35.869203
+17, 11: Person entering a facility, 0:00:02.302302, 0:00:36.703370, 0:00:38.972306
+18, 9: Person carrying an object, 0:00:25.458792, 0:00:00.934268, 0:00:26.359693
+19, 9: Person carrying an object, 0:00:07.807808, 0:00:16.383050, 0:00:24.157491
+
+VIRAT_S_010001_08_000826_000893
+Event ID, Event Type, Event Duration, Event Start, Event End
+8, 11: Person entering a facility, 0:00:03.036370, 0:00:04.537871, 0:00:07.540874
+9, 11: Person entering a facility, 0:00:01.735068, 0:00:03.870537, 0:00:05.572239
+10, 11: Person entering a facility, 0:00:02.302302, 0:00:12.846180, 0:00:15.115115
+11, 12: Person exiting a facility, 0:00:01.568235, 0:00:26.860194, 0:00:28.395062
+12, 12: Person exiting a facility, 0:00:03.103103, 0:00:31.297965, 0:00:34.367701
+13, 11: Person entering a facility, 0:00:01.568235, 0:00:34.267601, 0:00:35.802469
+14, 11: Person entering a facility, 0:00:01.568235, 0:00:36.302970, 0:00:37.837838
+15, 9: Person carrying an object, 0:00:09.075742, 0:00:04.804805, 0:00:13.847181
+
+VIRAT_S_010001_09_000921_000952
+Event ID, Event Type, Event Duration, Event Start, Event End
+5, 11: Person entering a facility, 0:00:01.568235, 0:00:04.604605, 0:00:06.139473
+6, 11: Person entering a facility, 0:00:02.769436, 0:00:06.506507, 0:00:09.242576
+7, 11: Person entering a facility, 0:00:01.568235, 0:00:08.174842, 0:00:09.709710
+
+VIRAT_S_010001_10_000962_001005
+Event ID, Event Type, Event Duration, Event Start, Event End
+8, 12: Person exiting a facility, 0:00:03.803804, 0:00:01.768435, 0:00:05.538872
+9, 12: Person exiting a facility, 0:00:02.335669, 0:00:02.202202, 0:00:04.504505
+10, 11: Person entering a facility, 0:00:02.502503, 0:00:04.037371, 0:00:06.506507
+11, 11: Person entering a facility, 0:00:01.735068, 0:00:17.450784, 0:00:19.152486
+12, 9: Person carrying an object, 0:00:02.369036, 0:00:25.692359, 0:00:28.028028
+13, 9: Person carrying an object, 0:00:22.956290, 0:00:05.071738, 0:00:27.994661
+14, 9: Person carrying an object, 0:00:18.018018, 0:00:10.010010, 0:00:27.994661
+15, 9: Person carrying an object, 0:00:09.142476, 0:00:06.473140, 0:00:15.582249
+16, 9: Person carrying an object, 0:00:06.573240, 0:00:04.170838, 0:00:10.710711
+
+VIRAT_S_010002_00_000012_000120
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 11: Person entering a facility, 0:00:03.603604, 0:00:32.432432, 0:00:36.002669
+1, 9: Person carrying an object, 0:00:38.938939, 0:00:28.828829, 0:01:07.734401
+2, 11: Person entering a facility, 0:00:02.002002, 0:01:01.895229, 0:01:03.863864
+3, 11: Person entering a facility, 0:00:02.535869, 0:01:07.701034, 0:01:10.203537
+4, 9: Person carrying an object, 0:00:21.921922, 0:00:20.053387, 0:00:41.941942
+5, 9: Person carrying an object, 0:00:33.333333, 0:00:01.434768, 0:00:34.734735
+6, 9: Person carrying an object, 0:00:30.830831, 0:00:01.434768, 0:00:32.232232
+7, 11: Person entering a facility, 0:00:01.568235, 0:00:31.831832, 0:00:33.366700
+8, 12: Person exiting a facility, 0:00:01.568235, 0:00:27.594261, 0:00:29.129129
+9, 9: Person carrying an object, 0:00:01.034368, 0:00:29.729730, 0:00:30.730731
+10, 9: Person carrying an object, 0:00:17.617618, 0:00:50.050050, 0:01:07.634301
+11, 9: Person carrying an object, 0:00:20.754087, 0:00:30.030030, 0:00:50.750751
+
+VIRAT_S_010002_01_000123_000148
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 12: Person exiting a facility, 0:00:02.202202, 0:00:06.706707, 0:00:08.875542
+
+VIRAT_S_010002_02_000174_000204
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 11: Person entering a facility, 0:00:03.169837, 0:00:07.774441, 0:00:10.910911
+2, 11: Person entering a facility, 0:00:01.568235, 0:00:06.906907, 0:00:08.441775
+3, 9: Person carrying an object, 0:00:09.409409, 0:00:11.945279, 0:00:21.321321
+4, 9: Person carrying an object, 0:00:09.409409, 0:00:11.945279, 0:00:21.321321
+
+VIRAT_S_010002_03_000236_000261
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 9: Person carrying an object, 0:00:16.916917, 0:00:00, 0:00:16.883550
+7, 12: Person exiting a facility, 0:00:01.668335, 0:00:05.772439, 0:00:07.407407
+
+VIRAT_S_010002_04_000307_000350
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 12: Person exiting a facility, 0:00:01.568235, 0:00:03.870537, 0:00:05.405405
+1, 12: Person exiting a facility, 0:00:02.268936, 0:00:10.543877, 0:00:12.779446
+2, 11: Person entering a facility, 0:00:01.735068, 0:00:13.446780, 0:00:15.148482
+3, 12: Person exiting a facility, 0:00:01.568235, 0:00:17.917918, 0:00:19.452786
+4, 12: Person exiting a facility, 0:00:02.602603, 0:00:17.350684, 0:00:19.919920
+6, 9: Person carrying an object, 0:00:08.875542, 0:00:06.339673, 0:00:15.181849
+7, 9: Person carrying an object, 0:00:16.049383, 0:00:13.646980, 0:00:29.662996
+8, 9: Person carrying an object, 0:00:09.409409, 0:00:20.286954, 0:00:29.662996
+9, 9: Person carrying an object, 0:00:09.376043, 0:00:20.320320, 0:00:29.662996
+
+VIRAT_S_010002_06_000441_000467
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 12: Person exiting a facility, 0:00:01.568235, 0:00:03.803804, 0:00:05.338672
+1, 9: Person carrying an object, 0:00:08.174842, 0:00:06.639973, 0:00:14.781448
+
+VIRAT_S_010002_07_000522_000547
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 12: Person exiting a facility, 0:00:01.568235, 0:00:00.467134, 0:00:02.002002
+3, 12: Person exiting a facility, 0:00:01.568235, 0:00:01.968635, 0:00:03.503504
+
+VIRAT_S_010003_00_000000_000108
+Event ID, Event Type, Event Duration, Event Start, Event End
+53, 9: Person carrying an object, 0:00:02.335669, 0:00:00, 0:00:02.302302
+54, 9: Person carrying an object, 0:00:36.903570, 0:00:11.811812, 0:00:48.682015
+55, 11: Person entering a facility, 0:00:01.568235, 0:00:48.381715, 0:00:49.916583
+56, 11: Person entering a facility, 0:00:01.568235, 0:00:49.916583, 0:00:51.451451
+57, 11: Person entering a facility, 0:00:01.568235, 0:00:55.188522, 0:00:56.723390
+59, 11: Person entering a facility, 0:00:02.402402, 0:00:14.314314, 0:00:16.683350
+60, 11: Person entering a facility, 0:00:01.568235, 0:00:22.689356, 0:00:24.224224
+61, 11: Person entering a facility, 0:00:01.668335, 0:00:21.087754, 0:00:22.722723
+62, 11: Person entering a facility, 0:00:01.568235, 0:00:19.386053, 0:00:20.920921
+63, 11: Person entering a facility, 0:00:01.568235, 0:00:19.219219, 0:00:20.754087
+65, 11: Person entering a facility, 0:00:01.668335, 0:00:55.221889, 0:00:56.856857
+66, 11: Person entering a facility, 0:00:01.568235, 0:00:50.316984, 0:00:51.851852
+67, 11: Person entering a facility, 0:00:01.568235, 0:00:50.116783, 0:00:51.651652
+68, 11: Person entering a facility, 0:00:01.568235, 0:00:50.517184, 0:00:52.052052
+69, 12: Person exiting a facility, 0:00:01.668335, 0:00:59.759760, 0:01:01.394728
+70, 12: Person exiting a facility, 0:00:01.568235, 0:01:01.594928, 0:01:03.129796
+72, 11: Person entering a facility, 0:00:01.568235, 0:01:15.008342, 0:01:16.543210
+73, 9: Person carrying an object, 0:00:13.747080, 0:01:12.639306, 0:01:26.353020
+74, 12: Person exiting a facility, 0:00:01.568235, 0:00:00.533867, 0:00:02.068735
+75, 9: Person carrying an object, 0:00:32.632633, 0:00:37.904571, 0:01:10.503837
+76, 9: Person carrying an object, 0:00:05.538872, 0:00:03.336670, 0:00:08.842176
+77, 9: Person carrying an object, 0:00:38.538539, 0:00:12.779446, 0:00:51.284618
+78, 9: Person carrying an object, 0:00:27.293961, 0:00:13.480147, 0:00:40.740741
+79, 9: Person carrying an object, 0:00:19.886553, 0:00:30.897564, 0:00:50.750751
+80, 9: Person carrying an object, 0:00:13.580247, 0:00:50.050050, 0:01:03.596930
+81, 9: Person carrying an object, 0:00:05.205205, 0:00:39.539540, 0:00:44.711378
+82, 11: Person entering a facility, 0:00:04.204204, 0:00:47.013680, 0:00:51.184518
+83, 9: Person carrying an object, 0:00:13.546880, 0:01:12.839506, 0:01:26.353020
+84, 9: Person carrying an object, 0:00:10.276944, 0:00:50.050050, 0:01:00.293627
+85, 9: Person carrying an object, 0:00:20.987654, 0:00:29.796463, 0:00:50.750751
+
+VIRAT_S_010003_01_000111_000137
+Event ID, Event Type, Event Duration, Event Start, Event End
+11, 12: Person exiting a facility, 0:00:01.968635, 0:00:06.406406, 0:00:08.341675
+12, 9: Person carrying an object, 0:00:03.169837, 0:00:07.574241, 0:00:10.710711
+13, 9: Person carrying an object, 0:00:05.939273, 0:00:10.010010, 0:00:15.915916
+14, 9: Person carrying an object, 0:00:02.936270, 0:00:14.881548, 0:00:17.784451
+15, 9: Person carrying an object, 0:00:02.936270, 0:00:14.881548, 0:00:17.784451
+16, 9: Person carrying an object, 0:00:07.807808, 0:00:10.010010, 0:00:17.784451
+
+VIRAT_S_010003_02_000165_000202
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 12: Person exiting a facility, 0:00:01.568235, 0:00:07.140474, 0:00:08.675342
+3, 11: Person entering a facility, 0:00:01.568235, 0:00:17.951285, 0:00:19.486153
+4, 11: Person entering a facility, 0:00:01.568235, 0:00:18.418418, 0:00:19.953287
+5, 11: Person entering a facility, 0:00:03.036370, 0:00:00, 0:00:03.003003
+6, 9: Person carrying an object, 0:00:28.094761, 0:00:00, 0:00:28.061395
+7, 9: Person carrying an object, 0:00:15.015015, 0:00:05.638972, 0:00:20.620621
+8, 9: Person carrying an object, 0:00:19.853187, 0:00:08.241575, 0:00:28.061395
+9, 9: Person carrying an object, 0:00:06.139473, 0:00:11.811812, 0:00:17.917918
+
+VIRAT_S_010003_03_000219_000259
+Event ID, Event Type, Event Duration, Event Start, Event End
+6, 9: Person carrying an object, 0:00:01.301301, 0:00:00, 0:00:01.267935
+7, 9: Person carrying an object, 0:00:22.989656, 0:00:00, 0:00:22.956290
+8, 9: Person carrying an object, 0:00:09.843177, 0:00:00.834168, 0:00:10.643977
+9, 12: Person exiting a facility, 0:00:01.568235, 0:00:09.209209, 0:00:10.744077
+10, 9: Person carrying an object, 0:00:04.537871, 0:00:00, 0:00:04.504505
+11, 9: Person carrying an object, 0:00:14.647981, 0:00:17.350684, 0:00:31.965299
+
+VIRAT_S_010003_05_000499_000523
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 9: Person carrying an object, 0:00:09.676343, 0:00:00, 0:00:09.642976
+1, 9: Person carrying an object, 0:00:17.917918, 0:00:00, 0:00:17.884551
+2, 9: Person carrying an object, 0:00:17.917918, 0:00:00, 0:00:17.884551
+
+VIRAT_S_010003_06_000526_000560
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 11: Person entering a facility, 0:00:01.768435, 0:00:01.968635, 0:00:03.703704
+1, 12: Person exiting a facility, 0:00:01.568235, 0:00:04.204204, 0:00:05.739072
+2, 9: Person carrying an object, 0:00:10.543877, 0:00:00, 0:00:10.510511
+3, 9: Person carrying an object, 0:00:20.754087, 0:00:00, 0:00:20.720721
+4, 9: Person carrying an object, 0:00:03.036370, 0:00:19.452786, 0:00:22.455789
+
+VIRAT_S_010003_07_000608_000636
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 9: Person carrying an object, 0:00:13.513514, 0:00:00, 0:00:13.480147
+1, 9: Person carrying an object, 0:00:02.669336, 0:00:13.847181, 0:00:16.483150
+
+VIRAT_S_010003_08_000739_000778
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 9: Person carrying an object, 0:00:13.980647, 0:00:00, 0:00:13.947281
+3, 11: Person entering a facility, 0:00:02.102102, 0:00:07.440774, 0:00:09.509510
+4, 11: Person entering a facility, 0:00:01.634968, 0:00:09.175843, 0:00:10.777444
+5, 12: Person exiting a facility, 0:00:01.568235, 0:00:18.818819, 0:00:20.353687
+6, 9: Person carrying an object, 0:00:09.175843, 0:00:20.820821, 0:00:29.963297
+
+VIRAT_S_010003_09_000779_000861
+Event ID, Event Type, Event Duration, Event Start, Event End
+26, 11: Person entering a facility, 0:00:01.568235, 0:00:46.813480, 0:00:48.348348
+27, 11: Person entering a facility, 0:00:01.568235, 0:00:45.945946, 0:00:47.480814
+28, 11: Person entering a facility, 0:00:01.568235, 0:00:44.744745, 0:00:46.279613
+29, 11: Person entering a facility, 0:00:01.701702, 0:00:43.176510, 0:00:44.844845
+30, 9: Person carrying an object, 0:00:41.074408, 0:00:03.470137, 0:00:44.511178
+
+VIRAT_S_010003_10_000901_000934
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 9: Person carrying an object, 0:00:08.074741, 0:00:01.968635, 0:00:10.010010
+1, 9: Person carrying an object, 0:00:10.643977, 0:00:10.643977, 0:00:21.254588
+2, 11: Person entering a facility, 0:00:01.568235, 0:00:02.902903, 0:00:04.437771
+3, 12: Person exiting a facility, 0:00:01.568235, 0:00:11.478145, 0:00:13.013013
+4, 9: Person carrying an object, 0:00:19.252586, 0:00:02.035369, 0:00:21.254588
+5, 9: Person carrying an object, 0:00:04.104104, 0:00:00, 0:00:04.070737
+6, 9: Person carrying an object, 0:00:14.814815, 0:00:06.473140, 0:00:21.254588
+
+VIRAT_S_010003_11_000956_000982
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 11: Person entering a facility, 0:00:02.836170, 0:00:05.839173, 0:00:08.641975
+3, 11: Person entering a facility, 0:00:02.202202, 0:00:06.373040, 0:00:08.541875
+
+VIRAT_S_010003_12_001009_001057
+Event ID, Event Type, Event Duration, Event Start, Event End
+36, 9: Person carrying an object, 0:00:20.553887, 0:00:00, 0:00:20.520521
+37, 12: Person exiting a facility, 0:00:02.202202, 0:00:07.240574, 0:00:09.409409
+38, 12: Person exiting a facility, 0:00:02.168836, 0:00:07.507508, 0:00:09.642976
+39, 11: Person entering a facility, 0:00:01.568235, 0:00:25.658992, 0:00:27.193861
+40, 9: Person carrying an object, 0:00:10.310310, 0:00:25.959293, 0:00:36.236236
+41, 11: Person entering a facility, 0:00:01.568235, 0:00:35.135135, 0:00:36.670003
+
+VIRAT_S_010003_13_001066_001124
+Event ID, Event Type, Event Duration, Event Start, Event End
+45, 9: Person carrying an object, 0:00:07.474141, 0:00:32.332332, 0:00:39.773106
+46, 9: Person carrying an object, 0:00:09.776443, 0:00:30.030030, 0:00:39.773106
+47, 9: Person carrying an object, 0:00:13.546880, 0:00:00, 0:00:13.513514
+
+VIRAT_S_010003_14_001127_001190
+Event ID, Event Type, Event Duration, Event Start, Event End
+17, 9: Person carrying an object, 0:00:06.706707, 0:00:00, 0:00:06.673340
+18, 12: Person exiting a facility, 0:00:01.568235, 0:00:26.526527, 0:00:28.061395
+19, 9: Person carrying an object, 0:00:13.113113, 0:00:16.049383, 0:00:29.129129
+20, 9: Person carrying an object, 0:00:17.417417, 0:00:25.125125, 0:00:42.509176
+
+VIRAT_S_010004_00_000064_000100
+Event ID, Event Type, Event Duration, Event Start, Event End
+14, 9: Person carrying an object, 0:00:21.588255, 0:00:00, 0:00:21.554888
+15, 12: Person exiting a facility, 0:00:01.568235, 0:00:10.643977, 0:00:12.178846
+16, 12: Person exiting a facility, 0:00:01.568235, 0:00:10.777444, 0:00:12.312312
+17, 9: Person carrying an object, 0:00:14.180848, 0:00:07.407407, 0:00:21.554888
+18, 9: Person carrying an object, 0:00:09.943277, 0:00:10.810811, 0:00:20.720721
+19, 9: Person carrying an object, 0:00:03.403403, 0:00:10.143477, 0:00:13.513514
+
+VIRAT_S_010004_01_000163_000188
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 9: Person carrying an object, 0:00:12.479146, 0:00:04.437771, 0:00:16.883550
+2, 12: Person exiting a facility, 0:00:02.168836, 0:00:06.039373, 0:00:08.174842
+3, 12: Person exiting a facility, 0:00:02.669336, 0:00:06.139473, 0:00:08.775442
+4, 9: Person carrying an object, 0:00:07.240574, 0:00:03.003003, 0:00:10.210210
+5, 9: Person carrying an object, 0:00:11.711712, 0:00:05.205205, 0:00:16.883550
+
+VIRAT_S_010004_02_000191_000237
+Event ID, Event Type, Event Duration, Event Start, Event End
+19, 9: Person carrying an object, 0:00:06.106106, 0:00:00, 0:00:06.072739
+20, 9: Person carrying an object, 0:00:18.051385, 0:00:00, 0:00:18.018018
+21, 11: Person entering a facility, 0:00:01.835169, 0:00:19.252586, 0:00:21.054388
+22, 11: Person entering a facility, 0:00:02.035369, 0:00:20.286954, 0:00:22.288956
+23, 9: Person carrying an object, 0:00:05.905906, 0:00:00, 0:00:05.872539
+
+VIRAT_S_010004_03_000239_000277
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 11: Person entering a facility, 0:00:01.568235, 0:00:09.743076, 0:00:11.277945
+2, 12: Person exiting a facility, 0:00:01.568235, 0:00:19.319319, 0:00:20.854188
+3, 9: Person carrying an object, 0:00:24.124124, 0:00:05.572239, 0:00:29.662996
+4, 9: Person carrying an object, 0:00:05.839173, 0:00:06.506507, 0:00:12.312312
+5, 9: Person carrying an object, 0:00:20.887554, 0:00:00, 0:00:20.854188
+
+VIRAT_S_010004_06_000547_000715
+Event ID, Event Type, Event Duration, Event Start, Event End
+23, 12: Person exiting a facility, 0:00:03.069736, 0:00:03.069736, 0:00:06.106106
+24, 12: Person exiting a facility, 0:00:02.502503, 0:00:07.741074, 0:00:10.210210
+25, 12: Person exiting a facility, 0:00:03.770437, 0:00:10.443777, 0:00:14.180848
+26, 12: Person exiting a facility, 0:00:03.803804, 0:00:24.858192, 0:00:28.628629
+27, 12: Person exiting a facility, 0:00:03.169837, 0:00:25.825826, 0:00:28.962296
+28, 7: Person gesturing, 0:00:03.269937, 0:00:31.798465, 0:00:35.035035
+29, 12: Person exiting a facility, 0:00:02.369036, 0:00:45.178512, 0:00:47.514181
+30, 7: Person gesturing, 0:00:02.435769, 0:00:58.925592, 0:01:01.327995
+31, 12: Person exiting a facility, 0:00:01.634968, 0:00:08.341675, 0:00:09.943277
+32, 12: Person exiting a facility, 0:00:02.836170, 0:00:11.177845, 0:00:13.980647
+33, 9: Person carrying an object, 0:00:08.875542, 0:00:00, 0:00:08.842176
+34, 9: Person carrying an object, 0:00:01.601602, 0:00:00, 0:00:01.568235
+35, 9: Person carrying an object, 0:00:03.403403, 0:00:00, 0:00:03.370037
+36, 12: Person exiting a facility, 0:00:01.568235, 0:00:09.609610, 0:00:11.144478
+37, 9: Person carrying an object, 0:00:19.285953, 0:00:06.172840, 0:00:25.425425
+38, 9: Person carrying an object, 0:00:24.891558, 0:00:10.510511, 0:00:35.368702
+39, 9: Person carrying an object, 0:00:21.187855, 0:00:10.377044, 0:00:31.531532
+40, 9: Person carrying an object, 0:00:13.780447, 0:00:26.993660, 0:00:40.740741
+41, 9: Person carrying an object, 0:00:13.646980, 0:00:27.127127, 0:00:40.740741
+42, 9: Person carrying an object, 0:00:33.466800, 0:00:30.497164, 0:01:03.930597
+43, 9: Person carrying an object, 0:00:00.834168, 0:00:45.045045, 0:00:45.845846
+44, 9: Person carrying an object, 0:00:13.847181, 0:00:46.946947, 0:01:00.760761
+46, 9: Person carrying an object, 0:00:17.317317, 0:01:24.084084, 0:01:41.368035
+47, 9: Person carrying an object, 0:00:37.270604, 0:01:10.704037, 0:01:47.941275
+48, 9: Person carrying an object, 0:00:21.955289, 0:00:54.888222, 0:01:16.810143
+49, 9: Person carrying an object, 0:00:44.678011, 0:01:17.677678, 0:02:02.322322
+50, 9: Person carrying an object, 0:00:11.444778, 0:01:32.325659, 0:01:43.737070
+51, 10: Person running, 0:00:00.066733, 0:01:50.777444, 0:01:50.810811
+52, 9: Person carrying an object, 0:00:45.412079, 0:01:19.679680, 0:02:05.058392
+53, 9: Person carrying an object, 0:00:45.879213, 0:01:19.746413, 0:02:05.592259
+54, 9: Person carrying an object, 0:00:14.547881, 0:01:40.900901, 0:01:55.415415
+
+VIRAT_S_010004_07_000729_000809
+Event ID, Event Type, Event Duration, Event Start, Event End
+20, 9: Person carrying an object, 0:00:25.859193, 0:00:00, 0:00:25.825826
+21, 9: Person carrying an object, 0:00:22.655989, 0:00:20.086753, 0:00:42.709376
+22, 12: Person exiting a facility, 0:00:02.068735, 0:00:27.861195, 0:00:29.896563
+23, 11: Person entering a facility, 0:00:02.669336, 0:00:31.364698, 0:00:34.000667
+24, 11: Person entering a facility, 0:00:02.535869, 0:00:32.032032, 0:00:34.534535
+25, 10: Person running, 0:00:04.604605, 0:00:50.717384, 0:00:55.288622
+26, 11: Person entering a facility, 0:00:02.902903, 0:00:24.791458, 0:00:27.660994
+27, 9: Person carrying an object, 0:00:17.317317, 0:00:03.436770, 0:00:20.720721
+29, 9: Person carrying an object, 0:00:14.247581, 0:00:10.110110, 0:00:24.324324
+30, 9: Person carrying an object, 0:00:35.935936, 0:00:15.115115, 0:00:51.017684
+31, 9: Person carrying an object, 0:00:08.174842, 0:00:25.025025, 0:00:33.166500
+32, 9: Person carrying an object, 0:00:05.472139, 0:00:28.228228, 0:00:33.667000
+33, 12: Person exiting a facility, 0:00:01.568235, 0:00:36.169503, 0:00:37.704371
+34, 9: Person carrying an object, 0:00:22.689356, 0:00:40.440440, 0:01:03.096430
+36, 10: Person running, 0:00:03.970637, 0:00:46.813480, 0:00:50.750751
+
+VIRAT_S_010004_08_000811_000920
+Event ID, Event Type, Event Duration, Event Start, Event End
+22, 11: Person entering a facility, 0:00:04.938272, 0:00:19.119119, 0:00:24.024024
+23, 11: Person entering a facility, 0:00:02.235569, 0:00:24.024024, 0:00:26.226226
+24, 11: Person entering a facility, 0:00:02.302302, 0:01:06.433100, 0:01:08.702035
+25, 11: Person entering a facility, 0:00:04.471138, 0:01:06.966967, 0:01:11.404738
+
+VIRAT_S_010005_00_000048_000075
+Event ID, Event Type, Event Duration, Event Start, Event End
+2, 12: Person exiting a facility, 0:00:02.168836, 0:00:07.407407, 0:00:09.542876
+
+VIRAT_S_010005_01_000085_000164
+Event ID, Event Type, Event Duration, Event Start, Event End
+24, 11: Person entering a facility, 0:00:01.735068, 0:00:02.102102, 0:00:03.803804
+25, 12: Person exiting a facility, 0:00:02.802803, 0:00:13.079746, 0:00:15.849183
+26, 12: Person exiting a facility, 0:00:02.535869, 0:00:13.079746, 0:00:15.582249
+27, 11: Person entering a facility, 0:00:01.935269, 0:00:30.830831, 0:00:32.732733
+28, 12: Person exiting a facility, 0:00:01.668335, 0:00:37.437437, 0:00:39.072406
+
+VIRAT_S_010005_02_000177_000203
+Event ID, Event Type, Event Duration, Event Start, Event End
+3, 12: Person exiting a facility, 0:00:01.568235, 0:00:01.735068, 0:00:03.269937
+4, 10: Person running, 0:00:05.372039, 0:00:08.174842, 0:00:13.513514
+
+VIRAT_S_010005_03_000215_000270
+Event ID, Event Type, Event Duration, Event Start, Event End
+21, 11: Person entering a facility, 0:00:01.868535, 0:00:06.473140, 0:00:08.308308
+22, 11: Person entering a facility, 0:00:02.135469, 0:00:07.440774, 0:00:09.542876
+23, 12: Person exiting a facility, 0:00:02.936270, 0:00:10.243577, 0:00:13.146480
+24, 12: Person exiting a facility, 0:00:03.670337, 0:00:10.243577, 0:00:13.880547
+25, 12: Person exiting a facility, 0:00:01.568235, 0:00:13.713714, 0:00:15.248582
+26, 12: Person exiting a facility, 0:00:01.568235, 0:00:14.581248, 0:00:16.116116
+
+VIRAT_S_010005_04_000299_000323
+Event ID, Event Type, Event Duration, Event Start, Event End
+4, 9: Person carrying an object, 0:00:07.674341, 0:00:08.775442, 0:00:16.416416
+
+VIRAT_S_010005_05_000397_000430
+Event ID, Event Type, Event Duration, Event Start, Event End
+1, 11: Person entering a facility, 0:00:02.569236, 0:00:07.273941, 0:00:09.809810
+
+VIRAT_S_010005_07_000535_000584
+Event ID, Event Type, Event Duration, Event Start, Event End
+22, 11: Person entering a facility, 0:00:02.602603, 0:00:02.569236, 0:00:05.138472
+23, 11: Person entering a facility, 0:00:01.701702, 0:00:10.577244, 0:00:12.245579
+24, 11: Person entering a facility, 0:00:03.136470, 0:00:09.676343, 0:00:12.779446
+
+VIRAT_S_010005_08_000647_000693
+Event ID, Event Type, Event Duration, Event Start, Event End
+0, 11: Person entering a facility, 0:00:01.568235, 0:00:16.116116, 0:00:17.650984
+1, 11: Person entering a facility, 0:00:02.769436, 0:00:16.816817, 0:00:19.552886
+2, 12: Person exiting a facility, 0:00:02.702703, 0:00:01.735068, 0:00:04.404404
+3, 11: Person entering a facility, 0:00:01.668335, 0:00:26.793460, 0:00:28.428428
+
