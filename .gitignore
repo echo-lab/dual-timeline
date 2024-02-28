@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#
+pre-data/four-largest-annotations/VIRAT_S_0002_VIDEOS
+pre-data/four-largest-annotations/VIRAT_S_0100_VIDEOS
+pre-data/four-largest-annotations/VIRAT_S_0102_VIDEOS
+pre-data/four-largest-annotations/VIRAT_S_0400_VIDEOS
+
