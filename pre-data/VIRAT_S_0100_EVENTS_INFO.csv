@@ -1,366 +1,366 @@
-Video Name                      ,Event ID ,Event Type                     ,Event Duration (f) ,Event Start (f)
-VIRAT_S_010003_01_000111_000137 ,      11 ,12: Person exiting a facility  ,                59 ,            192
-VIRAT_S_010003_01_000111_000137 ,      12 ,9: Person carrying an object   ,                95 ,            227
-VIRAT_S_010003_01_000111_000137 ,      13 ,9: Person carrying an object   ,               178 ,            300
-VIRAT_S_010003_01_000111_000137 ,      14 ,9: Person carrying an object   ,                88 ,            446
-VIRAT_S_010003_01_000111_000137 ,      15 ,9: Person carrying an object   ,                88 ,            446
-VIRAT_S_010003_01_000111_000137 ,      16 ,9: Person carrying an object   ,               234 ,            300
-VIRAT_S_010000_00_000000_000165 ,      19 ,9: Person carrying an object   ,              1303 ,           1413
-VIRAT_S_010000_00_000000_000165 ,      20 ,9: Person carrying an object   ,               311 ,           1811
-VIRAT_S_010000_00_000000_000165 ,      21 ,9: Person carrying an object   ,               102 ,           1876
-VIRAT_S_010000_00_000000_000165 ,      22 ,9: Person carrying an object   ,               488 ,           1801
-VIRAT_S_010000_00_000000_000165 ,      23 ,9: Person carrying an object   ,               592 ,           1701
-VIRAT_S_010000_00_000000_000165 ,      24 ,12: Person exiting a facility  ,                48 ,           2402
-VIRAT_S_010000_00_000000_000165 ,      25 ,12: Person exiting a facility  ,                47 ,           2431
-VIRAT_S_010000_00_000000_000165 ,      26 ,11: Person entering a facility ,                73 ,           2733
-VIRAT_S_010000_00_000000_000165 ,      27 ,9: Person carrying an object   ,               514 ,            192
-VIRAT_S_010000_00_000000_000165 ,      28 ,9: Person carrying an object   ,               471 ,            230
-VIRAT_S_010000_00_000000_000165 ,      29 ,12: Person exiting a facility  ,                72 ,           2932
-VIRAT_S_010000_00_000000_000165 ,      30 ,12: Person exiting a facility  ,                61 ,           2932
-VIRAT_S_010000_00_000000_000165 ,      31 ,12: Person exiting a facility  ,                64 ,           2952
-VIRAT_S_010000_00_000000_000165 ,      32 ,12: Person exiting a facility  ,                65 ,           3121
-VIRAT_S_010000_00_000000_000165 ,      36 ,12: Person exiting a facility  ,               122 ,           1968
-VIRAT_S_010000_00_000000_000165 ,      37 ,9: Person carrying an object   ,               280 ,            720
-VIRAT_S_010000_01_000184_000324 ,      34 ,9: Person carrying an object   ,              1475 ,            149
-VIRAT_S_010000_01_000184_000324 ,      37 ,11: Person entering a facility ,                64 ,           1672
-VIRAT_S_010000_01_000184_000324 ,      38 ,9: Person carrying an object   ,               254 ,           2086
-VIRAT_S_010000_01_000184_000324 ,      39 ,11: Person entering a facility ,                83 ,           2268
-VIRAT_S_010000_01_000184_000324 ,      40 ,12: Person exiting a facility  ,                47 ,            285
-VIRAT_S_010000_01_000184_000324 ,      41 ,12: Person exiting a facility  ,                72 ,            360
-VIRAT_S_010000_01_000184_000324 ,      42 ,9: Person carrying an object   ,               308 ,            391
-VIRAT_S_010000_01_000184_000324 ,      43 ,9: Person carrying an object   ,               119 ,            429
-VIRAT_S_010000_01_000184_000324 ,      44 ,12: Person exiting a facility  ,                68 ,            790
-VIRAT_S_010000_01_000184_000324 ,      45 ,12: Person exiting a facility  ,                51 ,            809
-VIRAT_S_010000_01_000184_000324 ,      46 ,9: Person carrying an object   ,               943 ,           1779
-VIRAT_S_010000_01_000184_000324 ,      47 ,12: Person exiting a facility  ,                47 ,           2278
-VIRAT_S_010000_03_000442_000528 ,      26 ,9: Person carrying an object   ,               460 ,            673
-VIRAT_S_010000_03_000442_000528 ,      27 ,9: Person carrying an object   ,               793 ,              0
-VIRAT_S_010000_03_000442_000528 ,      29 ,11: Person entering a facility ,               100 ,            786
-VIRAT_S_010000_03_000442_000528 ,      30 ,12: Person exiting a facility  ,                47 ,           1200
-VIRAT_S_010000_04_000530_000605 ,       1 ,12: Person exiting a facility  ,                80 ,            230
-VIRAT_S_010000_04_000530_000605 ,       2 ,12: Person exiting a facility  ,                66 ,            247
-VIRAT_S_010000_04_000530_000605 ,       5 ,11: Person entering a facility ,                83 ,           1225
-VIRAT_S_010000_04_000530_000605 ,       6 ,11: Person entering a facility ,                76 ,           1228
-VIRAT_S_010000_04_000530_000605 ,       7 ,11: Person entering a facility ,                65 ,           1393
-VIRAT_S_010000_04_000530_000605 ,       8 ,9: Person carrying an object   ,               162 ,           1590
-VIRAT_S_010000_04_000530_000605 ,       9 ,9: Person carrying an object   ,               725 ,            661
-VIRAT_S_010000_05_000638_000718 ,      15 ,12: Person exiting a facility  ,               172 ,             83
-VIRAT_S_010000_05_000638_000718 ,      16 ,12: Person exiting a facility  ,                77 ,            262
-VIRAT_S_010000_05_000638_000718 ,      17 ,11: Person entering a facility ,                72 ,           1319
-VIRAT_S_010000_05_000638_000718 ,      18 ,11: Person entering a facility ,                47 ,           1328
-VIRAT_S_010000_06_000728_000762 ,       2 ,12: Person exiting a facility  ,                49 ,            243
-VIRAT_S_010000_06_000728_000762 ,       3 ,12: Person exiting a facility  ,                47 ,            263
-VIRAT_S_010000_06_000728_000762 ,       4 ,12: Person exiting a facility  ,                50 ,            332
-VIRAT_S_010000_07_000827_000860 ,       4 ,9: Person carrying an object   ,               313 ,              0
-VIRAT_S_010000_07_000827_000860 ,       5 ,11: Person entering a facility ,                47 ,            290
-VIRAT_S_010000_07_000827_000860 ,       6 ,9: Person carrying an object   ,               615 ,              0
-VIRAT_S_010000_08_000893_001024 ,      21 ,9: Person carrying an object   ,              1578 ,            593
-VIRAT_S_010000_08_000893_001024 ,      22 ,9: Person carrying an object   ,              1294 ,            846
-VIRAT_S_010000_08_000893_001024 ,      23 ,11: Person entering a facility ,                89 ,            949
-VIRAT_S_010000_08_000893_001024 ,      24 ,11: Person entering a facility ,                47 ,           1038
-VIRAT_S_010000_08_000893_001024 ,      25 ,9: Person carrying an object   ,               295 ,            986
-VIRAT_S_010000_08_000893_001024 ,      26 ,9: Person carrying an object   ,               113 ,           1047
-VIRAT_S_010000_08_000893_001024 ,      27 ,9: Person carrying an object   ,              1012 ,            850
-VIRAT_S_010000_08_000893_001024 ,      28 ,9: Person carrying an object   ,               990 ,           1478
-VIRAT_S_010000_08_000893_001024 ,      29 ,9: Person carrying an object   ,              1076 ,           1346
-VIRAT_S_010000_08_000893_001024 ,      30 ,9: Person carrying an object   ,               946 ,           1545
-VIRAT_S_010000_08_000893_001024 ,      31 ,9: Person carrying an object   ,              1200 ,           1617
-VIRAT_S_010000_08_000893_001024 ,      32 ,9: Person carrying an object   ,               772 ,           2045
-VIRAT_S_010000_08_000893_001024 ,      33 ,9: Person carrying an object   ,               702 ,           2115
-VIRAT_S_010000_08_000893_001024 ,      34 ,9: Person carrying an object   ,               661 ,           2156
-VIRAT_S_010000_08_000893_001024 ,      35 ,12: Person exiting a facility  ,               129 ,           2428
-VIRAT_S_010000_08_000893_001024 ,      36 ,12: Person exiting a facility  ,                47 ,           2480
-VIRAT_S_010001_00_000019_000065 ,       2 ,11: Person entering a facility ,                85 ,            213
-VIRAT_S_010001_00_000019_000065 ,       3 ,12: Person exiting a facility  ,                47 ,            248
-VIRAT_S_010001_00_000019_000065 ,       5 ,9: Person carrying an object   ,               146 ,              0
-VIRAT_S_010001_00_000019_000065 ,       6 ,9: Person carrying an object   ,               188 ,              0
-VIRAT_S_010001_00_000019_000065 ,       7 ,11: Person entering a facility ,                77 ,            607
-VIRAT_S_010001_00_000019_000065 ,       8 ,9: Person carrying an object   ,                66 ,              0
-VIRAT_S_010001_01_000071_000167 ,      40 ,9: Person carrying an object   ,               386 ,            382
-VIRAT_S_010001_01_000071_000167 ,      41 ,9: Person carrying an object   ,               704 ,           1455
-VIRAT_S_010001_01_000071_000167 ,      42 ,11: Person entering a facility ,                67 ,           1692
-VIRAT_S_010001_01_000071_000167 ,      43 ,9: Person carrying an object   ,                95 ,           1200
-VIRAT_S_010001_01_000071_000167 ,      44 ,9: Person carrying an object   ,               135 ,           1544
-VIRAT_S_010001_01_000071_000167 ,      45 ,9: Person carrying an object   ,               275 ,           1703
-VIRAT_S_010001_01_000071_000167 ,      46 ,11: Person entering a facility ,                85 ,           1907
-VIRAT_S_010001_02_000195_000498 ,      53 ,12: Person exiting a facility  ,                54 ,            210
-VIRAT_S_010001_02_000195_000498 ,      54 ,11: Person entering a facility ,                55 ,            913
-VIRAT_S_010001_02_000195_000498 ,      55 ,11: Person entering a facility ,                47 ,            963
-VIRAT_S_010001_02_000195_000498 ,      56 ,12: Person exiting a facility  ,                47 ,           1567
-VIRAT_S_010001_02_000195_000498 ,      57 ,9: Person carrying an object   ,               171 ,           1581
-VIRAT_S_010001_02_000195_000498 ,      58 ,9: Person carrying an object   ,               730 ,           3562
-VIRAT_S_010001_02_000195_000498 ,      59 ,12: Person exiting a facility  ,                63 ,           3739
-VIRAT_S_010001_02_000195_000498 ,      60 ,9: Person carrying an object   ,               657 ,           4145
-VIRAT_S_010001_02_000195_000498 ,      61 ,11: Person entering a facility ,                80 ,           6185
-VIRAT_S_010001_02_000195_000498 ,      62 ,11: Person entering a facility ,                73 ,           6397
-VIRAT_S_010001_02_000195_000498 ,      63 ,12: Person exiting a facility  ,                66 ,           6703
-VIRAT_S_010001_02_000195_000498 ,      64 ,12: Person exiting a facility  ,                88 ,           6748
-VIRAT_S_010001_02_000195_000498 ,      65 ,11: Person entering a facility ,                60 ,           6402
-VIRAT_S_010001_02_000195_000498 ,      66 ,12: Person exiting a facility  ,                62 ,           6818
-VIRAT_S_010001_02_000195_000498 ,      67 ,12: Person exiting a facility  ,                47 ,           6866
-VIRAT_S_010001_02_000195_000498 ,      68 ,10: Person running             ,               227 ,            171
-VIRAT_S_010001_02_000195_000498 ,      69 ,11: Person entering a facility ,                74 ,            699
-VIRAT_S_010001_02_000195_000498 ,      70 ,9: Person carrying an object   ,               564 ,            300
-VIRAT_S_010001_02_000195_000498 ,      71 ,11: Person entering a facility ,                68 ,           2837
-VIRAT_S_010001_02_000195_000498 ,      72 ,9: Person carrying an object   ,              1105 ,           3627
-VIRAT_S_010001_02_000195_000498 ,      73 ,9: Person carrying an object   ,               888 ,           3824
-VIRAT_S_010001_02_000195_000498 ,      74 ,11: Person entering a facility ,                66 ,           4648
-VIRAT_S_010001_02_000195_000498 ,      75 ,11: Person entering a facility ,                87 ,           5582
-VIRAT_S_010001_02_000195_000498 ,      76 ,9: Person carrying an object   ,               243 ,           6000
-VIRAT_S_010001_03_000537_000563 ,       1 ,12: Person exiting a facility  ,                47 ,            152
-VIRAT_S_010001_03_000537_000563 ,       2 ,9: Person carrying an object   ,               340 ,            156
-VIRAT_S_010001_03_000537_000563 ,       3 ,9: Person carrying an object   ,               277 ,              0
-VIRAT_S_010001_04_000583_000646 ,       4 ,12: Person exiting a facility  ,               121 ,            217
-VIRAT_S_010001_04_000583_000646 ,       5 ,11: Person entering a facility ,                47 ,            312
-VIRAT_S_010001_04_000583_000646 ,       6 ,11: Person entering a facility ,               108 ,            530
-VIRAT_S_010001_04_000583_000646 ,       7 ,9: Person carrying an object   ,               151 ,           1071
-VIRAT_S_010001_04_000583_000646 ,       8 ,9: Person carrying an object   ,               359 ,            270
-VIRAT_S_010001_04_000583_000646 ,       9 ,12: Person exiting a facility  ,                67 ,           1149
-VIRAT_S_010001_04_000583_000646 ,      10 ,9: Person carrying an object   ,               403 ,           1082
-VIRAT_S_010001_04_000583_000646 ,      11 ,9: Person carrying an object   ,                87 ,           1397
-VIRAT_S_010001_05_000649_000684 ,      10 ,12: Person exiting a facility  ,                86 ,            293
-VIRAT_S_010001_05_000649_000684 ,      11 ,9: Person carrying an object   ,               275 ,            284
-VIRAT_S_010001_05_000649_000684 ,      12 ,12: Person exiting a facility  ,                47 ,            107
-VIRAT_S_010001_06_000685_000722 ,       1 ,12: Person exiting a facility  ,                47 ,            204
-VIRAT_S_010001_06_000685_000722 ,       2 ,11: Person entering a facility ,                70 ,            472
-VIRAT_S_010001_06_000685_000722 ,       3 ,9: Person carrying an object   ,               237 ,            300
-VIRAT_S_010001_07_000741_000810 ,      12 ,9: Person carrying an object   ,                13 ,            309
-VIRAT_S_010001_07_000741_000810 ,      13 ,12: Person exiting a facility  ,                67 ,            403
-VIRAT_S_010001_07_000741_000810 ,      14 ,11: Person entering a facility ,                64 ,            681
-VIRAT_S_010001_07_000741_000810 ,      15 ,12: Person exiting a facility  ,                47 ,           1003
-VIRAT_S_010001_07_000741_000810 ,      16 ,12: Person exiting a facility  ,                47 ,           1029
-VIRAT_S_010001_07_000741_000810 ,      17 ,11: Person entering a facility ,                69 ,           1100
-VIRAT_S_010001_07_000741_000810 ,      18 ,9: Person carrying an object   ,               763 ,             28
-VIRAT_S_010001_07_000741_000810 ,      19 ,9: Person carrying an object   ,               234 ,            491
-VIRAT_S_010001_08_000826_000893 ,       8 ,11: Person entering a facility ,                91 ,            136
-VIRAT_S_010001_08_000826_000893 ,       9 ,11: Person entering a facility ,                52 ,            116
-VIRAT_S_010001_08_000826_000893 ,      10 ,11: Person entering a facility ,                69 ,            385
-VIRAT_S_010001_08_000826_000893 ,      11 ,12: Person exiting a facility  ,                47 ,            805
-VIRAT_S_010001_08_000826_000893 ,      12 ,12: Person exiting a facility  ,                93 ,            938
-VIRAT_S_010001_08_000826_000893 ,      13 ,11: Person entering a facility ,                47 ,           1027
-VIRAT_S_010001_08_000826_000893 ,      14 ,11: Person entering a facility ,                47 ,           1088
-VIRAT_S_010001_08_000826_000893 ,      15 ,9: Person carrying an object   ,               272 ,            144
-VIRAT_S_010001_09_000921_000952 ,       5 ,11: Person entering a facility ,                47 ,            138
-VIRAT_S_010001_09_000921_000952 ,       6 ,11: Person entering a facility ,                83 ,            195
-VIRAT_S_010001_09_000921_000952 ,       7 ,11: Person entering a facility ,                47 ,            245
-VIRAT_S_010001_10_000962_001005 ,       8 ,12: Person exiting a facility  ,               114 ,             53
-VIRAT_S_010001_10_000962_001005 ,       9 ,12: Person exiting a facility  ,                70 ,             66
-VIRAT_S_010001_10_000962_001005 ,      10 ,11: Person entering a facility ,                75 ,            121
-VIRAT_S_010001_10_000962_001005 ,      11 ,11: Person entering a facility ,                52 ,            523
-VIRAT_S_010001_10_000962_001005 ,      12 ,9: Person carrying an object   ,                71 ,            770
-VIRAT_S_010001_10_000962_001005 ,      13 ,9: Person carrying an object   ,               688 ,            152
-VIRAT_S_010001_10_000962_001005 ,      14 ,9: Person carrying an object   ,               540 ,            300
-VIRAT_S_010001_10_000962_001005 ,      15 ,9: Person carrying an object   ,               274 ,            194
-VIRAT_S_010001_10_000962_001005 ,      16 ,9: Person carrying an object   ,               197 ,            125
-VIRAT_S_010002_00_000012_000120 ,       0 ,11: Person entering a facility ,               108 ,            972
-VIRAT_S_010002_00_000012_000120 ,       1 ,9: Person carrying an object   ,              1167 ,            864
-VIRAT_S_010002_00_000012_000120 ,       2 ,11: Person entering a facility ,                60 ,           1855
-VIRAT_S_010002_00_000012_000120 ,       3 ,11: Person entering a facility ,                76 ,           2029
-VIRAT_S_010002_00_000012_000120 ,       4 ,9: Person carrying an object   ,               657 ,            601
-VIRAT_S_010002_00_000012_000120 ,       5 ,9: Person carrying an object   ,               999 ,             43
-VIRAT_S_010002_00_000012_000120 ,       6 ,9: Person carrying an object   ,               924 ,             43
-VIRAT_S_010002_00_000012_000120 ,       7 ,11: Person entering a facility ,                47 ,            954
-VIRAT_S_010002_00_000012_000120 ,       8 ,12: Person exiting a facility  ,                47 ,            827
-VIRAT_S_010002_00_000012_000120 ,       9 ,9: Person carrying an object   ,                31 ,            891
-VIRAT_S_010002_00_000012_000120 ,      10 ,9: Person carrying an object   ,               528 ,           1500
-VIRAT_S_010002_00_000012_000120 ,      11 ,9: Person carrying an object   ,               622 ,            900
-VIRAT_S_010002_01_000123_000148 ,       6 ,12: Person exiting a facility  ,                66 ,            201
-VIRAT_S_010002_02_000174_000204 ,       1 ,11: Person entering a facility ,                95 ,            233
-VIRAT_S_010002_02_000174_000204 ,       2 ,11: Person entering a facility ,                47 ,            207
-VIRAT_S_010002_02_000174_000204 ,       3 ,9: Person carrying an object   ,               282 ,            358
-VIRAT_S_010002_02_000174_000204 ,       4 ,9: Person carrying an object   ,               282 ,            358
-VIRAT_S_010002_03_000236_000261 ,       6 ,9: Person carrying an object   ,               507 ,              0
-VIRAT_S_010002_03_000236_000261 ,       7 ,12: Person exiting a facility  ,                50 ,            173
-VIRAT_S_010002_04_000307_000350 ,       0 ,12: Person exiting a facility  ,                47 ,            116
-VIRAT_S_010002_04_000307_000350 ,       1 ,12: Person exiting a facility  ,                68 ,            316
-VIRAT_S_010002_04_000307_000350 ,       2 ,11: Person entering a facility ,                52 ,            403
-VIRAT_S_010002_04_000307_000350 ,       3 ,12: Person exiting a facility  ,                47 ,            537
-VIRAT_S_010002_04_000307_000350 ,       4 ,12: Person exiting a facility  ,                78 ,            520
-VIRAT_S_010002_04_000307_000350 ,       6 ,9: Person carrying an object   ,               266 ,            190
-VIRAT_S_010002_04_000307_000350 ,       7 ,9: Person carrying an object   ,               481 ,            409
-VIRAT_S_010002_04_000307_000350 ,       8 ,9: Person carrying an object   ,               282 ,            608
-VIRAT_S_010002_04_000307_000350 ,       9 ,9: Person carrying an object   ,               281 ,            609
-VIRAT_S_010002_06_000441_000467 ,       0 ,12: Person exiting a facility  ,                47 ,            114
-VIRAT_S_010002_06_000441_000467 ,       1 ,9: Person carrying an object   ,               245 ,            199
-VIRAT_S_010002_07_000522_000547 ,       2 ,12: Person exiting a facility  ,                47 ,             14
-VIRAT_S_010002_07_000522_000547 ,       3 ,12: Person exiting a facility  ,                47 ,             59
-VIRAT_S_010003_00_000000_000108 ,      53 ,9: Person carrying an object   ,                70 ,              0
-VIRAT_S_010003_00_000000_000108 ,      54 ,9: Person carrying an object   ,              1106 ,            354
-VIRAT_S_010003_00_000000_000108 ,      55 ,11: Person entering a facility ,                47 ,           1450
-VIRAT_S_010003_00_000000_000108 ,      56 ,11: Person entering a facility ,                47 ,           1496
-VIRAT_S_010003_00_000000_000108 ,      57 ,11: Person entering a facility ,                47 ,           1654
-VIRAT_S_010003_00_000000_000108 ,      59 ,11: Person entering a facility ,                72 ,            429
-VIRAT_S_010003_00_000000_000108 ,      60 ,11: Person entering a facility ,                47 ,            680
-VIRAT_S_010003_00_000000_000108 ,      61 ,11: Person entering a facility ,                50 ,            632
-VIRAT_S_010003_00_000000_000108 ,      62 ,11: Person entering a facility ,                47 ,            581
-VIRAT_S_010003_00_000000_000108 ,      63 ,11: Person entering a facility ,                47 ,            576
-VIRAT_S_010003_00_000000_000108 ,      65 ,11: Person entering a facility ,                50 ,           1655
-VIRAT_S_010003_00_000000_000108 ,      66 ,11: Person entering a facility ,                47 ,           1508
-VIRAT_S_010003_00_000000_000108 ,      67 ,11: Person entering a facility ,                47 ,           1502
-VIRAT_S_010003_00_000000_000108 ,      68 ,11: Person entering a facility ,                47 ,           1514
-VIRAT_S_010003_00_000000_000108 ,      69 ,12: Person exiting a facility  ,                50 ,           1791
-VIRAT_S_010003_00_000000_000108 ,      70 ,12: Person exiting a facility  ,                47 ,           1846
-VIRAT_S_010003_00_000000_000108 ,      72 ,11: Person entering a facility ,                47 ,           2248
-VIRAT_S_010003_00_000000_000108 ,      73 ,9: Person carrying an object   ,               412 ,           2177
-VIRAT_S_010003_00_000000_000108 ,      74 ,12: Person exiting a facility  ,                47 ,             16
-VIRAT_S_010003_00_000000_000108 ,      75 ,9: Person carrying an object   ,               978 ,           1136
-VIRAT_S_010003_00_000000_000108 ,      76 ,9: Person carrying an object   ,               166 ,            100
-VIRAT_S_010003_00_000000_000108 ,      77 ,9: Person carrying an object   ,              1155 ,            383
-VIRAT_S_010003_00_000000_000108 ,      78 ,9: Person carrying an object   ,               818 ,            404
-VIRAT_S_010003_00_000000_000108 ,      79 ,9: Person carrying an object   ,               596 ,            926
-VIRAT_S_010003_00_000000_000108 ,      80 ,9: Person carrying an object   ,               407 ,           1500
-VIRAT_S_010003_00_000000_000108 ,      81 ,9: Person carrying an object   ,               156 ,           1185
-VIRAT_S_010003_00_000000_000108 ,      82 ,11: Person entering a facility ,               126 ,           1409
-VIRAT_S_010003_00_000000_000108 ,      83 ,9: Person carrying an object   ,               406 ,           2183
-VIRAT_S_010003_00_000000_000108 ,      84 ,9: Person carrying an object   ,               308 ,           1500
-VIRAT_S_010003_00_000000_000108 ,      85 ,9: Person carrying an object   ,               629 ,            893
-VIRAT_S_010003_02_000165_000202 ,       2 ,12: Person exiting a facility  ,                47 ,            214
-VIRAT_S_010003_02_000165_000202 ,       3 ,11: Person entering a facility ,                47 ,            538
-VIRAT_S_010003_02_000165_000202 ,       4 ,11: Person entering a facility ,                47 ,            552
-VIRAT_S_010003_02_000165_000202 ,       5 ,11: Person entering a facility ,                91 ,              0
-VIRAT_S_010003_02_000165_000202 ,       6 ,9: Person carrying an object   ,               842 ,              0
-VIRAT_S_010003_02_000165_000202 ,       7 ,9: Person carrying an object   ,               450 ,            169
-VIRAT_S_010003_02_000165_000202 ,       8 ,9: Person carrying an object   ,               595 ,            247
-VIRAT_S_010003_02_000165_000202 ,       9 ,9: Person carrying an object   ,               184 ,            354
-VIRAT_S_010003_03_000219_000259 ,       6 ,9: Person carrying an object   ,                39 ,              0
-VIRAT_S_010003_03_000219_000259 ,       7 ,9: Person carrying an object   ,               689 ,              0
-VIRAT_S_010003_03_000219_000259 ,       8 ,9: Person carrying an object   ,               295 ,             25
-VIRAT_S_010003_03_000219_000259 ,       9 ,12: Person exiting a facility  ,                47 ,            276
-VIRAT_S_010003_03_000219_000259 ,      10 ,9: Person carrying an object   ,               136 ,              0
-VIRAT_S_010003_03_000219_000259 ,      11 ,9: Person carrying an object   ,               439 ,            520
-VIRAT_S_010003_05_000499_000523 ,       0 ,9: Person carrying an object   ,               290 ,              0
-VIRAT_S_010003_05_000499_000523 ,       1 ,9: Person carrying an object   ,               537 ,              0
-VIRAT_S_010003_05_000499_000523 ,       2 ,9: Person carrying an object   ,               537 ,              0
-VIRAT_S_010003_06_000526_000560 ,       0 ,11: Person entering a facility ,                53 ,             59
-VIRAT_S_010003_06_000526_000560 ,       1 ,12: Person exiting a facility  ,                47 ,            126
-VIRAT_S_010003_06_000526_000560 ,       2 ,9: Person carrying an object   ,               316 ,              0
-VIRAT_S_010003_06_000526_000560 ,       3 ,9: Person carrying an object   ,               622 ,              0
-VIRAT_S_010003_06_000526_000560 ,       4 ,9: Person carrying an object   ,                91 ,            583
-VIRAT_S_010003_07_000608_000636 ,       0 ,9: Person carrying an object   ,               405 ,              0
-VIRAT_S_010003_07_000608_000636 ,       1 ,9: Person carrying an object   ,                80 ,            415
-VIRAT_S_010003_08_000739_000778 ,       2 ,9: Person carrying an object   ,               419 ,              0
-VIRAT_S_010003_08_000739_000778 ,       3 ,11: Person entering a facility ,                63 ,            223
-VIRAT_S_010003_08_000739_000778 ,       4 ,11: Person entering a facility ,                49 ,            275
-VIRAT_S_010003_08_000739_000778 ,       5 ,12: Person exiting a facility  ,                47 ,            564
-VIRAT_S_010003_08_000739_000778 ,       6 ,9: Person carrying an object   ,               275 ,            624
-VIRAT_S_010003_09_000779_000861 ,      26 ,11: Person entering a facility ,                47 ,           1403
-VIRAT_S_010003_09_000779_000861 ,      27 ,11: Person entering a facility ,                47 ,           1377
-VIRAT_S_010003_09_000779_000861 ,      28 ,11: Person entering a facility ,                47 ,           1341
-VIRAT_S_010003_09_000779_000861 ,      29 ,11: Person entering a facility ,                51 ,           1294
-VIRAT_S_010003_09_000779_000861 ,      30 ,9: Person carrying an object   ,              1231 ,            104
-VIRAT_S_010003_10_000901_000934 ,       0 ,9: Person carrying an object   ,               242 ,             59
-VIRAT_S_010003_10_000901_000934 ,       1 ,9: Person carrying an object   ,               319 ,            319
-VIRAT_S_010003_10_000901_000934 ,       2 ,11: Person entering a facility ,                47 ,             87
-VIRAT_S_010003_10_000901_000934 ,       3 ,12: Person exiting a facility  ,                47 ,            344
-VIRAT_S_010003_10_000901_000934 ,       4 ,9: Person carrying an object   ,               577 ,             61
-VIRAT_S_010003_10_000901_000934 ,       5 ,9: Person carrying an object   ,               123 ,              0
-VIRAT_S_010003_10_000901_000934 ,       6 ,9: Person carrying an object   ,               444 ,            194
-VIRAT_S_010003_11_000956_000982 ,       2 ,11: Person entering a facility ,                85 ,            175
-VIRAT_S_010003_11_000956_000982 ,       3 ,11: Person entering a facility ,                66 ,            191
-VIRAT_S_010003_12_001009_001057 ,      36 ,9: Person carrying an object   ,               616 ,              0
-VIRAT_S_010003_12_001009_001057 ,      37 ,12: Person exiting a facility  ,                66 ,            217
-VIRAT_S_010003_12_001009_001057 ,      38 ,12: Person exiting a facility  ,                65 ,            225
-VIRAT_S_010003_12_001009_001057 ,      39 ,11: Person entering a facility ,                47 ,            769
-VIRAT_S_010003_12_001009_001057 ,      40 ,9: Person carrying an object   ,               309 ,            778
-VIRAT_S_010003_12_001009_001057 ,      41 ,11: Person entering a facility ,                47 ,           1053
-VIRAT_S_010003_13_001066_001124 ,      45 ,9: Person carrying an object   ,               224 ,            969
-VIRAT_S_010003_13_001066_001124 ,      46 ,9: Person carrying an object   ,               293 ,            900
-VIRAT_S_010003_13_001066_001124 ,      47 ,9: Person carrying an object   ,               406 ,              0
-VIRAT_S_010003_14_001127_001190 ,      17 ,9: Person carrying an object   ,               201 ,              0
-VIRAT_S_010003_14_001127_001190 ,      18 ,12: Person exiting a facility  ,                47 ,            795
-VIRAT_S_010003_14_001127_001190 ,      19 ,9: Person carrying an object   ,               393 ,            481
-VIRAT_S_010003_14_001127_001190 ,      20 ,9: Person carrying an object   ,               522 ,            753
-VIRAT_S_010004_00_000064_000100 ,      14 ,9: Person carrying an object   ,               647 ,              0
-VIRAT_S_010004_00_000064_000100 ,      15 ,12: Person exiting a facility  ,                47 ,            319
-VIRAT_S_010004_00_000064_000100 ,      16 ,12: Person exiting a facility  ,                47 ,            323
-VIRAT_S_010004_00_000064_000100 ,      17 ,9: Person carrying an object   ,               425 ,            222
-VIRAT_S_010004_00_000064_000100 ,      18 ,9: Person carrying an object   ,               298 ,            324
-VIRAT_S_010004_00_000064_000100 ,      19 ,9: Person carrying an object   ,               102 ,            304
-VIRAT_S_010004_01_000163_000188 ,       1 ,9: Person carrying an object   ,               374 ,            133
-VIRAT_S_010004_01_000163_000188 ,       2 ,12: Person exiting a facility  ,                65 ,            181
-VIRAT_S_010004_01_000163_000188 ,       3 ,12: Person exiting a facility  ,                80 ,            184
-VIRAT_S_010004_01_000163_000188 ,       4 ,9: Person carrying an object   ,               217 ,             90
-VIRAT_S_010004_01_000163_000188 ,       5 ,9: Person carrying an object   ,               351 ,            156
-VIRAT_S_010004_02_000191_000237 ,      19 ,9: Person carrying an object   ,               183 ,              0
-VIRAT_S_010004_02_000191_000237 ,      20 ,9: Person carrying an object   ,               541 ,              0
-VIRAT_S_010004_02_000191_000237 ,      21 ,11: Person entering a facility ,                55 ,            577
-VIRAT_S_010004_02_000191_000237 ,      22 ,11: Person entering a facility ,                61 ,            608
-VIRAT_S_010004_02_000191_000237 ,      23 ,9: Person carrying an object   ,               177 ,              0
-VIRAT_S_010004_03_000239_000277 ,       1 ,11: Person entering a facility ,                47 ,            292
-VIRAT_S_010004_03_000239_000277 ,       2 ,12: Person exiting a facility  ,                47 ,            579
-VIRAT_S_010004_03_000239_000277 ,       3 ,9: Person carrying an object   ,               723 ,            167
-VIRAT_S_010004_03_000239_000277 ,       4 ,9: Person carrying an object   ,               175 ,            195
-VIRAT_S_010004_03_000239_000277 ,       5 ,9: Person carrying an object   ,               626 ,              0
-VIRAT_S_010004_06_000547_000715 ,      23 ,12: Person exiting a facility  ,                92 ,             92
-VIRAT_S_010004_06_000547_000715 ,      24 ,12: Person exiting a facility  ,                75 ,            232
-VIRAT_S_010004_06_000547_000715 ,      25 ,12: Person exiting a facility  ,               113 ,            313
-VIRAT_S_010004_06_000547_000715 ,      26 ,12: Person exiting a facility  ,               114 ,            745
-VIRAT_S_010004_06_000547_000715 ,      27 ,12: Person exiting a facility  ,                95 ,            774
-VIRAT_S_010004_06_000547_000715 ,      28 ,7: Person gesturing            ,                98 ,            953
-VIRAT_S_010004_06_000547_000715 ,      29 ,12: Person exiting a facility  ,                71 ,           1354
-VIRAT_S_010004_06_000547_000715 ,      30 ,7: Person gesturing            ,                73 ,           1766
-VIRAT_S_010004_06_000547_000715 ,      31 ,12: Person exiting a facility  ,                49 ,            250
-VIRAT_S_010004_06_000547_000715 ,      32 ,12: Person exiting a facility  ,                85 ,            335
-VIRAT_S_010004_06_000547_000715 ,      33 ,9: Person carrying an object   ,               266 ,              0
-VIRAT_S_010004_06_000547_000715 ,      34 ,9: Person carrying an object   ,                48 ,              0
-VIRAT_S_010004_06_000547_000715 ,      35 ,9: Person carrying an object   ,               102 ,              0
-VIRAT_S_010004_06_000547_000715 ,      36 ,12: Person exiting a facility  ,                47 ,            288
-VIRAT_S_010004_06_000547_000715 ,      37 ,9: Person carrying an object   ,               578 ,            185
-VIRAT_S_010004_06_000547_000715 ,      38 ,9: Person carrying an object   ,               746 ,            315
-VIRAT_S_010004_06_000547_000715 ,      39 ,9: Person carrying an object   ,               635 ,            311
-VIRAT_S_010004_06_000547_000715 ,      40 ,9: Person carrying an object   ,               413 ,            809
-VIRAT_S_010004_06_000547_000715 ,      41 ,9: Person carrying an object   ,               409 ,            813
-VIRAT_S_010004_06_000547_000715 ,      42 ,9: Person carrying an object   ,              1003 ,            914
-VIRAT_S_010004_06_000547_000715 ,      43 ,9: Person carrying an object   ,                25 ,           1350
-VIRAT_S_010004_06_000547_000715 ,      44 ,9: Person carrying an object   ,               415 ,           1407
-VIRAT_S_010004_06_000547_000715 ,      46 ,9: Person carrying an object   ,               519 ,           2520
-VIRAT_S_010004_06_000547_000715 ,      47 ,9: Person carrying an object   ,              1117 ,           2119
-VIRAT_S_010004_06_000547_000715 ,      48 ,9: Person carrying an object   ,               658 ,           1645
-VIRAT_S_010004_06_000547_000715 ,      49 ,9: Person carrying an object   ,              1339 ,           2328
-VIRAT_S_010004_06_000547_000715 ,      50 ,9: Person carrying an object   ,               343 ,           2767
-VIRAT_S_010004_06_000547_000715 ,      51 ,10: Person running             ,                 2 ,           3320
-VIRAT_S_010004_06_000547_000715 ,      52 ,9: Person carrying an object   ,              1361 ,           2388
-VIRAT_S_010004_06_000547_000715 ,      53 ,9: Person carrying an object   ,              1375 ,           2390
-VIRAT_S_010004_06_000547_000715 ,      54 ,9: Person carrying an object   ,               436 ,           3024
-VIRAT_S_010004_07_000729_000809 ,      20 ,9: Person carrying an object   ,               775 ,              0
-VIRAT_S_010004_07_000729_000809 ,      21 ,9: Person carrying an object   ,               679 ,            602
-VIRAT_S_010004_07_000729_000809 ,      22 ,12: Person exiting a facility  ,                62 ,            835
-VIRAT_S_010004_07_000729_000809 ,      23 ,11: Person entering a facility ,                80 ,            940
-VIRAT_S_010004_07_000729_000809 ,      24 ,11: Person entering a facility ,                76 ,            960
-VIRAT_S_010004_07_000729_000809 ,      25 ,10: Person running             ,               138 ,           1520
-VIRAT_S_010004_07_000729_000809 ,      26 ,11: Person entering a facility ,                87 ,            743
-VIRAT_S_010004_07_000729_000809 ,      27 ,9: Person carrying an object   ,               519 ,            103
-VIRAT_S_010004_07_000729_000809 ,      29 ,9: Person carrying an object   ,               427 ,            303
-VIRAT_S_010004_07_000729_000809 ,      30 ,9: Person carrying an object   ,              1077 ,            453
-VIRAT_S_010004_07_000729_000809 ,      31 ,9: Person carrying an object   ,               245 ,            750
-VIRAT_S_010004_07_000729_000809 ,      32 ,9: Person carrying an object   ,               164 ,            846
-VIRAT_S_010004_07_000729_000809 ,      33 ,12: Person exiting a facility  ,                47 ,           1084
-VIRAT_S_010004_07_000729_000809 ,      34 ,9: Person carrying an object   ,               680 ,           1212
-VIRAT_S_010004_07_000729_000809 ,      36 ,10: Person running             ,               119 ,           1403
-VIRAT_S_010004_08_000811_000920 ,      22 ,11: Person entering a facility ,               148 ,            573
-VIRAT_S_010004_08_000811_000920 ,      23 ,11: Person entering a facility ,                67 ,            720
-VIRAT_S_010004_08_000811_000920 ,      24 ,11: Person entering a facility ,                69 ,           1991
-VIRAT_S_010004_08_000811_000920 ,      25 ,11: Person entering a facility ,               134 ,           2007
-VIRAT_S_010005_00_000048_000075 ,       2 ,12: Person exiting a facility  ,                65 ,            222
-VIRAT_S_010005_01_000085_000164 ,      24 ,11: Person entering a facility ,                52 ,             63
-VIRAT_S_010005_01_000085_000164 ,      25 ,12: Person exiting a facility  ,                84 ,            392
-VIRAT_S_010005_01_000085_000164 ,      26 ,12: Person exiting a facility  ,                76 ,            392
-VIRAT_S_010005_01_000085_000164 ,      27 ,11: Person entering a facility ,                58 ,            924
-VIRAT_S_010005_01_000085_000164 ,      28 ,12: Person exiting a facility  ,                50 ,           1122
-VIRAT_S_010005_02_000177_000203 ,       3 ,12: Person exiting a facility  ,                47 ,             52
-VIRAT_S_010005_02_000177_000203 ,       4 ,10: Person running             ,               161 ,            245
-VIRAT_S_010005_03_000215_000270 ,      21 ,11: Person entering a facility ,                56 ,            194
-VIRAT_S_010005_03_000215_000270 ,      22 ,11: Person entering a facility ,                64 ,            223
-VIRAT_S_010005_03_000215_000270 ,      23 ,12: Person exiting a facility  ,                88 ,            307
-VIRAT_S_010005_03_000215_000270 ,      24 ,12: Person exiting a facility  ,               110 ,            307
-VIRAT_S_010005_03_000215_000270 ,      25 ,12: Person exiting a facility  ,                47 ,            411
-VIRAT_S_010005_03_000215_000270 ,      26 ,12: Person exiting a facility  ,                47 ,            437
-VIRAT_S_010005_04_000299_000323 ,       4 ,9: Person carrying an object   ,               230 ,            263
-VIRAT_S_010005_05_000397_000430 ,       1 ,11: Person entering a facility ,                77 ,            218
-VIRAT_S_010005_07_000535_000584 ,      22 ,11: Person entering a facility ,                78 ,             77
-VIRAT_S_010005_07_000535_000584 ,      23 ,11: Person entering a facility ,                51 ,            317
-VIRAT_S_010005_07_000535_000584 ,      24 ,11: Person entering a facility ,                94 ,            290
-VIRAT_S_010005_08_000647_000693 ,       0 ,11: Person entering a facility ,                47 ,            483
-VIRAT_S_010005_08_000647_000693 ,       1 ,11: Person entering a facility ,                83 ,            504
-VIRAT_S_010005_08_000647_000693 ,       2 ,12: Person exiting a facility  ,                81 ,             52
-VIRAT_S_010005_08_000647_000693 ,       3 ,11: Person entering a facility ,                50 ,            803
+Video Name, Event ID, Event Type, Event Duration (f), Event Start (f)
+VIRAT_S_010003_01_000111_000137, 11, 12: Person exiting a facility, 59, 192
+VIRAT_S_010003_01_000111_000137, 12, 9: Person carrying an object, 95, 227
+VIRAT_S_010003_01_000111_000137, 13, 9: Person carrying an object, 178, 300
+VIRAT_S_010003_01_000111_000137, 14, 9: Person carrying an object, 88, 446
+VIRAT_S_010003_01_000111_000137, 15, 9: Person carrying an object, 88, 446
+VIRAT_S_010003_01_000111_000137, 16, 9: Person carrying an object, 234, 300
+VIRAT_S_010000_00_000000_000165, 19, 9: Person carrying an object, 1303, 1413
+VIRAT_S_010000_00_000000_000165, 20, 9: Person carrying an object, 311, 1811
+VIRAT_S_010000_00_000000_000165, 21, 9: Person carrying an object, 102, 1876
+VIRAT_S_010000_00_000000_000165, 22, 9: Person carrying an object, 488, 1801
+VIRAT_S_010000_00_000000_000165, 23, 9: Person carrying an object, 592, 1701
+VIRAT_S_010000_00_000000_000165, 24, 12: Person exiting a facility, 48, 2402
+VIRAT_S_010000_00_000000_000165, 25, 12: Person exiting a facility, 47, 2431
+VIRAT_S_010000_00_000000_000165, 26, 11: Person entering a facility, 73, 2733
+VIRAT_S_010000_00_000000_000165, 27, 9: Person carrying an object, 514, 192
+VIRAT_S_010000_00_000000_000165, 28, 9: Person carrying an object, 471, 230
+VIRAT_S_010000_00_000000_000165, 29, 12: Person exiting a facility, 72, 2932
+VIRAT_S_010000_00_000000_000165, 30, 12: Person exiting a facility, 61, 2932
+VIRAT_S_010000_00_000000_000165, 31, 12: Person exiting a facility, 64, 2952
+VIRAT_S_010000_00_000000_000165, 32, 12: Person exiting a facility, 65, 3121
+VIRAT_S_010000_00_000000_000165, 36, 12: Person exiting a facility, 122, 1968
+VIRAT_S_010000_00_000000_000165, 37, 9: Person carrying an object, 280, 720
+VIRAT_S_010000_01_000184_000324, 34, 9: Person carrying an object, 1475, 149
+VIRAT_S_010000_01_000184_000324, 37, 11: Person entering a facility, 64, 1672
+VIRAT_S_010000_01_000184_000324, 38, 9: Person carrying an object, 254, 2086
+VIRAT_S_010000_01_000184_000324, 39, 11: Person entering a facility, 83, 2268
+VIRAT_S_010000_01_000184_000324, 40, 12: Person exiting a facility, 47, 285
+VIRAT_S_010000_01_000184_000324, 41, 12: Person exiting a facility, 72, 360
+VIRAT_S_010000_01_000184_000324, 42, 9: Person carrying an object, 308, 391
+VIRAT_S_010000_01_000184_000324, 43, 9: Person carrying an object, 119, 429
+VIRAT_S_010000_01_000184_000324, 44, 12: Person exiting a facility, 68, 790
+VIRAT_S_010000_01_000184_000324, 45, 12: Person exiting a facility, 51, 809
+VIRAT_S_010000_01_000184_000324, 46, 9: Person carrying an object, 943, 1779
+VIRAT_S_010000_01_000184_000324, 47, 12: Person exiting a facility, 47, 2278
+VIRAT_S_010000_03_000442_000528, 26, 9: Person carrying an object, 460, 673
+VIRAT_S_010000_03_000442_000528, 27, 9: Person carrying an object, 793, 0
+VIRAT_S_010000_03_000442_000528, 29, 11: Person entering a facility, 100, 786
+VIRAT_S_010000_03_000442_000528, 30, 12: Person exiting a facility, 47, 1200
+VIRAT_S_010000_04_000530_000605, 1, 12: Person exiting a facility, 80, 230
+VIRAT_S_010000_04_000530_000605, 2, 12: Person exiting a facility, 66, 247
+VIRAT_S_010000_04_000530_000605, 5, 11: Person entering a facility, 83, 1225
+VIRAT_S_010000_04_000530_000605, 6, 11: Person entering a facility, 76, 1228
+VIRAT_S_010000_04_000530_000605, 7, 11: Person entering a facility, 65, 1393
+VIRAT_S_010000_04_000530_000605, 8, 9: Person carrying an object, 162, 1590
+VIRAT_S_010000_04_000530_000605, 9, 9: Person carrying an object, 725, 661
+VIRAT_S_010000_05_000638_000718, 15, 12: Person exiting a facility, 172, 83
+VIRAT_S_010000_05_000638_000718, 16, 12: Person exiting a facility, 77, 262
+VIRAT_S_010000_05_000638_000718, 17, 11: Person entering a facility, 72, 1319
+VIRAT_S_010000_05_000638_000718, 18, 11: Person entering a facility, 47, 1328
+VIRAT_S_010000_06_000728_000762, 2, 12: Person exiting a facility, 49, 243
+VIRAT_S_010000_06_000728_000762, 3, 12: Person exiting a facility, 47, 263
+VIRAT_S_010000_06_000728_000762, 4, 12: Person exiting a facility, 50, 332
+VIRAT_S_010000_07_000827_000860, 4, 9: Person carrying an object, 313, 0
+VIRAT_S_010000_07_000827_000860, 5, 11: Person entering a facility, 47, 290
+VIRAT_S_010000_07_000827_000860, 6, 9: Person carrying an object, 615, 0
+VIRAT_S_010000_08_000893_001024, 21, 9: Person carrying an object, 1578, 593
+VIRAT_S_010000_08_000893_001024, 22, 9: Person carrying an object, 1294, 846
+VIRAT_S_010000_08_000893_001024, 23, 11: Person entering a facility, 89, 949
+VIRAT_S_010000_08_000893_001024, 24, 11: Person entering a facility, 47, 1038
+VIRAT_S_010000_08_000893_001024, 25, 9: Person carrying an object, 295, 986
+VIRAT_S_010000_08_000893_001024, 26, 9: Person carrying an object, 113, 1047
+VIRAT_S_010000_08_000893_001024, 27, 9: Person carrying an object, 1012, 850
+VIRAT_S_010000_08_000893_001024, 28, 9: Person carrying an object, 990, 1478
+VIRAT_S_010000_08_000893_001024, 29, 9: Person carrying an object, 1076, 1346
+VIRAT_S_010000_08_000893_001024, 30, 9: Person carrying an object, 946, 1545
+VIRAT_S_010000_08_000893_001024, 31, 9: Person carrying an object, 1200, 1617
+VIRAT_S_010000_08_000893_001024, 32, 9: Person carrying an object, 772, 2045
+VIRAT_S_010000_08_000893_001024, 33, 9: Person carrying an object, 702, 2115
+VIRAT_S_010000_08_000893_001024, 34, 9: Person carrying an object, 661, 2156
+VIRAT_S_010000_08_000893_001024, 35, 12: Person exiting a facility, 129, 2428
+VIRAT_S_010000_08_000893_001024, 36, 12: Person exiting a facility, 47, 2480
+VIRAT_S_010001_00_000019_000065, 2, 11: Person entering a facility, 85, 213
+VIRAT_S_010001_00_000019_000065, 3, 12: Person exiting a facility, 47, 248
+VIRAT_S_010001_00_000019_000065, 5, 9: Person carrying an object, 146, 0
+VIRAT_S_010001_00_000019_000065, 6, 9: Person carrying an object, 188, 0
+VIRAT_S_010001_00_000019_000065, 7, 11: Person entering a facility, 77, 607
+VIRAT_S_010001_00_000019_000065, 8, 9: Person carrying an object, 66, 0
+VIRAT_S_010001_01_000071_000167, 40, 9: Person carrying an object, 386, 382
+VIRAT_S_010001_01_000071_000167, 41, 9: Person carrying an object, 704, 1455
+VIRAT_S_010001_01_000071_000167, 42, 11: Person entering a facility, 67, 1692
+VIRAT_S_010001_01_000071_000167, 43, 9: Person carrying an object, 95, 1200
+VIRAT_S_010001_01_000071_000167, 44, 9: Person carrying an object, 135, 1544
+VIRAT_S_010001_01_000071_000167, 45, 9: Person carrying an object, 275, 1703
+VIRAT_S_010001_01_000071_000167, 46, 11: Person entering a facility, 85, 1907
+VIRAT_S_010001_02_000195_000498, 53, 12: Person exiting a facility, 54, 210
+VIRAT_S_010001_02_000195_000498, 54, 11: Person entering a facility, 55, 913
+VIRAT_S_010001_02_000195_000498, 55, 11: Person entering a facility, 47, 963
+VIRAT_S_010001_02_000195_000498, 56, 12: Person exiting a facility, 47, 1567
+VIRAT_S_010001_02_000195_000498, 57, 9: Person carrying an object, 171, 1581
+VIRAT_S_010001_02_000195_000498, 58, 9: Person carrying an object, 730, 3562
+VIRAT_S_010001_02_000195_000498, 59, 12: Person exiting a facility, 63, 3739
+VIRAT_S_010001_02_000195_000498, 60, 9: Person carrying an object, 657, 4145
+VIRAT_S_010001_02_000195_000498, 61, 11: Person entering a facility, 80, 6185
+VIRAT_S_010001_02_000195_000498, 62, 11: Person entering a facility, 73, 6397
+VIRAT_S_010001_02_000195_000498, 63, 12: Person exiting a facility, 66, 6703
+VIRAT_S_010001_02_000195_000498, 64, 12: Person exiting a facility, 88, 6748
+VIRAT_S_010001_02_000195_000498, 65, 11: Person entering a facility, 60, 6402
+VIRAT_S_010001_02_000195_000498, 66, 12: Person exiting a facility, 62, 6818
+VIRAT_S_010001_02_000195_000498, 67, 12: Person exiting a facility, 47, 6866
+VIRAT_S_010001_02_000195_000498, 68, 10: Person running, 227, 171
+VIRAT_S_010001_02_000195_000498, 69, 11: Person entering a facility, 74, 699
+VIRAT_S_010001_02_000195_000498, 70, 9: Person carrying an object, 564, 300
+VIRAT_S_010001_02_000195_000498, 71, 11: Person entering a facility, 68, 2837
+VIRAT_S_010001_02_000195_000498, 72, 9: Person carrying an object, 1105, 3627
+VIRAT_S_010001_02_000195_000498, 73, 9: Person carrying an object, 888, 3824
+VIRAT_S_010001_02_000195_000498, 74, 11: Person entering a facility, 66, 4648
+VIRAT_S_010001_02_000195_000498, 75, 11: Person entering a facility, 87, 5582
+VIRAT_S_010001_02_000195_000498, 76, 9: Person carrying an object, 243, 6000
+VIRAT_S_010001_03_000537_000563, 1, 12: Person exiting a facility, 47, 152
+VIRAT_S_010001_03_000537_000563, 2, 9: Person carrying an object, 340, 156
+VIRAT_S_010001_03_000537_000563, 3, 9: Person carrying an object, 277, 0
+VIRAT_S_010001_04_000583_000646, 4, 12: Person exiting a facility, 121, 217
+VIRAT_S_010001_04_000583_000646, 5, 11: Person entering a facility, 47, 312
+VIRAT_S_010001_04_000583_000646, 6, 11: Person entering a facility, 108, 530
+VIRAT_S_010001_04_000583_000646, 7, 9: Person carrying an object, 151, 1071
+VIRAT_S_010001_04_000583_000646, 8, 9: Person carrying an object, 359, 270
+VIRAT_S_010001_04_000583_000646, 9, 12: Person exiting a facility, 67, 1149
+VIRAT_S_010001_04_000583_000646, 10, 9: Person carrying an object, 403, 1082
+VIRAT_S_010001_04_000583_000646, 11, 9: Person carrying an object, 87, 1397
+VIRAT_S_010001_05_000649_000684, 10, 12: Person exiting a facility, 86, 293
+VIRAT_S_010001_05_000649_000684, 11, 9: Person carrying an object, 275, 284
+VIRAT_S_010001_05_000649_000684, 12, 12: Person exiting a facility, 47, 107
+VIRAT_S_010001_06_000685_000722, 1, 12: Person exiting a facility, 47, 204
+VIRAT_S_010001_06_000685_000722, 2, 11: Person entering a facility, 70, 472
+VIRAT_S_010001_06_000685_000722, 3, 9: Person carrying an object, 237, 300
+VIRAT_S_010001_07_000741_000810, 12, 9: Person carrying an object, 13, 309
+VIRAT_S_010001_07_000741_000810, 13, 12: Person exiting a facility, 67, 403
+VIRAT_S_010001_07_000741_000810, 14, 11: Person entering a facility, 64, 681
+VIRAT_S_010001_07_000741_000810, 15, 12: Person exiting a facility, 47, 1003
+VIRAT_S_010001_07_000741_000810, 16, 12: Person exiting a facility, 47, 1029
+VIRAT_S_010001_07_000741_000810, 17, 11: Person entering a facility, 69, 1100
+VIRAT_S_010001_07_000741_000810, 18, 9: Person carrying an object, 763, 28
+VIRAT_S_010001_07_000741_000810, 19, 9: Person carrying an object, 234, 491
+VIRAT_S_010001_08_000826_000893, 8, 11: Person entering a facility, 91, 136
+VIRAT_S_010001_08_000826_000893, 9, 11: Person entering a facility, 52, 116
+VIRAT_S_010001_08_000826_000893, 10, 11: Person entering a facility, 69, 385
+VIRAT_S_010001_08_000826_000893, 11, 12: Person exiting a facility, 47, 805
+VIRAT_S_010001_08_000826_000893, 12, 12: Person exiting a facility, 93, 938
+VIRAT_S_010001_08_000826_000893, 13, 11: Person entering a facility, 47, 1027
+VIRAT_S_010001_08_000826_000893, 14, 11: Person entering a facility, 47, 1088
+VIRAT_S_010001_08_000826_000893, 15, 9: Person carrying an object, 272, 144
+VIRAT_S_010001_09_000921_000952, 5, 11: Person entering a facility, 47, 138
+VIRAT_S_010001_09_000921_000952, 6, 11: Person entering a facility, 83, 195
+VIRAT_S_010001_09_000921_000952, 7, 11: Person entering a facility, 47, 245
+VIRAT_S_010001_10_000962_001005, 8, 12: Person exiting a facility, 114, 53
+VIRAT_S_010001_10_000962_001005, 9, 12: Person exiting a facility, 70, 66
+VIRAT_S_010001_10_000962_001005, 10, 11: Person entering a facility, 75, 121
+VIRAT_S_010001_10_000962_001005, 11, 11: Person entering a facility, 52, 523
+VIRAT_S_010001_10_000962_001005, 12, 9: Person carrying an object, 71, 770
+VIRAT_S_010001_10_000962_001005, 13, 9: Person carrying an object, 688, 152
+VIRAT_S_010001_10_000962_001005, 14, 9: Person carrying an object, 540, 300
+VIRAT_S_010001_10_000962_001005, 15, 9: Person carrying an object, 274, 194
+VIRAT_S_010001_10_000962_001005, 16, 9: Person carrying an object, 197, 125
+VIRAT_S_010002_00_000012_000120, 0, 11: Person entering a facility, 108, 972
+VIRAT_S_010002_00_000012_000120, 1, 9: Person carrying an object, 1167, 864
+VIRAT_S_010002_00_000012_000120, 2, 11: Person entering a facility, 60, 1855
+VIRAT_S_010002_00_000012_000120, 3, 11: Person entering a facility, 76, 2029
+VIRAT_S_010002_00_000012_000120, 4, 9: Person carrying an object, 657, 601
+VIRAT_S_010002_00_000012_000120, 5, 9: Person carrying an object, 999, 43
+VIRAT_S_010002_00_000012_000120, 6, 9: Person carrying an object, 924, 43
+VIRAT_S_010002_00_000012_000120, 7, 11: Person entering a facility, 47, 954
+VIRAT_S_010002_00_000012_000120, 8, 12: Person exiting a facility, 47, 827
+VIRAT_S_010002_00_000012_000120, 9, 9: Person carrying an object, 31, 891
+VIRAT_S_010002_00_000012_000120, 10, 9: Person carrying an object, 528, 1500
+VIRAT_S_010002_00_000012_000120, 11, 9: Person carrying an object, 622, 900
+VIRAT_S_010002_01_000123_000148, 6, 12: Person exiting a facility, 66, 201
+VIRAT_S_010002_02_000174_000204, 1, 11: Person entering a facility, 95, 233
+VIRAT_S_010002_02_000174_000204, 2, 11: Person entering a facility, 47, 207
+VIRAT_S_010002_02_000174_000204, 3, 9: Person carrying an object, 282, 358
+VIRAT_S_010002_02_000174_000204, 4, 9: Person carrying an object, 282, 358
+VIRAT_S_010002_03_000236_000261, 6, 9: Person carrying an object, 507, 0
+VIRAT_S_010002_03_000236_000261, 7, 12: Person exiting a facility, 50, 173
+VIRAT_S_010002_04_000307_000350, 0, 12: Person exiting a facility, 47, 116
+VIRAT_S_010002_04_000307_000350, 1, 12: Person exiting a facility, 68, 316
+VIRAT_S_010002_04_000307_000350, 2, 11: Person entering a facility, 52, 403
+VIRAT_S_010002_04_000307_000350, 3, 12: Person exiting a facility, 47, 537
+VIRAT_S_010002_04_000307_000350, 4, 12: Person exiting a facility, 78, 520
+VIRAT_S_010002_04_000307_000350, 6, 9: Person carrying an object, 266, 190
+VIRAT_S_010002_04_000307_000350, 7, 9: Person carrying an object, 481, 409
+VIRAT_S_010002_04_000307_000350, 8, 9: Person carrying an object, 282, 608
+VIRAT_S_010002_04_000307_000350, 9, 9: Person carrying an object, 281, 609
+VIRAT_S_010002_06_000441_000467, 0, 12: Person exiting a facility, 47, 114
+VIRAT_S_010002_06_000441_000467, 1, 9: Person carrying an object, 245, 199
+VIRAT_S_010002_07_000522_000547, 2, 12: Person exiting a facility, 47, 14
+VIRAT_S_010002_07_000522_000547, 3, 12: Person exiting a facility, 47, 59
+VIRAT_S_010003_00_000000_000108, 53, 9: Person carrying an object, 70, 0
+VIRAT_S_010003_00_000000_000108, 54, 9: Person carrying an object, 1106, 354
+VIRAT_S_010003_00_000000_000108, 55, 11: Person entering a facility, 47, 1450
+VIRAT_S_010003_00_000000_000108, 56, 11: Person entering a facility, 47, 1496
+VIRAT_S_010003_00_000000_000108, 57, 11: Person entering a facility, 47, 1654
+VIRAT_S_010003_00_000000_000108, 59, 11: Person entering a facility, 72, 429
+VIRAT_S_010003_00_000000_000108, 60, 11: Person entering a facility, 47, 680
+VIRAT_S_010003_00_000000_000108, 61, 11: Person entering a facility, 50, 632
+VIRAT_S_010003_00_000000_000108, 62, 11: Person entering a facility, 47, 581
+VIRAT_S_010003_00_000000_000108, 63, 11: Person entering a facility, 47, 576
+VIRAT_S_010003_00_000000_000108, 65, 11: Person entering a facility, 50, 1655
+VIRAT_S_010003_00_000000_000108, 66, 11: Person entering a facility, 47, 1508
+VIRAT_S_010003_00_000000_000108, 67, 11: Person entering a facility, 47, 1502
+VIRAT_S_010003_00_000000_000108, 68, 11: Person entering a facility, 47, 1514
+VIRAT_S_010003_00_000000_000108, 69, 12: Person exiting a facility, 50, 1791
+VIRAT_S_010003_00_000000_000108, 70, 12: Person exiting a facility, 47, 1846
+VIRAT_S_010003_00_000000_000108, 72, 11: Person entering a facility, 47, 2248
+VIRAT_S_010003_00_000000_000108, 73, 9: Person carrying an object, 412, 2177
+VIRAT_S_010003_00_000000_000108, 74, 12: Person exiting a facility, 47, 16
+VIRAT_S_010003_00_000000_000108, 75, 9: Person carrying an object, 978, 1136
+VIRAT_S_010003_00_000000_000108, 76, 9: Person carrying an object, 166, 100
+VIRAT_S_010003_00_000000_000108, 77, 9: Person carrying an object, 1155, 383
+VIRAT_S_010003_00_000000_000108, 78, 9: Person carrying an object, 818, 404
+VIRAT_S_010003_00_000000_000108, 79, 9: Person carrying an object, 596, 926
+VIRAT_S_010003_00_000000_000108, 80, 9: Person carrying an object, 407, 1500
+VIRAT_S_010003_00_000000_000108, 81, 9: Person carrying an object, 156, 1185
+VIRAT_S_010003_00_000000_000108, 82, 11: Person entering a facility, 126, 1409
+VIRAT_S_010003_00_000000_000108, 83, 9: Person carrying an object, 406, 2183
+VIRAT_S_010003_00_000000_000108, 84, 9: Person carrying an object, 308, 1500
+VIRAT_S_010003_00_000000_000108, 85, 9: Person carrying an object, 629, 893
+VIRAT_S_010003_02_000165_000202, 2, 12: Person exiting a facility, 47, 214
+VIRAT_S_010003_02_000165_000202, 3, 11: Person entering a facility, 47, 538
+VIRAT_S_010003_02_000165_000202, 4, 11: Person entering a facility, 47, 552
+VIRAT_S_010003_02_000165_000202, 5, 11: Person entering a facility, 91, 0
+VIRAT_S_010003_02_000165_000202, 6, 9: Person carrying an object, 842, 0
+VIRAT_S_010003_02_000165_000202, 7, 9: Person carrying an object, 450, 169
+VIRAT_S_010003_02_000165_000202, 8, 9: Person carrying an object, 595, 247
+VIRAT_S_010003_02_000165_000202, 9, 9: Person carrying an object, 184, 354
+VIRAT_S_010003_03_000219_000259, 6, 9: Person carrying an object, 39, 0
+VIRAT_S_010003_03_000219_000259, 7, 9: Person carrying an object, 689, 0
+VIRAT_S_010003_03_000219_000259, 8, 9: Person carrying an object, 295, 25
+VIRAT_S_010003_03_000219_000259, 9, 12: Person exiting a facility, 47, 276
+VIRAT_S_010003_03_000219_000259, 10, 9: Person carrying an object, 136, 0
+VIRAT_S_010003_03_000219_000259, 11, 9: Person carrying an object, 439, 520
+VIRAT_S_010003_05_000499_000523, 0, 9: Person carrying an object, 290, 0
+VIRAT_S_010003_05_000499_000523, 1, 9: Person carrying an object, 537, 0
+VIRAT_S_010003_05_000499_000523, 2, 9: Person carrying an object, 537, 0
+VIRAT_S_010003_06_000526_000560, 0, 11: Person entering a facility, 53, 59
+VIRAT_S_010003_06_000526_000560, 1, 12: Person exiting a facility, 47, 126
+VIRAT_S_010003_06_000526_000560, 2, 9: Person carrying an object, 316, 0
+VIRAT_S_010003_06_000526_000560, 3, 9: Person carrying an object, 622, 0
+VIRAT_S_010003_06_000526_000560, 4, 9: Person carrying an object, 91, 583
+VIRAT_S_010003_07_000608_000636, 0, 9: Person carrying an object, 405, 0
+VIRAT_S_010003_07_000608_000636, 1, 9: Person carrying an object, 80, 415
+VIRAT_S_010003_08_000739_000778, 2, 9: Person carrying an object, 419, 0
+VIRAT_S_010003_08_000739_000778, 3, 11: Person entering a facility, 63, 223
+VIRAT_S_010003_08_000739_000778, 4, 11: Person entering a facility, 49, 275
+VIRAT_S_010003_08_000739_000778, 5, 12: Person exiting a facility, 47, 564
+VIRAT_S_010003_08_000739_000778, 6, 9: Person carrying an object, 275, 624
+VIRAT_S_010003_09_000779_000861, 26, 11: Person entering a facility, 47, 1403
+VIRAT_S_010003_09_000779_000861, 27, 11: Person entering a facility, 47, 1377
+VIRAT_S_010003_09_000779_000861, 28, 11: Person entering a facility, 47, 1341
+VIRAT_S_010003_09_000779_000861, 29, 11: Person entering a facility, 51, 1294
+VIRAT_S_010003_09_000779_000861, 30, 9: Person carrying an object, 1231, 104
+VIRAT_S_010003_10_000901_000934, 0, 9: Person carrying an object, 242, 59
+VIRAT_S_010003_10_000901_000934, 1, 9: Person carrying an object, 319, 319
+VIRAT_S_010003_10_000901_000934, 2, 11: Person entering a facility, 47, 87
+VIRAT_S_010003_10_000901_000934, 3, 12: Person exiting a facility, 47, 344
+VIRAT_S_010003_10_000901_000934, 4, 9: Person carrying an object, 577, 61
+VIRAT_S_010003_10_000901_000934, 5, 9: Person carrying an object, 123, 0
+VIRAT_S_010003_10_000901_000934, 6, 9: Person carrying an object, 444, 194
+VIRAT_S_010003_11_000956_000982, 2, 11: Person entering a facility, 85, 175
+VIRAT_S_010003_11_000956_000982, 3, 11: Person entering a facility, 66, 191
+VIRAT_S_010003_12_001009_001057, 36, 9: Person carrying an object, 616, 0
+VIRAT_S_010003_12_001009_001057, 37, 12: Person exiting a facility, 66, 217
+VIRAT_S_010003_12_001009_001057, 38, 12: Person exiting a facility, 65, 225
+VIRAT_S_010003_12_001009_001057, 39, 11: Person entering a facility, 47, 769
+VIRAT_S_010003_12_001009_001057, 40, 9: Person carrying an object, 309, 778
+VIRAT_S_010003_12_001009_001057, 41, 11: Person entering a facility, 47, 1053
+VIRAT_S_010003_13_001066_001124, 45, 9: Person carrying an object, 224, 969
+VIRAT_S_010003_13_001066_001124, 46, 9: Person carrying an object, 293, 900
+VIRAT_S_010003_13_001066_001124, 47, 9: Person carrying an object, 406, 0
+VIRAT_S_010003_14_001127_001190, 17, 9: Person carrying an object, 201, 0
+VIRAT_S_010003_14_001127_001190, 18, 12: Person exiting a facility, 47, 795
+VIRAT_S_010003_14_001127_001190, 19, 9: Person carrying an object, 393, 481
+VIRAT_S_010003_14_001127_001190, 20, 9: Person carrying an object, 522, 753
+VIRAT_S_010004_00_000064_000100, 14, 9: Person carrying an object, 647, 0
+VIRAT_S_010004_00_000064_000100, 15, 12: Person exiting a facility, 47, 319
+VIRAT_S_010004_00_000064_000100, 16, 12: Person exiting a facility, 47, 323
+VIRAT_S_010004_00_000064_000100, 17, 9: Person carrying an object, 425, 222
+VIRAT_S_010004_00_000064_000100, 18, 9: Person carrying an object, 298, 324
+VIRAT_S_010004_00_000064_000100, 19, 9: Person carrying an object, 102, 304
+VIRAT_S_010004_01_000163_000188, 1, 9: Person carrying an object, 374, 133
+VIRAT_S_010004_01_000163_000188, 2, 12: Person exiting a facility, 65, 181
+VIRAT_S_010004_01_000163_000188, 3, 12: Person exiting a facility, 80, 184
+VIRAT_S_010004_01_000163_000188, 4, 9: Person carrying an object, 217, 90
+VIRAT_S_010004_01_000163_000188, 5, 9: Person carrying an object, 351, 156
+VIRAT_S_010004_02_000191_000237, 19, 9: Person carrying an object, 183, 0
+VIRAT_S_010004_02_000191_000237, 20, 9: Person carrying an object, 541, 0
+VIRAT_S_010004_02_000191_000237, 21, 11: Person entering a facility, 55, 577
+VIRAT_S_010004_02_000191_000237, 22, 11: Person entering a facility, 61, 608
+VIRAT_S_010004_02_000191_000237, 23, 9: Person carrying an object, 177, 0
+VIRAT_S_010004_03_000239_000277, 1, 11: Person entering a facility, 47, 292
+VIRAT_S_010004_03_000239_000277, 2, 12: Person exiting a facility, 47, 579
+VIRAT_S_010004_03_000239_000277, 3, 9: Person carrying an object, 723, 167
+VIRAT_S_010004_03_000239_000277, 4, 9: Person carrying an object, 175, 195
+VIRAT_S_010004_03_000239_000277, 5, 9: Person carrying an object, 626, 0
+VIRAT_S_010004_06_000547_000715, 23, 12: Person exiting a facility, 92, 92
+VIRAT_S_010004_06_000547_000715, 24, 12: Person exiting a facility, 75, 232
+VIRAT_S_010004_06_000547_000715, 25, 12: Person exiting a facility, 113, 313
+VIRAT_S_010004_06_000547_000715, 26, 12: Person exiting a facility, 114, 745
+VIRAT_S_010004_06_000547_000715, 27, 12: Person exiting a facility, 95, 774
+VIRAT_S_010004_06_000547_000715, 28, 7: Person gesturing, 98, 953
+VIRAT_S_010004_06_000547_000715, 29, 12: Person exiting a facility, 71, 1354
+VIRAT_S_010004_06_000547_000715, 30, 7: Person gesturing, 73, 1766
+VIRAT_S_010004_06_000547_000715, 31, 12: Person exiting a facility, 49, 250
+VIRAT_S_010004_06_000547_000715, 32, 12: Person exiting a facility, 85, 335
+VIRAT_S_010004_06_000547_000715, 33, 9: Person carrying an object, 266, 0
+VIRAT_S_010004_06_000547_000715, 34, 9: Person carrying an object, 48, 0
+VIRAT_S_010004_06_000547_000715, 35, 9: Person carrying an object, 102, 0
+VIRAT_S_010004_06_000547_000715, 36, 12: Person exiting a facility, 47, 288
+VIRAT_S_010004_06_000547_000715, 37, 9: Person carrying an object, 578, 185
+VIRAT_S_010004_06_000547_000715, 38, 9: Person carrying an object, 746, 315
+VIRAT_S_010004_06_000547_000715, 39, 9: Person carrying an object, 635, 311
+VIRAT_S_010004_06_000547_000715, 40, 9: Person carrying an object, 413, 809
+VIRAT_S_010004_06_000547_000715, 41, 9: Person carrying an object, 409, 813
+VIRAT_S_010004_06_000547_000715, 42, 9: Person carrying an object, 1003, 914
+VIRAT_S_010004_06_000547_000715, 43, 9: Person carrying an object, 25, 1350
+VIRAT_S_010004_06_000547_000715, 44, 9: Person carrying an object, 415, 1407
+VIRAT_S_010004_06_000547_000715, 46, 9: Person carrying an object, 519, 2520
+VIRAT_S_010004_06_000547_000715, 47, 9: Person carrying an object, 1117, 2119
+VIRAT_S_010004_06_000547_000715, 48, 9: Person carrying an object, 658, 1645
+VIRAT_S_010004_06_000547_000715, 49, 9: Person carrying an object, 1339, 2328
+VIRAT_S_010004_06_000547_000715, 50, 9: Person carrying an object, 343, 2767
+VIRAT_S_010004_06_000547_000715, 51, 10: Person running, 2, 3320
+VIRAT_S_010004_06_000547_000715, 52, 9: Person carrying an object, 1361, 2388
+VIRAT_S_010004_06_000547_000715, 53, 9: Person carrying an object, 1375, 2390
+VIRAT_S_010004_06_000547_000715, 54, 9: Person carrying an object, 436, 3024
+VIRAT_S_010004_07_000729_000809, 20, 9: Person carrying an object, 775, 0
+VIRAT_S_010004_07_000729_000809, 21, 9: Person carrying an object, 679, 602
+VIRAT_S_010004_07_000729_000809, 22, 12: Person exiting a facility, 62, 835
+VIRAT_S_010004_07_000729_000809, 23, 11: Person entering a facility, 80, 940
+VIRAT_S_010004_07_000729_000809, 24, 11: Person entering a facility, 76, 960
+VIRAT_S_010004_07_000729_000809, 25, 10: Person running, 138, 1520
+VIRAT_S_010004_07_000729_000809, 26, 11: Person entering a facility, 87, 743
+VIRAT_S_010004_07_000729_000809, 27, 9: Person carrying an object, 519, 103
+VIRAT_S_010004_07_000729_000809, 29, 9: Person carrying an object, 427, 303
+VIRAT_S_010004_07_000729_000809, 30, 9: Person carrying an object, 1077, 453
+VIRAT_S_010004_07_000729_000809, 31, 9: Person carrying an object, 245, 750
+VIRAT_S_010004_07_000729_000809, 32, 9: Person carrying an object, 164, 846
+VIRAT_S_010004_07_000729_000809, 33, 12: Person exiting a facility, 47, 1084
+VIRAT_S_010004_07_000729_000809, 34, 9: Person carrying an object, 680, 1212
+VIRAT_S_010004_07_000729_000809, 36, 10: Person running, 119, 1403
+VIRAT_S_010004_08_000811_000920, 22, 11: Person entering a facility, 148, 573
+VIRAT_S_010004_08_000811_000920, 23, 11: Person entering a facility, 67, 720
+VIRAT_S_010004_08_000811_000920, 24, 11: Person entering a facility, 69, 1991
+VIRAT_S_010004_08_000811_000920, 25, 11: Person entering a facility, 134, 2007
+VIRAT_S_010005_00_000048_000075, 2, 12: Person exiting a facility, 65, 222
+VIRAT_S_010005_01_000085_000164, 24, 11: Person entering a facility, 52, 63
+VIRAT_S_010005_01_000085_000164, 25, 12: Person exiting a facility, 84, 392
+VIRAT_S_010005_01_000085_000164, 26, 12: Person exiting a facility, 76, 392
+VIRAT_S_010005_01_000085_000164, 27, 11: Person entering a facility, 58, 924
+VIRAT_S_010005_01_000085_000164, 28, 12: Person exiting a facility, 50, 1122
+VIRAT_S_010005_02_000177_000203, 3, 12: Person exiting a facility, 47, 52
+VIRAT_S_010005_02_000177_000203, 4, 10: Person running, 161, 245
+VIRAT_S_010005_03_000215_000270, 21, 11: Person entering a facility, 56, 194
+VIRAT_S_010005_03_000215_000270, 22, 11: Person entering a facility, 64, 223
+VIRAT_S_010005_03_000215_000270, 23, 12: Person exiting a facility, 88, 307
+VIRAT_S_010005_03_000215_000270, 24, 12: Person exiting a facility, 110, 307
+VIRAT_S_010005_03_000215_000270, 25, 12: Person exiting a facility, 47, 411
+VIRAT_S_010005_03_000215_000270, 26, 12: Person exiting a facility, 47, 437
+VIRAT_S_010005_04_000299_000323, 4, 9: Person carrying an object, 230, 263
+VIRAT_S_010005_05_000397_000430, 1, 11: Person entering a facility, 77, 218
+VIRAT_S_010005_07_000535_000584, 22, 11: Person entering a facility, 78, 77
+VIRAT_S_010005_07_000535_000584, 23, 11: Person entering a facility, 51, 317
+VIRAT_S_010005_07_000535_000584, 24, 11: Person entering a facility, 94, 290
+VIRAT_S_010005_08_000647_000693, 0, 11: Person entering a facility, 47, 483
+VIRAT_S_010005_08_000647_000693, 1, 11: Person entering a facility, 83, 504
+VIRAT_S_010005_08_000647_000693, 2, 12: Person exiting a facility, 81, 52
+VIRAT_S_010005_08_000647_000693, 3, 11: Person entering a facility, 50, 803

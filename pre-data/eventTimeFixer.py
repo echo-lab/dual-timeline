@@ -1,4 +1,5 @@
 import json
+import random
 
 videos_csv = open("VIRAT_S_0400_VIDEO_INFO.csv", "r")
 events_csv = open("VIRAT_S_0400_EVENTS_INFO.csv", "r")
@@ -6,7 +7,7 @@ events_csv = open("VIRAT_S_0400_EVENTS_INFO.csv", "r")
 videos_data = videos_csv.readlines()
 events_data = events_csv.readlines()
 
-fixed_events_times_json = open("VIRAT_S_0400_FIXED_EVENT_TIMES_.json", "w")
+fixed_events_times_json = open("VIRAT_S_0400_FIXED_EVENT_TIMES.json", "w")
 
 current_line_num = 0
 
@@ -39,6 +40,7 @@ for video_data in videos_data:
         current_event_end_frame_s = (current_event_end_frame / video_frame_rate)
         print("{}, {}, {}, {}, {}, {}".format(current_event_name, current_event_duration, current_event_start_frame, current_event_end_frame, current_event_start_frame_s, current_event_end_frame_s))
         events_list.append({
+          "currentEventDisplacer": [-3,-2,-1,0,1,2, 3][random.randrange(7)],
           "currentEventName": current_event_name,
           "currentEventDuration": current_event_duration,
           "currentEventStartFrame": current_event_start_frame,
