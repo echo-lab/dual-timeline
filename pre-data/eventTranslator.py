@@ -15,11 +15,11 @@ event_types = [
     "12: Person exiting a facility",
 ]
 
-events_files_name_file = open("VIRAT_S_0400.txt", "r")
+events_files_name_file = open("VIRAT_S_0102.txt", "r")
 
 events_file_names = events_files_name_file.readlines()
 
-events_info_csv = open("VIRAT_S_0400_EVENTS_INFO.csv", "w")
+events_info_csv = open("VIRAT_S_0102_EVENTS_INFO.csv", "w")
 
 events_info_csv.write(
     "Video Name, Event ID, Event Type, Event Duration (f), Event Start (f)\n"
@@ -28,7 +28,7 @@ events_info_csv.write(
 for event_file_name in events_file_names:
     event_file_name = event_file_name.strip()
     try:
-        events_file = open("./four-largest-annotations/VIRAT_S_0400_EVENTS/"+event_file_name+".viratdata.events.txt", "r")
+        events_file = open("./four-largest-annotations/VIRAT_S_0102_EVENTS/"+event_file_name+".viratdata.events.txt", "r")
         
         current_events = events_file.readlines()
         

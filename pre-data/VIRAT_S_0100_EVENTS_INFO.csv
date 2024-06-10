@@ -1,10 +1,4 @@
 Video Name, Event ID, Event Type, Event Duration (f), Event Start (f)
-VIRAT_S_010003_01_000111_000137, 11, 12: Person exiting a facility, 59, 192
-VIRAT_S_010003_01_000111_000137, 12, 9: Person carrying an object, 95, 227
-VIRAT_S_010003_01_000111_000137, 13, 9: Person carrying an object, 178, 300
-VIRAT_S_010003_01_000111_000137, 14, 9: Person carrying an object, 88, 446
-VIRAT_S_010003_01_000111_000137, 15, 9: Person carrying an object, 88, 446
-VIRAT_S_010003_01_000111_000137, 16, 9: Person carrying an object, 234, 300
 VIRAT_S_010000_00_000000_000165, 19, 9: Person carrying an object, 1303, 1413
 VIRAT_S_010000_00_000000_000165, 20, 9: Person carrying an object, 311, 1811
 VIRAT_S_010000_00_000000_000165, 21, 9: Person carrying an object, 102, 1876
@@ -214,6 +208,12 @@ VIRAT_S_010003_00_000000_000108, 82, 11: Person entering a facility, 126, 1409
 VIRAT_S_010003_00_000000_000108, 83, 9: Person carrying an object, 406, 2183
 VIRAT_S_010003_00_000000_000108, 84, 9: Person carrying an object, 308, 1500
 VIRAT_S_010003_00_000000_000108, 85, 9: Person carrying an object, 629, 893
+VIRAT_S_010003_01_000111_000137, 11, 12: Person exiting a facility, 59, 192
+VIRAT_S_010003_01_000111_000137, 12, 9: Person carrying an object, 95, 227
+VIRAT_S_010003_01_000111_000137, 13, 9: Person carrying an object, 178, 300
+VIRAT_S_010003_01_000111_000137, 14, 9: Person carrying an object, 88, 446
+VIRAT_S_010003_01_000111_000137, 15, 9: Person carrying an object, 88, 446
+VIRAT_S_010003_01_000111_000137, 16, 9: Person carrying an object, 234, 300
 VIRAT_S_010003_02_000165_000202, 2, 12: Person exiting a facility, 47, 214
 VIRAT_S_010003_02_000165_000202, 3, 11: Person entering a facility, 47, 538
 VIRAT_S_010003_02_000165_000202, 4, 11: Person entering a facility, 47, 552
