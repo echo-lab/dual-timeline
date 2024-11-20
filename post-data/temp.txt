@@ -1,0 +1,28 @@
+Response ID
+VIRAT_S_0002 
+Please enter the password displayed on the webpage.
+Task: The driver of this car gets out of the car and has a conversation with another person.What is the car that the other person gets into later?
+Task: During which timeframe do you see this man unloading a blue shoulder bag from his car?
+Please select the timeline visualization that you used to complete the previous tasks.
+VIRAT_S_0100 
+Please enter the password displayed on the webpage.
+Task: How long do these two people stay in the building?
+Task: During which timeframe do you see a man in a white shirt run across the camera in this area?
+Please select the timeline visualization that you used to complete the previous tasks.
+VIRAT_S_0102 
+Please enter the password displayed on the webpage.
+Task: How long does this CHICANO employee take a break for?
+Task: During which timeframe does the owner of this golf cart return and drive away?
+Please select the timeline visualization that you used to complete the previous tasks.
+VIRAT_S_0400 
+Please enter the password displayed on the webpage.
+Task: How long does the blue pickup truck remain parked after two men in white shirts begin unloading objects from the trunk of the blue pickup truck?
+Task: During which timeframe does a couple run across the screen starting from this house carrying a pizza?
+Please select the timeline visualization that you used to complete the previous tasks.
+VIRAT_S_0500 
+Please enter the password displayed on the webpage.
+Task: Order the following three events: - A person carrying a backpack rode a bike on the pedestrian sidewalk.
+Task: Order the following three events: - A person wearing pants ran to catch the green light while crossing the street.
+Task: Order the following three events: - A construction worker waved their hands to their colleagues.
+Task: What is the object unloaded from the white truck with a flatboard trailer?
+Please select the timeline visualization that you used to complete the previous tasks.

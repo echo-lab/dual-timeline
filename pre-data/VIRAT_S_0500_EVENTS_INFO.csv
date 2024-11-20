@@ -1,0 +1,109 @@
+Video Name, Event ID, Event Type, Event Duration (f), Event Start (f)
+VIRAT_S_050000_01_000207_000361, 36, 2: Person Unloading an Object from a Car/Vehicle, 73, 2316
+VIRAT_S_050000_01_000207_000361, 39, 5: Person getting into a Vehicle, 167, 4174
+VIRAT_S_050000_01_000207_000361, 40, 9: Person carrying an object, 451, 0
+VIRAT_S_050000_01_000207_000361, 41, 9: Person carrying an object, 70, 0
+VIRAT_S_050000_01_000207_000361, 42, 9: Person carrying an object, 528, 0
+VIRAT_S_050000_01_000207_000361, 43, 9: Person carrying an object, 910, 0
+VIRAT_S_050000_01_000207_000361, 44, 9: Person carrying an object, 615, 307
+VIRAT_S_050000_01_000207_000361, 45, 9: Person carrying an object, 1798, 1458
+VIRAT_S_050000_01_000207_000361, 46, 9: Person carrying an object, 997, 2239
+VIRAT_S_050000_01_000207_000361, 47, 9: Person carrying an object, 538, 3084
+VIRAT_S_050000_01_000207_000361, 48, 9: Person carrying an object, 872, 3133
+VIRAT_S_050000_01_000207_000361, 49, 9: Person carrying an object, 480, 3549
+VIRAT_S_050000_01_000207_000361, 50, 9: Person carrying an object, 813, 3146
+VIRAT_S_050000_01_000207_000361, 51, 9: Person carrying an object, 507, 3435
+VIRAT_S_050000_01_000207_000361, 52, 9: Person carrying an object, 475, 3525
+VIRAT_S_050000_01_000207_000361, 53, 9: Person carrying an object, 536, 3606
+VIRAT_S_050000_02_000404_000486, 36, 10: Person running, 54, 2202
+VIRAT_S_050000_02_000404_000486, 37, 9: Person carrying an object, 1846, 0
+VIRAT_S_050000_02_000404_000486, 38, 9: Person carrying an object, 1222, 0
+VIRAT_S_050000_02_000404_000486, 39, 9: Person carrying an object, 622, 0
+VIRAT_S_050000_02_000404_000486, 40, 9: Person carrying an object, 1903, 555
+VIRAT_S_050000_02_000404_000486, 41, 9: Person carrying an object, 787, 858
+VIRAT_S_050000_02_000404_000486, 42, 9: Person carrying an object, 222, 1000
+VIRAT_S_050000_02_000404_000486, 43, 9: Person carrying an object, 1222, 0
+VIRAT_S_050000_02_000404_000486, 44, 9: Person carrying an object, 68, 1154
+VIRAT_S_050000_02_000404_000486, 45, 9: Person carrying an object, 421, 1276
+VIRAT_S_050000_02_000404_000486, 46, 9: Person carrying an object, 244, 2214
+VIRAT_S_050000_03_000585_000639, 28, 9: Person carrying an object, 310, 0
+VIRAT_S_050000_03_000585_000639, 29, 9: Person carrying an object, 937, 0
+VIRAT_S_050000_03_000585_000639, 30, 9: Person carrying an object, 900, 0
+VIRAT_S_050000_03_000585_000639, 31, 9: Person carrying an object, 423, 230
+VIRAT_S_050000_03_000585_000639, 32, 9: Person carrying an object, 39, 1568
+VIRAT_S_050000_04_000640_000690, 10, 9: Person carrying an object, 1492, 0
+VIRAT_S_050000_04_000640_000690, 11, 9: Person carrying an object, 764, 158
+VIRAT_S_050000_04_000640_000690, 12, 9: Person carrying an object, 654, 838
+VIRAT_S_050000_05_000696_000732, 1, 9: Person carrying an object, 940, 0
+VIRAT_S_050000_05_000696_000732, 2, 9: Person carrying an object, 1071, 0
+VIRAT_S_050000_05_000696_000732, 3, 9: Person carrying an object, 922, 0
+VIRAT_S_050000_05_000696_000732, 4, 9: Person carrying an object, 419, 521
+VIRAT_S_050000_06_000908_000970, 8, 9: Person carrying an object, 386, 536
+VIRAT_S_050000_07_001014_001126, 48, 9: Person carrying an object, 1222, 0
+VIRAT_S_050000_07_001014_001126, 49, 9: Person carrying an object, 1522, 0
+VIRAT_S_050000_07_001014_001126, 50, 9: Person carrying an object, 772, 0
+VIRAT_S_050000_07_001014_001126, 51, 9: Person carrying an object, 622, 0
+VIRAT_S_050000_07_001014_001126, 52, 9: Person carrying an object, 1522, 0
+VIRAT_S_050000_07_001014_001126, 53, 9: Person carrying an object, 204, 1017
+VIRAT_S_050000_07_001014_001126, 54, 9: Person carrying an object, 260, 1262
+VIRAT_S_050000_07_001014_001126, 55, 9: Person carrying an object, 53, 1469
+VIRAT_S_050000_07_001014_001126, 56, 9: Person carrying an object, 1450, 1897
+VIRAT_S_050000_07_001014_001126, 57, 9: Person carrying an object, 189, 2533
+VIRAT_S_050000_07_001014_001126, 58, 9: Person carrying an object, 554, 2797
+VIRAT_S_050000_07_001014_001126, 59, 9: Person carrying an object, 308, 3043
+VIRAT_S_050000_07_001014_001126, 60, 9: Person carrying an object, 90, 3238
+VIRAT_S_050000_07_001014_001126, 61, 9: Person carrying an object, 17, 2705
+VIRAT_S_050000_07_001014_001126, 62, 9: Person carrying an object, 283, 3068
+VIRAT_S_050000_08_001235_001295, 15, 9: Person carrying an object, 273, 0
+VIRAT_S_050000_08_001235_001295, 16, 9: Person carrying an object, 740, 92
+VIRAT_S_050000_08_001235_001295, 17, 9: Person carrying an object, 300, 322
+VIRAT_S_050000_08_001235_001295, 18, 9: Person carrying an object, 849, 0
+VIRAT_S_050000_08_001235_001295, 19, 9: Person carrying an object, 769, 0
+VIRAT_S_050000_08_001235_001295, 20, 9: Person carrying an object, 542, 259
+VIRAT_S_050000_08_001235_001295, 21, 5: Person getting into a Vehicle, 167, 697
+VIRAT_S_050000_08_001235_001295, 22, 9: Person carrying an object, 1226, 566
+VIRAT_S_050000_08_001235_001295, 23, 10: Person running, 157, 595
+VIRAT_S_050000_08_001235_001295, 24, 9: Person carrying an object, 230, 604
+VIRAT_S_050000_08_001235_001295, 25, 9: Person carrying an object, 1105, 622
+VIRAT_S_050000_08_001235_001295, 26, 9: Person carrying an object, 567, 1225
+VIRAT_S_050000_08_001235_001295, 27, 9: Person carrying an object, 539, 1253
+VIRAT_S_050000_08_001235_001295, 28, 9: Person carrying an object, 430, 1362
+VIRAT_S_050000_08_001235_001295, 29, 9: Person carrying an object, 80, 1712
+VIRAT_S_050000_08_001235_001295, 30, 10: Person running, 80, 1712
+VIRAT_S_050000_08_001235_001295, 31, 9: Person carrying an object, 21, 1771
+VIRAT_S_050000_09_001310_001373, 33, 9: Person carrying an object, 354, 0
+VIRAT_S_050000_09_001310_001373, 34, 9: Person carrying an object, 1184, 1
+VIRAT_S_050000_09_001310_001373, 35, 9: Person carrying an object, 1048, 57
+VIRAT_S_050000_09_001310_001373, 36, 9: Person carrying an object, 958, 927
+VIRAT_S_050000_09_001310_001373, 37, 9: Person carrying an object, 524, 1361
+VIRAT_S_050000_09_001310_001373, 38, 9: Person carrying an object, 362, 1523
+VIRAT_S_050000_09_001310_001373, 39, 9: Person carrying an object, 214, 1671
+VIRAT_S_050000_09_001310_001373, 40, 9: Person carrying an object, 232, 1653
+VIRAT_S_050000_09_001310_001373, 41, 9: Person carrying an object, 164, 1721
+VIRAT_S_050000_10_001462_001491, 10, 9: Person carrying an object, 129, 574
+VIRAT_S_050000_10_001462_001491, 11, 9: Person carrying an object, 862, 0
+VIRAT_S_050000_10_001462_001491, 12, 9: Person carrying an object, 501, 36
+VIRAT_S_050000_10_001462_001491, 13, 9: Person carrying an object, 862, 0
+VIRAT_S_050000_11_001530_001576, 5, 7: Person gesturing, 59, 145
+VIRAT_S_050000_11_001530_001576, 7, 9: Person carrying an object, 832, 300
+VIRAT_S_050000_11_001530_001576, 9, 9: Person carrying an object, 195, 1174
+VIRAT_S_050000_11_001530_001576, 10, 6: Person getting out of a Vehicle, 137, 1135
+VIRAT_S_050000_12_001591_001619, 30, 2: Person Unloading an Object from a Car/Vehicle, 167, 443
+VIRAT_S_050000_12_001591_001619, 32, 9: Person carrying an object, 834, 0
+VIRAT_S_050000_12_001591_001619, 33, 9: Person carrying an object, 687, 0
+VIRAT_S_050000_12_001591_001619, 35, 9: Person carrying an object, 485, 38
+VIRAT_S_050000_12_001591_001619, 36, 9: Person carrying an object, 347, 487
+VIRAT_S_050000_13_001722_001766, 3, 9: Person carrying an object, 322, 0
+VIRAT_S_050000_13_001722_001766, 4, 9: Person carrying an object, 322, 0
+VIRAT_S_050000_13_001722_001766, 5, 9: Person carrying an object, 537, 779
+VIRAT_S_050000_13_001722_001766, 6, 9: Person carrying an object, 354, 962
+VIRAT_S_050000_13_001722_001766, 7, 9: Person carrying an object, 323, 993
+VIRAT_S_050000_13_001722_001766, 8, 9: Person carrying an object, 313, 1003
+VIRAT_S_050000_13_001722_001766, 10, 9: Person carrying an object, 253, 1063
+VIRAT_S_050000_13_001722_001766, 11, 9: Person carrying an object, 150, 1072
+VIRAT_S_050000_13_001722_001766, 12, 9: Person carrying an object, 67, 1249
+VIRAT_S_050000_13_001722_001766, 13, 9: Person carrying an object, 207, 1109
+VIRAT_S_050000_16_001947_001989, 4, 9: Person carrying an object, 51, 0
+VIRAT_S_050000_16_001947_001989, 5, 9: Person carrying an object, 120, 0
+VIRAT_S_050000_16_001947_001989, 6, 9: Person carrying an object, 960, 0
+VIRAT_S_050000_16_001947_001989, 7, 9: Person carrying an object, 1001, 0

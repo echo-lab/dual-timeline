@@ -1,13 +1,13 @@
 import json
 import random
 
-videos_csv = open("VIRAT_S_0100_VIDEO_INFO.csv", "r")
-events_csv = open("VIRAT_S_0100_EVENTS_INFO.csv", "r")
+videos_csv = open("VIRAT_S_0500_VIDEO_INFO.csv", "r")
+events_csv = open("VIRAT_S_0500_EVENTS_INFO.csv", "r")
 
 videos_data = videos_csv.readlines()
 events_data = events_csv.readlines()
 
-fixed_events_times_json = open("VIRAT_S_0100_FIXED_EVENT_TIMES.json", "w")
+fixed_events_times_json = open("VIRAT_S_0500_FIXED_EVENT_TIMES.json", "w")
 
 current_line_num = 0
 

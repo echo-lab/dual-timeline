@@ -1,0 +1,65 @@
+Video Name, Event ID, Event Type, Event Duration (f), Event Start (f)
+VIRAT_S_000001, 0, 1: Person loading an Object to a Vehicle, 59, 3676
+VIRAT_S_000001, 1, 5: Person getting into a Vehicle, 172, 3670
+VIRAT_S_000001, 2, 5: Person getting into a Vehicle, 217, 10413
+VIRAT_S_000001, 3, 2: Person Unloading an Object from a Car/Vehicle, 66, 10068
+VIRAT_S_000001, 4, 6: Person getting out of a Vehicle, 131, 9614
+VIRAT_S_000001, 5, 6: Person getting out of a Vehicle, 112, 15812
+VIRAT_S_000001, 6, 5: Person getting into a Vehicle, 151, 17522
+VIRAT_S_000001, 15, 9: Person carrying an object, 307, 10235
+VIRAT_S_000001, 30, 9: Person carrying an object, 418, 17364
+VIRAT_S_000002, 0, 6: Person getting out of a Vehicle, 134, 2486
+VIRAT_S_000002, 1, 3: Person Opening a Vehicle/Car Trunk, 65, 3951
+VIRAT_S_000002, 2, 4: Person Closing a Vehicle/Car Trunk, 59, 4119
+VIRAT_S_000002, 3, 5: Person getting into a Vehicle, 134, 4366
+VIRAT_S_000002, 5, 2: Person Unloading an Object from a Car/Vehicle, 121, 4005
+VIRAT_S_000002, 23, 9: Person carrying an object, 529, 3443
+VIRAT_S_000003, 0, 6: Person getting out of a Vehicle, 133, 5080
+VIRAT_S_000003, 1, 3: Person Opening a Vehicle/Car Trunk, 59, 5512
+VIRAT_S_000003, 2, 4: Person Closing a Vehicle/Car Trunk, 59, 5665
+VIRAT_S_000003, 3, 5: Person getting into a Vehicle, 133, 5935
+VIRAT_S_000003, 4, 2: Person Unloading an Object from a Car/Vehicle, 59, 5622
+VIRAT_S_000003, 5, 6: Person getting out of a Vehicle, 88, 10426
+VIRAT_S_000003, 6, 3: Person Opening a Vehicle/Car Trunk, 67, 12660
+VIRAT_S_000003, 7, 4: Person Closing a Vehicle/Car Trunk, 59, 12850
+VIRAT_S_000003, 8, 1: Person loading an Object to a Vehicle, 111, 12724
+VIRAT_S_000003, 9, 5: Person getting into a Vehicle, 110, 13032
+VIRAT_S_000003, 10, 6: Person getting out of a Vehicle, 111, 15856
+VIRAT_S_000003, 11, 2: Person Unloading an Object from a Car/Vehicle, 59, 17563
+VIRAT_S_000003, 12, 5: Person getting into a Vehicle, 132, 17763
+VIRAT_S_000003, 19, 9: Person carrying an object, 327, 12275
+VIRAT_S_000003, 20, 9: Person carrying an object, 219, 13003
+VIRAT_S_000003, 44, 9: Person carrying an object, 386, 17729
+VIRAT_S_000004, 0, 6: Person getting out of a Vehicle, 130, 7030
+VIRAT_S_000004, 1, 3: Person Opening a Vehicle/Car Trunk, 59, 7395
+VIRAT_S_000004, 2, 2: Person Unloading an Object from a Car/Vehicle, 130, 7546
+VIRAT_S_000004, 3, 4: Person Closing a Vehicle/Car Trunk, 59, 7573
+VIRAT_S_000004, 4, 5: Person getting into a Vehicle, 144, 7934
+VIRAT_S_000004, 5, 6: Person getting out of a Vehicle, 108, 11167
+VIRAT_S_000004, 6, 3: Person Opening a Vehicle/Car Trunk, 70, 15024
+VIRAT_S_000004, 8, 4: Person Closing a Vehicle/Car Trunk, 59, 15224
+VIRAT_S_000004, 9, 5: Person getting into a Vehicle, 135, 16048
+VIRAT_S_000006, 0, 5: Person getting into a Vehicle, 171, 0
+VIRAT_S_000006, 1, 4: Person Closing a Vehicle/Car Trunk, 71, 407
+VIRAT_S_000006, 2, 6: Person getting out of a Vehicle, 178, 3340
+VIRAT_S_000006, 3, 6: Person getting out of a Vehicle, 146, 4712
+VIRAT_S_000006, 5, 4: Person Closing a Vehicle/Car Trunk, 59, 5009
+VIRAT_S_000006, 6, 5: Person getting into a Vehicle, 168, 5417
+VIRAT_S_000006, 7, 5: Person getting into a Vehicle, 111, 6711
+VIRAT_S_000006, 8, 6: Person getting out of a Vehicle, 151, 6815
+VIRAT_S_000006, 9, 3: Person Opening a Vehicle/Car Trunk, 59, 6992
+VIRAT_S_000006, 10, 4: Person Closing a Vehicle/Car Trunk, 59, 7088
+VIRAT_S_000006, 11, 5: Person getting into a Vehicle, 70, 7771
+VIRAT_S_000006, 12, 6: Person getting out of a Vehicle, 181, 8653
+VIRAT_S_000006, 14, 5: Person getting into a Vehicle, 125, 10701
+VIRAT_S_000006, 15, 6: Person getting out of a Vehicle, 140, 14748
+VIRAT_S_000006, 16, 6: Person getting out of a Vehicle, 141, 15024
+VIRAT_S_000006, 17, 2: Person Unloading an Object from a Car/Vehicle, 59, 15543
+VIRAT_S_000006, 18, 3: Person Opening a Vehicle/Car Trunk, 59, 15625
+VIRAT_S_000006, 19, 2: Person Unloading an Object from a Car/Vehicle, 83, 15782
+VIRAT_S_000006, 20, 4: Person Closing a Vehicle/Car Trunk, 59, 15871
+VIRAT_S_000006, 22, 5: Person getting into a Vehicle, 61, 16238
+VIRAT_S_000006, 23, 5: Person getting into a Vehicle, 133, 16191
+VIRAT_S_000006, 24, 3: Person Opening a Vehicle/Car Trunk, 108, 4870
+VIRAT_S_000006, 25, 2: Person Unloading an Object from a Car/Vehicle, 59, 7068
+VIRAT_S_000006, 26, 2: Person Unloading an Object from a Car/Vehicle, 204, 6890

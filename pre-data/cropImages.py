@@ -23,16 +23,16 @@ def crop_images(input_dir, output_dir):
             width, height = img.size
             # Calculate left, upper, right, lower coordinates for cropping
             # 1920 x 1080 settings
-            # left =  172
-            # upper = 55
-            # right = width - 126
-            # lower = height - 82
+            left =  172
+            upper = 55
+            right = width - 126
+            lower = height - 82
 
             # 1280 x 720 settings
-            left =  138
-            upper = 44
-            right = width - 100
-            lower = height - 65
+            # left =  138
+            # upper = 44
+            # right = width - 100
+            # lower = height - 65
             # Crop image
             cropped_img = img.crop((left, upper, right, lower))
             # Save cropped image

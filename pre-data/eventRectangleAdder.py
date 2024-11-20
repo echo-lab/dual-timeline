@@ -22,8 +22,8 @@ def findEventLinesInCSV(video_name, event_ID, rect_csv_lines):
     return linesToReturn
 
 
-fixed_events_times_json = open("VIRAT_S_0400_FIXED_EVENT_TIMES.json", "r")
-rect_csv = open("VIRAT_S_0400_EVENT_RECT.csv", "r")
+fixed_events_times_json = open("VIRAT_S_0500_FIXED_EVENT_TIMES.json", "r")
+rect_csv = open("VIRAT_S_0500_EVENT_RECT.csv", "r")
 
 fixed_events_times_json_dict = json.loads(fixed_events_times_json.read())
 
@@ -33,7 +33,7 @@ rect_csv_lines = rect_csv.readlines()
 
 # print(rect_csv_lines)
 
-fixed_events_times_and_rect_json = open("VIRAT_S_0400_FIXED_EVENT_TIMES_RECT.json", "w")
+fixed_events_times_and_rect_json = open("VIRAT_S_0500_FIXED_EVENT_TIMES_RECT.json", "w")
 
 current_line_num = 0
 
@@ -50,34 +50,36 @@ for fixed_event_time_json in fixed_events_times_json_dict:
         curr_video_name, curr_event_id, rect_csv_lines
     )
 
-    event["currentEventVideoWidth"] = int(currEventRectLines[0][2])
-    event["currentEventVideoHeight"] = int(currEventRectLines[0][3])
+    if(currEventRectLines):
 
-    currEventStartFrame = int(fixed_event_time_json["currentEventStartFrame"])
+        event["currentEventVideoWidth"] = int(currEventRectLines[0][2])
+        event["currentEventVideoHeight"] = int(currEventRectLines[0][3])
 
-    currEventEndFrame = int(fixed_event_time_json["currentEventEndFrame"])
+        currEventStartFrame = int(fixed_event_time_json["currentEventStartFrame"])
 
-    event["currentEventRectWidthMin"] = {}
-    event["currentEventRectWidthMax"] = {}
-    event["currentEventRectHeightMin"] = {}
-    event["currentEventRectHeightMax"] = {}
+        currEventEndFrame = int(fixed_event_time_json["currentEventEndFrame"])
 
-    for i in range(currEventStartFrame, currEventStartFrame + len(currEventRectLines)):
-        print(currEventRectLines[i - currEventStartFrame])
-        event["currentEventRectWidthMin"][int(i)] = int(
-            currEventRectLines[i - currEventStartFrame][4]
-        )
-        event["currentEventRectHeightMin"][int(i)] = int(
-            currEventRectLines[i - currEventStartFrame][5]
-        )
-        event["currentEventRectWidthMax"][int(i)] = int(
-            currEventRectLines[i - currEventStartFrame][6]
-        )
-        event["currentEventRectHeightMax"][int(i)] = int(
-            currEventRectLines[i - currEventStartFrame][7]
-        )
+        event["currentEventRectWidthMin"] = {}
+        event["currentEventRectWidthMax"] = {}
+        event["currentEventRectHeightMin"] = {}
+        event["currentEventRectHeightMax"] = {}
 
-    events_list.append(event)
+        for i in range(currEventStartFrame, currEventStartFrame + len(currEventRectLines)):
+            print(currEventRectLines[i - currEventStartFrame])
+            event["currentEventRectWidthMin"][int(i)] = int(
+                currEventRectLines[i - currEventStartFrame][4]
+            )
+            event["currentEventRectHeightMin"][int(i)] = int(
+                currEventRectLines[i - currEventStartFrame][5]
+            )
+            event["currentEventRectWidthMax"][int(i)] = int(
+                currEventRectLines[i - currEventStartFrame][6]
+            )
+            event["currentEventRectHeightMax"][int(i)] = int(
+                currEventRectLines[i - currEventStartFrame][7]
+            )
+
+        events_list.append(event)
 
 json.dump(events_list, fixed_events_times_and_rect_json)
 
