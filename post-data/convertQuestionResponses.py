@@ -13,7 +13,7 @@ timeline_types = {
 }
 
 # Define variable to load the dataframe
-dataframe = openpyxl.load_workbook("rawdata.xlsx")
+dataframe = openpyxl.load_workbook("rawData.xlsx")
 
 # Define variable to read sheet
 dataframe1 = dataframe.active
@@ -28,7 +28,7 @@ for row in dataframe1.values:
     if current_line_num == 0:
 
         question_responses_with_answers_csv.write(
-            "Response ID, Timeline Used Value, Timeline Used Value Decrypted, Timeline Type (TimelinesUsed), Timeline Type (User Entry), First Click Time (Seconds), Last Click Time (Seconds), Time Between First and Last Click (Seconds), Question, Video Number, Their Answer, Correct Answer, Is Correct\n"
+            "Response ID, Timeline Used Value, Timeline Used Value Decrypted, Timeline Type (TimelinesUsed), Timeline Type (User Entry), First Click Time (Seconds), Last Click Time (Seconds), Time Between First and Last Click (Seconds), Question, Video Name, Their Answer, Correct Answer, Is Correct\n"
         )
 
         current_line_num += 1

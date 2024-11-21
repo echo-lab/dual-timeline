@@ -1,6534 +1,14100 @@
+149508537
+69511
+143
+3
+Timeline 3 (Event Blocks)
+Timeline 3 (Event Blocks)
+VIRAT_S_0002
+3
+1
+4
+1
+4
+1
+5
+4
+4
+1
+2
+3
+3
+4
+3
+4
+4
+4
+1
+4
+32
+80.0
+83720
+14352
+2
+Timeline 2 (Density Graph)
+Timeline 2 (Density Graph)
+VIRAT_S_0100
+2
+1
+4
+1
+4
+1
+4
+4
+4
+1
+1
+3
+3
+3
+3
+4
+4
+4
+1
+4
+30
+75.0
+69369
+1
+1
+Timeline 1 (Base Interface)
+Timeline 1 (Base Interface)
+VIRAT_S_0102
+3
+1
+4
+1
+4
+1
+5
+3
+4
+1
+2
+3
+3
+4
+3
+4
+4
+4
+2
+4
+33
+82.5
+70803
+1435
+5
+Timeline 5 (Event Thumbnails)
+Timeline 5 (Event Thumbnails)
+VIRAT_S_0400
+2
+2
+4
+1
+4
+1
+4
+3
+4
+1
+1
+3
+3
+3
+3
+3
+4
+4
+2
+4
+30
+75.0
+69382
+14
+4
+Timeline 4 (Density Graph + Event Blocks)
+Timeline 4 (Density Graph + Event Blocks)
+VIRAT_S_0500
+3
+1
+4
+1
+4
+1
+4
+2
+4
+1
+2
+3
+3
+3
+3
+4
+4
+4
+3
+4
+33
+82.5
 149488827
 69793
 425
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
-84
-214
-130
+VIRAT_S_0002
+5
+2
+4
+2
+4
+2
+5
+2
+4
+2
+4
+3
+3
+4
+3
+3
+3
+3
+3
+3
+32
+80.0
 73619
 4251
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-91
-211
-120
+VIRAT_S_0100
+3
+3
+2
+2
+4
+2
+4
+5
+2
+2
+2
+1
+3
+3
+1
+2
+3
+3
+0
+3
+21
+52.5
 69410
 42
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-38
-100
-62
+VIRAT_S_0102
+4
+3
+4
+2
+4
+2
+4
+2
+4
+4
+3
+3
+3
+3
+3
+2
+3
+3
+3
+1
+27
+67.5
 69368
 0
 0
 Other
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
-71
-164
-93
+VIRAT_S_0400
+5
+2
+4
+2
+3
+2
+4
+2
+3
+2
+4
+3
+2
+3
+2
+3
+3
+3
+3
+3
+29
+72.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-75
-106
-31
+VIRAT_S_0500
+4
+2
+4
+2
+3
+2
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+29
+72.5
 149466211
 69609
 241
 1
 Timeline 1 (Base Interface)
-Car 5
-False
-34:00 – 35:00
-False
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
-84
-121
-37
+VIRAT_S_0002
+4
+3
+3
+4
+3
+3
+3
+2
+2
+4
+3
+2
+2
+2
+1
+2
+1
+2
+3
+1
+19
+47.5
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than two minutes
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
-121
-250
-129
+VIRAT_S_0100
+4
+3
+3
+2
+4
+3
+3
+3
+3
+3
+3
+2
+3
+2
+2
+2
+3
+2
+2
+2
+23
+57.5
 93503
 24135
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-31
-72
-41
+VIRAT_S_0102
+4
+2
+4
+3
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+2
+3
+3
+2
+28
+70.0
 71781
 2413
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-31
-67
-36
+VIRAT_S_0400
+4
+2
+3
+4
+4
+2
+4
+3
+4
+2
+3
+2
+3
+3
+3
+3
+1
+3
+2
+3
+26
+65.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-98
-229
-131
+VIRAT_S_0500
+4
+3
+4
+4
+4
+3
+4
+3
+4
+3
+3
+3
+3
+3
+3
+2
+1
+2
+2
+2
+24
+60.0
 149439530
 94502
 25134
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 5
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
+VIRAT_S_0002
+4
 2
-14
-12
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69619
 251
 1
 Timeline 1 (Base Interface)
-Less than eight minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
 3
-41
-38
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-29
-141
-112
+VIRAT_S_0102
+4
+3
+2
+4
+3
+4
+2
+3
+3
+2
+3
+1
+2
+1
+2
+2
+1
+1
+2
+3
+18
+45.0
 69393
 25
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
+VIRAT_S_0400
 4
-34
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
 30
+75.0
 71881
 2513
 3
 Timeline 3 (Event Blocks)
-2:3:1
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
-7
-20
-13
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 149353591
 69783
 415
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-206
-433
-227
+VIRAT_S_0002
+4
+1
+5
+1
+3
+2
+5
+2
+3
+1
+3
+4
+2
+4
+2
+4
+4
+3
+3
+4
+33
+82.5
 110900
 41532
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-128
-224
-96
+VIRAT_S_0100
+1
+2
+3
+1
+2
+3
+5
+4
+2
+1
+0
+2
+1
+4
+1
+3
+4
+2
+1
+4
+22
+55.0
 73521
 4153
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
+VIRAT_S_0102
+4
+2
+4
+1
+4
+1
+4
+1
+5
+1
+3
+3
+3
+3
+4
+3
+4
+4
+4
+4
 35
-132
-97
+87.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-103
-200
-97
+VIRAT_S_0400
+4
+2
+4
+1
+3
+1
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+4
+4
+3
+3
+31
+77.5
 69409
 41
 1
 Timeline 1 (Base Interface)
-3:2:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-188
-255
-67
+VIRAT_S_0500
+1
+1
+2
+1
+2
+3
+4
+5
+1
+1
+0
+1
+1
+3
+0
+4
+4
+2
+0
+4
+19
+47.5
 149215102
 74491
 5123
 3
 Timeline 3 (Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-343
-453
-110
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+3
+3
+4
+2
+3
+3
+3
+2
+3
+3
+3
+3
+2
+3
+28
+70.0
 69880
 512
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-409
-543
-134
+VIRAT_S_0100
+2
+3
+4
+4
+2
+4
+2
+5
+2
+4
+1
+3
+1
+1
+1
+2
+1
+1
+0
+1
+12
+30.0
 120602
 51234
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-62
-139
-77
+VIRAT_S_0102
+5
+2
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+31
+77.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-104
-303
-199
+VIRAT_S_0400
+5
+4
+4
+2
+4
+2
+5
+2
+4
+2
+4
+3
+3
+4
+3
+1
+3
+3
+3
+3
+30
+75.0
 69419
 51
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-72
-275
-203
+VIRAT_S_0500
+2
+2
+4
+3
+4
+2
+2
+5
+1
+4
+1
+3
+3
+1
+0
+3
+2
+3
+0
+1
+17
+42.5
 149185311
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-201
-252
-51
+VIRAT_S_0002
+5
+2
+4
+2
+5
+1
+4
+1
+4
+1
+4
+3
+4
+3
+3
+3
+3
+4
+4
+4
+35
+87.5
 69611
 243
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
-68
-142
-74
+VIRAT_S_0100
+4
+1
+4
+1
+4
+1
+5
+1
+5
+1
+3
+3
+3
+4
+4
+4
+4
+4
+4
+4
+37
+92.5
 93719
 24351
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-24:00 – 25:00
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
+VIRAT_S_0102
+3
+1
+5
+1
+3
+1
+5
+1
+5
+1
+2
 4
-107
-103
+2
+4
+4
+4
+4
+4
+4
+4
+36
+90.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
-14
-224
-210
+VIRAT_S_0400
+4
+1
+4
+1
+4
+1
+5
+1
+4
+1
+3
+3
+3
+4
+3
+4
+4
+4
+4
+4
+36
+90.0
 71803
 2435
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-65
-111
-46
+VIRAT_S_0500
+5
+1
+5
+1
+4
+1
+5
+1
+5
+1
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4
+39
+97.5
 149140946
 69399
 31
 1
 Timeline 1 (Base Interface)
-Car 5
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 1 (Base Interface)
-362
-415
-53
+VIRAT_S_0002
+2
+2
+4
+2
+2
+2
+4
+4
+5
+2
+1
+3
+1
+3
+4
+3
+3
+3
+1
+3
+25
+62.5
 69371
 3
 3
 Timeline 3 (Event Blocks)
-Less than eight minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
-370
-460
-90
+VIRAT_S_0100
+4
+2
+4
+2
+3
+2
+3
+3
+4
+1
+3
+3
+2
+2
+3
+3
+3
+3
+2
+4
+28
+70.0
 100613
 31245
 5
 Timeline 5 (Event Thumbnails)
-About three minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-146
-196
-50
+VIRAT_S_0102
+4
+2
+4
+1
+3
+2
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+4
+3
+3
+3
+30
+75.0
 72492
 3124
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-115
-169
-54
+VIRAT_S_0400
+4
+2
+4
+2
+3
+3
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+3
+2
+3
+3
+28
+70.0
 69680
 312
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-71
-142
-71
+VIRAT_S_0500
+5
+2
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+31
+77.5
 149094645
 69413
 45
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-133
-413
-280
+VIRAT_S_0002
+1
+2
+2
+1
+4
+4
+4
+4
+2
+1
+0
+1
+3
+3
+1
+3
+4
+1
+1
+4
+21
+52.5
 114689
 45321
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-23
-74
-51
+VIRAT_S_0100
+3
+2
+2
+4
+2
+4
+4
+3
+2
+2
+2
+1
+1
+3
+1
+3
+1
+1
+2
+3
+18
+45.0
 69821
 453
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
-92
-158
-66
+VIRAT_S_0102
+4
+4
+5
+1
+4
+2
+4
+3
+4
+4
+3
+4
+3
+3
+3
+1
+4
+3
+2
+1
+27
+67.5
 73900
 4532
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
-112
-171
-59
+VIRAT_S_0400
+4
+4
+4
+1
+3
+4
+4
+2
+4
+4
+3
+3
+2
+3
+3
+1
+4
+1
+3
+1
+24
+60.0
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-3:2:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-410
-472
-62
+VIRAT_S_0500
+2
+3
+2
+1
+5
+1
+3
+4
+2
+1
+1
+1
+4
+2
+1
+2
+4
+4
+1
+4
+24
+60.0
 148958404
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-155
-506
-351
+VIRAT_S_0002
+2
+2
+4
+4
+4
+2
+4
+4
+2
+4
+1
+3
+3
+3
+1
+3
+1
+3
+1
+1
+20
+50.0
 73719
 4351
 1
 Timeline 1 (Base Interface)
-Less than two minutes
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-97
-494
-397
+VIRAT_S_0100
+2
+2
+1
+4
+2
+2
+2
+5
+2
+4
+1
+0
+1
+1
+1
+3
+1
+3
+0
+1
+12
+30.0
 69411
 43
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
-364
-470
-106
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+2
+4
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+28
+70.0
 69803
 435
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-248
-317
-69
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+5
+2
+3
+3
+3
+3
+4
+3
+3
+3
+3
+3
+31
+77.5
 112880
 43512
 2
 Timeline 2 (Density Graph)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-400
-504
-104
+VIRAT_S_0500
+4
+2
+2
+4
+4
+2
+2
+4
+2
+4
+3
+1
+3
+1
+1
+3
+1
+3
+1
+1
+18
+45.0
 148904494
 73520
 4152
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-91
-320
-229
+VIRAT_S_0002
+3
+2
+4
+1
+4
+2
+4
+2
+4
+1
+2
+3
+3
+3
+3
+3
+4
+3
+3
+4
+31
+77.5
 69409
 41
 1
 Timeline 1 (Base Interface)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-118
-317
-199
+VIRAT_S_0100
+2
+2
+5
+1
+3
+2
+5
+2
+4
+1
+1
+4
+2
+4
+3
+3
+4
+3
+3
+4
+31
+77.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-87
-196
-109
+VIRAT_S_0102
+4
+2
+3
+3
+4
+2
+3
+2
+4
+4
+3
+2
+3
+2
+3
+3
+2
+3
+3
+1
+25
+62.5
 110891
 41523
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
-128
-193
-65
+VIRAT_S_0400
+4
+2
+4
+1
+4
+2
+4
+2
+5
+1
+3
+3
+3
+3
+4
+3
+4
+3
+3
+4
+33
+82.5
 69783
 415
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-105
-152
-47
+VIRAT_S_0500
+5
+2
+5
+1
+4
+2
+5
+2
+5
+1
+4
+4
+3
+4
+4
+3
+4
+3
+3
+4
+36
+90.0
 148822625
 93683
 24315
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
-121
-194
-73
+VIRAT_S_0002
+3
+2
+1
+4
+1
+3
+2
+1
+4
+1
+2
+0
+0
+1
+3
+3
+1
+2
+4
+4
+20
+50.0
 71799
 2431
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-93
-164
-71
+VIRAT_S_0100
+1
+1
+4
+1
+3
+2
+5
+1
+2
+1
+0
+3
+2
+4
+1
+4
+4
+3
+4
+4
+29
+72.5
 69370
 2
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-88
-161
-73
+VIRAT_S_0102
+4
+5
+4
+1
+4
+1
+4
+1
+4
+3
+3
+3
+3
+3
+3
+0
+4
+4
+4
+2
+29
+72.5
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-53
-145
-92
+VIRAT_S_0400
+5
+1
+5
+1
+5
+1
+4
+1
+5
+2
+4
+4
+4
+3
+4
+4
+4
+4
+4
+3
+38
+95.0
 69611
 243
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-92
-154
-62
+VIRAT_S_0500
+5
+1
+4
+1
+5
+1
+4
+1
+5
+2
+4
+3
+4
+3
+4
+4
+4
+4
+4
+3
+37
+92.5
 148796085
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
-182
-356
-174
+VIRAT_S_0002
+3
+4
+3
+3
+2
+4
+3
+3
+3
+4
+2
+2
+1
+2
+2
+1
+2
+1
+2
+1
+16
+40.0
 69419
 51
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-64
-125
-61
+VIRAT_S_0100
+1
+2
+1
+3
+3
+2
+4
+5
+1
+2
+0
+0
+2
+3
+0
+3
+2
+3
+0
+3
+16
+40.0
 69881
 513
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
-47
-114
-67
+VIRAT_S_0102
+2
+4
+2
+2
+2
+4
+1
+4
+3
+3
+1
+1
+1
+0
+2
+1
+3
+1
+1
+2
+13
+32.5
 120692
 51324
 4
 Timeline 4 (Density Graph + Event Blocks)
-About nine minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-31
-104
-73
+VIRAT_S_0400
+2
+5
+1
+4
+2
+4
+2
+4
+3
+3
+1
+0
+1
+1
+2
+0
+1
+1
+1
+2
+10
+25.0
 74500
 5132
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-105
-178
-73
+VIRAT_S_0500
+2
+3
+4
+3
+3
+4
+4
+3
+2
+3
+1
+3
+2
+3
+1
+2
+2
+1
+2
+2
+19
+47.5
 148786365
 69602
 234
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-202
-312
-110
+VIRAT_S_0002
+4
+3
+4
+1
+3
+2
+4
+2
+3
+1
+3
+3
+2
+3
+2
+2
+4
+3
+3
+4
+29
+72.5
 69370
 2
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-160
-233
-73
+VIRAT_S_0100
+2
+3
+2
+1
+3
+3
+4
+4
+3
+1
+1
+1
+2
+3
+2
+2
+4
+2
+1
+4
+22
+55.0
 69391
 23
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
+VIRAT_S_0102
+4
+2
+4
+1
+3
+2
+4
+2
+4
+1
+3
+3
+2
+3
+3
+3
+4
+3
+3
+4
 31
-82
-51
+77.5
 71709
 2341
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-27
-114
-87
+VIRAT_S_0400
+2
+2
+4
+1
+3
+3
+4
+4
+2
+1
+1
+3
+2
+3
+1
+3
+4
+2
+1
+4
+24
+60.0
 92783
 23415
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-52
-87
-35
+VIRAT_S_0500
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 148784892
 72789
 3421
 1
 Timeline 1 (Base Interface)
-Car 4
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
-75
-145
-70
+VIRAT_S_0002
+2
+4
+2
+4
+3
+2
+2
+4
+2
+4
+1
+1
+2
+1
+1
+1
+1
+3
+1
+1
+13
+32.5
 69402
 34
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than sixteen minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
-97
-153
-56
+VIRAT_S_0100
+3
+2
+4
+3
+4
+2
+3
+3
+3
+3
+2
+3
+3
+2
+2
+3
+2
+3
+2
+2
+24
+60.0
 103583
 34215
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-97
-168
-71
+VIRAT_S_0102
+2
+2
+4
+2
+4
+2
+4
+2
+4
+2
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+28
+70.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-99
-183
-84
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+3
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+2
+3
+29
+72.5
 69710
 342
 2
 Timeline 2 (Density Graph)
-2:3:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-30
-96
-66
+VIRAT_S_0500
+2
+2
+3
+4
+4
+2
+4
+3
+3
+3
+1
+2
+3
+3
+2
+3
+1
+3
+2
+2
+22
+55.0
 148768751
 69622
 254
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-150
-342
-192
+VIRAT_S_0002
+2
+3
+4
+1
+2
+1
+3
+3
+3
+1
+1
+3
+1
+2
+2
+2
+4
+4
+2
+4
+25
+62.5
 69370
 2
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-194
-326
-132
+VIRAT_S_0100
+4
+1
+3
+1
+4
+1
+5
+3
+5
+2
+3
+2
+3
+4
+4
+4
+4
+4
+2
+3
+33
+82.5
 69393
 25
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-54
-112
-58
+VIRAT_S_0102
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 71911
 2543
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
-52
-169
-117
+VIRAT_S_0400
+2
+2
+4
+1
+2
+1
+4
+2
+4
+2
+1
+3
+1
+3
+3
+3
+4
+4
+3
+3
+28
+70.0
 94799
 25431
 1
 Timeline 1 (Base Interface)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-260
-370
-110
+VIRAT_S_0500
+1
+1
+5
+1
+5
+1
+5
+4
+5
+1
+0
+4
+4
+4
+4
+4
+4
+4
+1
+4
+33
+82.5
 148743058
 74680
 5312
 2
 Timeline 2 (Density Graph)
-Car 5
-False
-18:00 – 20:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-90
-150
-60
+VIRAT_S_0002
+2
+5
+2
+5
+2
+5
+5
+2
+2
+2
+1
+1
+1
+4
+1
+0
+0
+0
+3
+3
+14
+35.0
 69421
 53
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-28:20 – 28:30
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-129
-272
-143
+VIRAT_S_0100
+3
+5
+1
+5
+1
+5
+3
+5
+3
+5
+2
+0
+0
+2
+2
+0
+0
+0
+0
+0
+6
+15.0
 122492
 53124
 4
 Timeline 4 (Density Graph + Event Blocks)
-About one minute
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
-7
-159
-152
+VIRAT_S_0102
+2
+5
+2
+5
+2
+5
+5
+5
+5
+2
+1
+1
+1
+4
+4
+0
+0
+0
+0
+3
+14
+35.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-75
-234
-159
+VIRAT_S_0400
+3
+4
+3
+4
+3
+5
+5
+5
+5
+1
+2
+2
+2
+4
+4
+1
+1
+0
+0
+4
+20
+50.0
 69899
 531
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-85
-168
-83
+VIRAT_S_0500
+3
+2
+2
+4
+4
+4
+4
+4
+4
+4
+2
+1
+3
+3
+3
+3
+1
+1
+1
+1
+19
+47.5
 148558714
 72582
 3214
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-217
-320
-103
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+2
+2
+4
+3
+3
+3
+3
+1
+3
+3
+3
+3
+3
+2
+27
+67.5
 69689
 321
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-257
-589
-332
+VIRAT_S_0100
+2
+1
+4
+2
+3
+3
+4
+4
+2
+2
+1
+3
+2
+3
+1
+4
+3
+2
+1
+3
+23
+57.5
 69400
 32
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-97
-263
-166
+VIRAT_S_0102
+3
+2
+4
+2
+4
+2
+3
+4
+3
+3
+2
+3
+3
+2
+2
+3
+3
+3
+1
+2
+24
+60.0
 101513
 32145
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-47
-203
-156
+VIRAT_S_0400
+5
+2
+4
+2
+4
+1
+4
+1
+4
+2
+4
+3
+3
+3
+3
+3
+3
+4
+4
+3
+33
+82.5
 69371
 3
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-83
-513
-430
+VIRAT_S_0500
+4
+1
+5
+2
+4
+2
+4
+2
+4
+2
+3
+4
+3
+3
+3
+4
+3
+3
+3
+3
+32
+80.0
 148552210
 74709
 5341
 1
 Timeline 1 (Base Interface)
-Car 4
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 1 (Base Interface)
-105
-190
-85
+VIRAT_S_0002
+3
+3
+4
+1
+4
+2
+2
+2
+4
+2
+2
+3
+3
+1
+3
+2
+4
+3
+3
+3
+27
+67.5
 69421
 53
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-222
-370
-148
+VIRAT_S_0100
+2
+3
+3
+3
+3
+4
+2
+4
+2
+3
+1
+2
+2
+1
+1
+2
+2
+1
+1
+2
+15
+37.5
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-96
-189
-93
+VIRAT_S_0102
+4
+2
+4
+2
+3
+3
+4
+3
+4
+2
+3
+3
+2
+3
+3
+3
+3
+2
+2
+3
+27
+67.5
 122780
 53412
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
-47
-232
-185
+VIRAT_S_0400
+4
+3
+4
+2
+4
+2
+4
+2
+3
+2
+3
+3
+3
+3
+2
+2
+3
+3
+3
+3
+28
+70.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-1:3:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-596
-1001
-405
+VIRAT_S_0500
+3
+4
+2
+3
+2
+3
+2
+4
+3
+4
+2
+1
+1
+1
+2
+1
+2
+2
+1
+1
+14
+35.0
 148551719
 69422
 54
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-129
-282
-153
+VIRAT_S_0002
+2
+4
+4
+2
+5
+2
+2
+5
+3
+3
+1
+3
+4
+1
+2
+1
+3
+3
+0
+2
+20
+50.0
 123599
 54231
 1
 Timeline 1 (Base Interface)
-Less than eight minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-147
-231
-84
+VIRAT_S_0100
+1
+2
+4
+1
+2
+2
+4
+5
+1
+4
+0
+3
+1
+3
+0
+3
+4
+3
+0
+1
+18
+45.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
-53
-137
-84
+VIRAT_S_0102
+5
+2
+4
+1
+5
+1
+5
+2
+4
+1
+4
+3
+4
+4
+3
+3
+4
+4
+3
+4
+36
+90.0
 69910
 542
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
-76
-144
-68
+VIRAT_S_0400
+4
+2
+1
+5
+5
+2
+5
+2
+5
+2
+3
+0
+4
+4
+4
+3
+0
+3
+3
+3
+27
+67.5
 74791
 5423
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-88
-173
-85
+VIRAT_S_0500
+5
+1
+5
+2
+5
+1
+5
+2
+5
+1
+4
+4
+4
+4
+4
+4
+3
+4
+3
+4
+38
+95.0
 148547931
 69370
 2
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-217
-403
-186
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+5
+2
+4
+1
+3
+3
+3
+4
+3
+3
+3
+3
+3
+4
+32
+80.0
 69393
 25
 5
 Timeline 5 (Event Thumbnails)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
-235
-396
-161
+VIRAT_S_0100
+5
+1
+4
+2
+5
+2
+5
+2
+4
+2
+4
+3
+4
+4
+3
+4
+3
+3
+3
+3
+34
+85.0
 69619
 251
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
-93
-177
-84
+VIRAT_S_0102
+2
+1
+5
+1
+4
+2
+5
+4
+4
+1
+1
+4
+3
+4
+3
+4
+4
+3
+1
+4
+31
+77.5
 71882
 2514
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-463
-551
-88
+VIRAT_S_0400
+3
+3
+4
+4
+2
+4
+2
+4
+3
+3
+2
+3
+1
+1
+2
+2
+1
+1
+1
+2
+16
+40.0
 94511
 25143
 3
 Timeline 3 (Event Blocks)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-294
-425
-131
+VIRAT_S_0500
+3
+2
+4
+2
+4
+5
+4
+2
+4
+1
+2
+3
+3
+3
+3
+3
+3
+0
+3
+4
+27
+67.5
 148516311
 74791
 5423
 3
 Timeline 3 (Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-71
-172
-101
+VIRAT_S_0002
+3
+2
+4
+1
+4
+2
+3
+4
+4
+2
+2
+3
+3
+2
+3
+3
+4
+3
+1
+3
+27
+67.5
 69910
 542
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-105
-189
-84
+VIRAT_S_0100
+2
+2
+3
+1
+2
+2
+4
+5
+3
+1
+1
+2
+1
+3
+2
+3
+4
+3
+0
+4
+23
+57.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-41
-108
-67
+VIRAT_S_0102
+4
+2
+4
+1
+3
+2
+4
+4
+5
+1
+3
+3
+2
+3
+4
+3
+4
+3
+1
+4
+30
+75.0
 123599
 54231
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
+VIRAT_S_0400
+1
+1
+4
+1
+2
+2
+4
+5
+4
+2
+0
+3
+1
+3
+3
+4
+4
+3
+0
+3
 24
-104
-80
+60.0
 69422
 54
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
-80
-189
-109
+VIRAT_S_0500
+3
+2
+4
+2
+3
+4
+3
+2
+2
+2
+2
+3
+2
+2
+1
+3
+3
+1
+3
+3
+23
+57.5
 148506658
 69413
 45
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-229
-296
-67
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 73880
 4512
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-11
-63
-52
+VIRAT_S_0100
+2
+2
+2
+2
+4
+2
+4
+4
+2
+3
+1
+1
+3
+3
+1
+3
+3
+3
+1
+2
+21
+52.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-52
-121
-69
+VIRAT_S_0102
+4
+2
+4
+2
+4
+1
+5
+1
+4
+2
+3
+3
+3
+4
+3
+3
+3
+4
+4
+3
+33
+82.5
 69368
 0
 0
 Other
-About six minutes
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-62
-154
-92
+VIRAT_S_0400
+4
+2
+4
+2
+2
+2
+5
+1
+3
+2
+3
+3
+1
+4
+2
+3
+3
+3
+4
+3
+29
+72.5
 69819
 451
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-27
-66
-39
+VIRAT_S_0500
+2
+2
+2
+2
+3
+2
+4
+4
+2
+4
+1
+1
+2
+3
+1
+3
+3
+3
+1
+1
+19
+47.5
 148463769
 74511
 5143
 3
 Timeline 3 (Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-332
-462
-130
+VIRAT_S_0002
+2
+3
+3
+2
+3
+2
+2
+2
+3
+2
+1
+2
+2
+1
+2
+2
+3
+3
+3
+3
+22
+55.0
 69882
 514
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
+VIRAT_S_0100
+2
+4
+4
+2
 3
-215
-212
+2
+2
+3
+3
+2
+1
+3
+2
+1
+2
+1
+3
+3
+2
+3
+21
+52.5
 120800
 51432
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-99
-149
-50
+VIRAT_S_0102
+2
+3
+2
+2
+2
+3
+3
+4
+3
+2
+1
+1
+1
+2
+2
+2
+3
+2
+1
+3
+18
+45.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-27
-61
-34
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69419
 51
 1
 Timeline 1 (Base Interface)
-3:2:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-364
-390
-26
+VIRAT_S_0500
+2
+2
+4
+2
+2
+3
+4
+4
+2
+2
+1
+3
+1
+3
+1
+3
+3
+2
+1
+3
+21
+52.5
 148457705
 69410
 42
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-58
-189
-131
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+4
+5
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+0
+3
+27
+67.5
 69793
 425
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
-50
-147
-97
+VIRAT_S_0100
+4
+3
+4
+2
+2
+2
+4
+4
+4
+2
+3
+3
+1
+3
+3
+2
+3
+3
+1
+3
+25
+62.5
 111899
 42531
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
-19
-82
-63
+VIRAT_S_0102
+2
+2
+2
+2
+4
+3
+4
+5
+4
+2
+1
+1
+3
+3
+3
+3
+3
+2
+0
+3
+22
+55.0
 73621
 4253
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
-35
-87
-52
+VIRAT_S_0400
+4
+2
+4
+2
+5
+2
+4
+1
+4
+2
+3
+3
+4
+3
+3
+3
+3
+3
+4
+3
+32
+80.0
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-98
-276
-178
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+5
+2
+4
+2
+3
+3
+3
+4
+3
+3
+3
+3
+3
+3
+31
+77.5
 148379134
 69680
 312
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-128
-290
-162
+VIRAT_S_0002
+1
+4
+2
+5
+3
+4
+2
+5
+2
+4
+0
+1
+2
+1
+1
+1
+0
+1
+0
+1
+8
+20.0
 100613
 31245
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
-83
-178
-95
+VIRAT_S_0100
+2
+2
+3
+5
+3
+2
+2
+4
+3
+4
+1
+2
+2
+1
+2
+3
+0
+3
+1
+1
+16
+40.0
 72492
 3124
 4
 Timeline 4 (Density Graph + Event Blocks)
-About three minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-55
-100
-45
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+1
+4
+4
+3
+3
+3
+3
+3
+3
+3
+3
+4
+1
+29
+72.5
 69399
 31
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-88
-203
-115
+VIRAT_S_0400
+1
+3
+3
+4
+4
+2
+2
+5
+2
+2
+0
+2
+3
+1
+1
+2
+1
+3
+0
+3
+16
+40.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-75
-161
-86
+VIRAT_S_0500
+3
+2
+4
+2
+4
+2
+4
+2
+4
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+1
+27
+67.5
 148377252
 69368
 0
 0
 Other
-Car 5
-False
-13:00 – 15:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-5
-63
-58
-69368
-0
-0
-Other
-Less than eight minutes
-False
-49:20 – 49:30
-False
-VIRAT_S_0100
-Timeline 5 (Event Thumbnails)
-9
-62
-53
-69368
-0
-0
-Other
-About three minutes
-False
-26:00 – 27:00
-False
-VIRAT_S_0102
-Timeline 1 (Base Interface)
-10
-63
-53
-69368
-0
-0
-Other
-About twelve minutes
-False
-35:00 – 36:00
-False
-VIRAT_S_0400
-Timeline 5 (Event Thumbnails)
+VIRAT_S_0002
 3
-91
-88
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69368
 0
 0
 Other
-2:3:1
-False
-A safety helmet
-False
-VIRAT_S_0500
+Timeline 5 (Event Thumbnails)
+VIRAT_S_0100
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
+69368
+0
+0
+Other
+Timeline 1 (Base Interface)
+VIRAT_S_0102
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
+69368
+0
+0
+Other
+Timeline 5 (Event Thumbnails)
+VIRAT_S_0400
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
+69368
+0
+0
+Other
 Timeline 3 (Event Blocks)
-14
-72
-58
+VIRAT_S_0500
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 148367695
 69368
 0
 0
 Other
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-264
-427
-163
+VIRAT_S_0002
+1
+4
+3
+4
+3
+4
+3
+4
+3
+4
+0
+2
+2
+2
+2
+1
+1
+1
+1
+1
+13
+32.5
 69393
 25
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
-73
-85
-12
+VIRAT_S_0100
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69368
 0
 0
 Other
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
-99
-281
-182
+VIRAT_S_0102
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-180
-311
-131
+VIRAT_S_0400
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69368
 0
 0
 Other
-2:3:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-74
-441
-367
+VIRAT_S_0500
+3
+2
+4
+2
+4
+3
+4
+2
+4
+2
+2
+3
+3
+3
+3
+3
+3
+2
+3
+3
+28
+70.0
 148355343
 71682
 2314
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 4
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
-123
-207
-84
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 92513
 23145
 5
 Timeline 5 (Event Thumbnails)
-Less than eight minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-162
-225
-63
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69599
 231
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-54
-140
-86
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-85
-185
-100
+VIRAT_S_0400
+3
+2
+4
+2
+4
+2
+4
+2
+4
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+29
+72.5
 69391
 23
 3
 Timeline 3 (Event Blocks)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-167
-235
-68
+VIRAT_S_0500
+4
+4
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+1
+3
+3
+3
+3
+28
+70.0
 148250834
 69611
 243
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-200
-274
-74
+VIRAT_S_0002
+5
+2
+4
+2
+4
+1
+4
+2
+5
+2
+4
+3
+3
+3
+4
+3
+3
+4
+3
+3
+33
+82.5
 93719
 24351
 1
 Timeline 1 (Base Interface)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-119
-283
-164
+VIRAT_S_0100
+3
+1
+4
+1
+4
+1
+5
+5
+2
+1
+2
+3
+3
+4
+1
+4
+4
+4
+0
+4
+29
+72.5
 69370
 2
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-125
-213
-88
+VIRAT_S_0102
+4
+2
+4
+1
+4
+2
+5
+4
+4
+2
+3
+3
+3
+4
+3
+3
+4
+3
+1
+3
+30
+75.0
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-52
-153
-101
+VIRAT_S_0400
+5
+3
+4
+2
+4
+2
+4
+2
+5
+1
+4
+3
+3
+3
+4
+2
+3
+3
+3
+4
+32
+80.0
 71803
 2435
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-80
-135
-55
+VIRAT_S_0500
+5
+2
+5
+1
+4
+2
+4
+1
+5
+2
+4
+4
+3
+3
+4
+3
+4
+3
+4
+3
+35
+87.5
 148242096
 69510
 142
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-274
-482
-208
+VIRAT_S_0002
+2
+3
+2
+2
+2
+3
+4
+4
+3
+2
+1
+1
+1
+3
+2
+2
+3
+2
+1
+3
+19
+47.5
 70791
 1423
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
-99
-157
-58
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-172
-255
-83
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-57
-151
-94
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 83603
 14235
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-85
-137
-52
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 148225108
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 4
-False
-32:00 – 35:00
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-72
-120
-48
+VIRAT_S_0002
+3
+4
+4
+4
+4
+4
+3
+3
+3
+3
+2
+3
+3
+2
+2
+1
+1
+1
+2
+2
+19
+47.5
 73881
 4513
 3
 Timeline 3 (Event Blocks)
-Less than fourteen minutes
-False
-29:20 – 29:30
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
-20
-94
-74
+VIRAT_S_0100
+4
+4
+4
+4
+4
+4
+2
+3
+3
+3
+3
+3
+3
+1
+2
+1
+1
+1
+2
+2
+19
+47.5
 69413
 45
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
-33
-126
-93
+VIRAT_S_0102
+4
+4
+4
+4
+4
+3
+3
+2
+2
+2
+3
+3
+3
+2
+1
+1
+1
+2
+3
+3
+22
+55.0
 69819
 451
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-30:00 – 31:00
-False
-VIRAT_S_0400
 Timeline 1 (Base Interface)
-41
-78
-37
+VIRAT_S_0400
+4
+4
+4
+4
+4
+4
+4
+2
+2
+2
+3
+3
+3
+3
+1
+1
+1
+1
+3
+3
+22
+55.0
 114500
 45132
 2
 Timeline 2 (Density Graph)
-2:3:1
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-31
-65
-34
+VIRAT_S_0500
+4
+4
+4
+4
+4
+4
+4
+2
+4
+3
+3
+3
+3
+3
+3
+1
+1
+1
+3
+2
+23
+57.5
 148191331
 69491
 123
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
+VIRAT_S_0002
+1
+4
+1
+1
+1
+5
+1
+4
+1
+1
 0
-189
-189
+0
+0
+0
+0
+1
+4
+0
+1
+4
+10
+25.0
 69380
 12
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
+VIRAT_S_0100
+3
 2
-163
-161
+4
+1
+4
+4
+1
+4
+3
+1
+2
+3
+3
+0
+2
+3
+4
+1
+1
+4
+23
+57.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
+VIRAT_S_0102
 2
-182
-180
+1
+4
+1
+3
+4
+4
+4
+3
+1
+1
+3
+2
+3
+2
+4
+4
+1
+1
+4
+25
+62.5
 81722
 12354
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
+VIRAT_S_0400
+4
+4
+4
+1
+4
 2
-129
-127
+2
+3
+4
+1
+3
+3
+3
+1
+3
+1
+4
+3
+2
+4
+27
+67.5
 70603
 1235
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
+VIRAT_S_0500
+5
 1
-160
-159
+5
+1
+5
+1
+4
+1
+5
+1
+4
+4
+4
+3
+4
+4
+4
+4
+4
+4
+39
+97.5
 148121549
 69520
 152
 2
 Timeline 2 (Density Graph)
-Car 2
-False
-16:00 – 18:00
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-17
-111
-94
+VIRAT_S_0002
+3
+4
+5
+3
+4
+3
+5
+3
+3
+3
+2
+4
+3
+4
+2
+1
+2
+2
+2
+2
+24
+60.0
 84611
 15243
 3
 Timeline 3 (Event Blocks)
-Less than twelve minutes
-False
-29:20 – 29:30
-False
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
-12
-140
-128
+VIRAT_S_0100
+4
+4
+5
+3
+4
+4
+3
+5
+3
+4
+3
+4
+3
+2
+2
+1
+2
+1
+0
+1
+19
+47.5
 70892
 1524
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-19:00 – 20:00
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-10
-98
-88
+VIRAT_S_0102
+4
+5
+2
+5
+5
+4
+3
+5
+4
+3
+3
+1
+4
+2
+3
+0
+0
+1
+0
+2
+16
+40.0
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-About twelve minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-12
-113
-101
+VIRAT_S_0400
+3
+4
+5
+5
+4
+4
+3
+3
+4
+4
+2
+4
+3
+2
+3
+1
+0
+1
+2
+1
+19
+47.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-3:1:2
-False
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
-14
-109
-95
+VIRAT_S_0500
+4
+5
+5
+4
+4
+3
+3
+4
+4
+3
+3
+4
+3
+2
+3
+0
+1
+2
+1
+2
+21
+52.5
 148121544
 69582
 214
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 5
-False
-13:00 – 15:00
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
+VIRAT_S_0002
+3
+3
+4
+4
+5
+5
+3
+4
+3
+4
+2
+3
+4
+2
+2
+2
+1
+0
+1
+1
 18
-129
-111
+45.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-Less than fourteen minutes
-False
-38:20 – 38:30
-False
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
-17
-128
-111
+VIRAT_S_0100
+3
+4
+5
+4
+4
+3
+3
+4
+5
+4
+2
+4
+3
+2
+4
+1
+1
+2
+1
+1
+21
+52.5
 90821
 21453
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-40:00 – 41:00
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-16
-157
-141
+VIRAT_S_0102
+3
+3
+5
+3
+5
+4
+4
+5
+3
+4
+2
+4
+4
+3
+2
+2
+2
+1
+0
+1
+21
+52.5
 71513
 2145
 5
 Timeline 5 (Event Thumbnails)
-About twenty minutes
-False
-55:00 – 56:00
-False
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-16
-116
-100
+VIRAT_S_0400
+3
+5
+3
+4
+4
+3
+5
+4
+3
+4
+2
+2
+3
+4
+2
+0
+1
+2
+1
+1
+18
+45.0
 69389
 21
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-21
-134
-113
+VIRAT_S_0500
+3
+4
+4
+5
+5
+4
+4
+3
+3
+4
+2
+3
+4
+3
+2
+1
+0
+1
+2
+1
+19
+47.5
 148121371
 101909
 32541
 1
 Timeline 1 (Base Interface)
-Car 3
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
+VIRAT_S_0002
+3
+5
+5
+4
+4
+3
+3
+4
+4
+4
+2
+4
+3
+2
+3
+0
 1
-84
-83
+2
+1
+1
+19
+47.5
 69400
 32
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-49:20 – 49:30
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
-11
-100
-89
+VIRAT_S_0100
+3
+4
+5
+4
+4
+3
+3
+3
+4
+4
+2
+4
+3
+2
+3
+1
+1
+2
+2
+1
+21
+52.5
 72622
 3254
 4
 Timeline 4 (Density Graph + Event Blocks)
-About three minutes
-False
-20:00 – 21:00
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-9
-240
-231
+VIRAT_S_0102
+4
+5
+5
+4
+4
+3
+3
+4
+4
+3
+3
+4
+3
+2
+3
+0
+1
+2
+1
+2
+21
+52.5
 69693
 325
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-55:00 – 56:00
-False
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-13
-106
-93
+VIRAT_S_0400
+5
+5
+4
+4
+3
+3
+4
+4
+3
+4
+4
+3
+2
+3
+2
+0
+1
+2
+1
+1
+19
+47.5
 69371
 3
 3
 Timeline 3 (Event Blocks)
-3:1:2
-False
-A safety helmet
-False
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-25
-127
-102
+VIRAT_S_0500
+5
+4
+4
+3
+3
+3
+4
+5
+4
+4
+4
+3
+2
+3
+3
+1
+2
+2
+0
+1
+21
+52.5
 148121369
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-Car 4
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-28
-148
-120
+VIRAT_S_0002
+2
+3
+4
+5
+4
+4
+3
+3
+4
+4
+1
+3
+3
+2
+3
+2
+0
+1
+2
+1
+18
+45.0
 74709
 5341
 1
 Timeline 1 (Base Interface)
-Less than sixteen minutes
-False
-47:20 – 47:30
-False
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
-15
-256
-241
+VIRAT_S_0100
+3
+5
+4
+4
+3
+3
+3
+4
+4
+4
+2
+3
+2
+2
+3
+0
+1
+2
+1
+1
+17
+42.5
 69421
 53
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-20:00 – 21:00
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-23
-124
-101
+VIRAT_S_0102
+4
+5
+5
+4
+4
+3
+3
+4
+4
+4
+3
+4
+3
+2
+3
+0
+1
+2
+1
+1
+20
+50.0
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-About twelve minutes
-False
-10:00 – 11:00
-False
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
-17
-123
-106
+VIRAT_S_0400
+4
+5
+4
+4
+3
+3
+4
+4
+5
+4
+3
+3
+2
+3
+4
+0
+1
+2
+1
+1
+20
+50.0
 122780
 53412
 2
 Timeline 2 (Density Graph)
-3:1:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
-21
-119
-98
+VIRAT_S_0500
+3
+4
+5
+5
+4
+4
+3
+3
+4
+4
+2
+4
+3
+2
+3
+1
+0
+1
+2
+1
+19
+47.5
 148088832
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-114
-325
-211
+VIRAT_S_0002
+2
+2
+4
+1
+2
+2
+4
+4
+4
+1
+1
+3
+1
+3
+3
+3
+4
+3
+1
+4
+26
+65.0
 123689
 54321
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-90
-185
-95
+VIRAT_S_0100
+1
+2
+4
+1
+1
+1
+4
+5
+1
+1
+0
+3
+0
+3
+0
+3
+4
+4
+0
+4
+21
+52.5
 74800
 5432
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-50
-107
-57
+VIRAT_S_0102
+2
+2
+2
+1
+2
+2
+4
+5
+3
+1
+1
+1
+1
+3
+2
+3
+4
+3
+0
+4
+22
+55.0
 69422
 54
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-84
-177
-93
+VIRAT_S_0400
+4
+2
+4
+1
+4
+2
+4
+2
+5
+1
+3
+3
+3
+3
+4
+3
+4
+3
+3
+4
+33
+82.5
 69911
 543
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-16
-86
-70
+VIRAT_S_0500
+3
+2
+4
+1
+3
+2
+4
+2
+4
+1
+2
+3
+2
+3
+3
+3
+4
+3
+3
+4
+30
+75.0
 148087855
 69513
 145
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
-145
-218
-73
+VIRAT_S_0002
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 70820
 1452
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-214
-290
-76
+VIRAT_S_0100
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-149
-237
-88
+VIRAT_S_0102
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 83891
 14523
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
-66
-132
-66
+VIRAT_S_0400
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-3:2:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-305
-416
-111
+VIRAT_S_0500
+3
+1
+5
+1
+4
+1
+5
+1
+5
+1
+2
+4
+3
+4
+4
+4
+4
+4
+4
+4
+37
+92.5
 148072624
 69609
 241
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
-279
-460
-181
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 71783
 2415
 5
 Timeline 5 (Event Thumbnails)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
-431
-612
-181
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
-45
-142
-97
+VIRAT_S_0102
+5
+2
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+31
+77.5
 69370
 2
 2
 Timeline 2 (Density Graph)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
-9
-429
-420
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+29
+72.5
 93521
 24153
 3
 Timeline 3 (Event Blocks)
-3:1:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-338
-477
-139
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 148063804
 70800
 1432
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-32:00 – 35:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-8
-64
-56
+VIRAT_S_0002
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+1
+2
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 69511
 143
 3
 Timeline 3 (Event Blocks)
-Less than fourteen minutes
-False
-29:20 – 29:30
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-20
-65
-45
+VIRAT_S_0100
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+1
+1
+1
+1
+3
+3
+3
+3
+3
+22
+55.0
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-About three minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
+VIRAT_S_0102
 2
-75
-73
+3
+2
+3
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+2
+2
+3
+3
+3
+18
+45.0
 83693
 14325
 5
 Timeline 5 (Event Thumbnails)
-About nine minutes
-False
-30:00 – 31:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
+VIRAT_S_0400
+4
 2
-62
-60
+2
+2
+2
+2
+2
+2
+2
+2
+3
+1
+1
+1
+1
+3
+3
+3
+3
+3
+22
+55.0
 6936969369
 6936900001
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A backpack
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
+VIRAT_S_0500
 3
-66
-63
+2
+3
+3
+4
+4
+3
+2
+2
+2
+2
+2
+3
+2
+1
+3
+2
+1
+3
+3
+22
+55.0
 148063806
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 5
-False
-13:00 – 15:00
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
-20
-77
-57
+VIRAT_S_0002
+3
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+1
+1
+2
+1
+3
+3
+3
+3
+3
+22
+55.0
 69511
 143
 3
 Timeline 3 (Event Blocks)
-Less than sixteen minutes
-False
-29:20 – 29:30
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-21
-64
-43
+VIRAT_S_0100
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+2
+3
+3
+3
+3
+19
+47.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-About three minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
-10
-69
-59
+VIRAT_S_0102
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 83693
 14325
 5
 Timeline 5 (Event Thumbnails)
-About nine minutes
-False
-20:00 – 21:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
+VIRAT_S_0400
+3
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
 1
-67
-66
+1
+1
+1
+3
+2
+3
+3
+3
+20
+50.0
 70800
 1432
 2
 Timeline 2 (Density Graph)
-1:2:3
-False
-A backpack
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-16
-67
-51
+VIRAT_S_0500
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+20
+50.0
 148063807
 69369
 1
 1
 Timeline 1 (Base Interface)
-Car 5
-False
-20:00 – 22:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-6
-68
-62
+VIRAT_S_0002
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+1
+1
+1
+1
+2
+3
+3
+3
+3
+3
+21
+52.5
 83693
 14325
 5
 Timeline 5 (Event Thumbnails)
-Less than two minutes
-True
-49:20 – 49:30
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
+VIRAT_S_0100
+2
+2
+3
+3
+2
+2
+2
+2
+2
+2
 1
-67
-66
+2
+1
+1
+1
+3
+2
+3
+3
+3
+20
+50.0
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-About two minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0102
 Timeline 2 (Density Graph)
+VIRAT_S_0102
+3
 2
-76
-74
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 69511
 143
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-30:00 – 31:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
-20
-64
-44
+VIRAT_S_0400
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 70800
 1432
 2
 Timeline 2 (Density Graph)
-3:1:2
-False
-A backpack
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-14
-63
-49
+VIRAT_S_0500
+2
+2
+2
+2
+3
+2
+2
+2
+2
+2
+1
+1
+2
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 148063808
 69511
 143
 3
 Timeline 3 (Event Blocks)
-Car 4
-False
-20:00 – 22:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-22
-66
-44
+VIRAT_S_0002
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 70800
 1432
 2
 Timeline 2 (Density Graph)
-Less than sixteen minutes
-False
-47:20 – 47:30
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-27
-67
-40
+VIRAT_S_0100
+3
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+2
+3
+20
+50.0
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-About two minutes
-False
-20:00 – 21:00
-False
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
-20
-77
-57
+VIRAT_S_0102
+3
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+1
+1
+2
+1
+3
+3
+3
+3
+3
+22
+55.0
 83693
 14325
 5
 Timeline 5 (Event Thumbnails)
-About nine minutes
-False
-20:00 – 21:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
+VIRAT_S_0400
+3
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
 1
-67
-66
+1
+1
+3
+3
+3
+3
+3
+22
+55.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-1:3:2
-False
-A backpack
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
-10
-69
-59
+VIRAT_S_0500
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 148063802
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-11:00 – 14:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
+VIRAT_S_0002
 2
-71
-69
+2
+3
+2
+2
+2
+2
+2
+2
+2
+1
+2
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 70800
 1432
 2
 Timeline 2 (Density Graph)
-Less than fourteen minutes
-False
-38:20 – 38:30
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
+VIRAT_S_0100
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
 1
-63
-62
+1
+1
+1
+3
+3
+3
+3
+3
+21
+52.5
 83693
 14325
 5
 Timeline 5 (Event Thumbnails)
-About two minutes
-False
-20:00 – 21:00
-False
-VIRAT_S_0102
 Timeline 2 (Density Graph)
+VIRAT_S_0102
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
 1
-62
-61
+1
+1
+1
+1
+3
+3
+3
+3
+3
+20
+50.0
 69511
 143
 3
 Timeline 3 (Event Blocks)
-About nine minutes
-False
-20:00 – 21:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
+VIRAT_S_0400
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+3
+3
+3
+3
+3
 21
-66
-45
+52.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-1:2:3
-False
-A backpack
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
+VIRAT_S_0500
+2
+4
 3
-66
-63
+2
+5
+2
+2
+2
+2
+3
+1
+2
+4
+1
+1
+1
+3
+3
+3
+2
+21
+52.5
 148060312
 74710
 5342
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-22
-291
-269
+VIRAT_S_0002
+2
+4
+2
+4
+3
+4
+2
+4
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+12
+30.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-Less than eight minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
+VIRAT_S_0100
 4
-306
-302
+3
+4
+2
+4
+3
+2
+3
+3
+4
+3
+3
+3
+1
+2
+2
+3
+2
+2
+1
+22
+55.0
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-About five minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
-100
-235
-135
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 122789
 53421
 1
 Timeline 1 (Base Interface)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
+VIRAT_S_0400
 2
-63
-61
+3
+3
+3
+3
+3
+2
+2
+3
+3
+1
+2
+2
+1
+2
+2
+2
+2
+3
+2
+19
+47.5
 69421
 53
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-80
-276
-196
+VIRAT_S_0500
+4
+3
+4
+2
+4
+2
+3
+2
+4
+3
+3
+3
+3
+2
+3
+2
+3
+3
+3
+2
+27
+67.5
 148053790
 69380
 12
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
-171
-465
-294
+VIRAT_S_0002
+4
+2
+4
+1
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+4
+3
+3
+3
+31
+77.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
-201
-401
-200
+VIRAT_S_0100
+3
+2
+4
+2
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+2
+3
+3
+3
+3
+2
+27
+67.5
 70613
 1245
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-76
-133
-57
+VIRAT_S_0102
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 69492
 124
 4
 Timeline 4 (Density Graph + Event Blocks)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-76
-146
-70
+VIRAT_S_0400
+5
+2
+5
+2
+5
+2
+5
+2
+4
+2
+4
+4
+4
+4
+3
+3
+3
+3
+3
+3
+34
+85.0
 70613
 1245
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
-90
-158
-68
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 147916593
 69713
 345
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+5
+1
+4
+2
+4
+3
+4
+2
+4
+2
+4
+3
+3
+3
+3
+4
+3
+2
+3
+3
+31
+77.5
 69371
 3
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+1
+5
+1
+5
+2
+4
+2
+4
+2
+3
+4
+4
+3
+3
+4
+4
+3
+3
+3
+34
+85.0
 72819
 3451
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+2
+1
+4
+1
+3
+3
+5
+4
+4
+1
+1
+3
+2
+4
+3
+4
+4
+2
+1
+4
+28
+70.0
 69402
 34
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+1
+4
+1
+3
+3
+3
+3
+3
+3
+3
+3
+4
+4
+32
+80.0
 103880
 34512
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 147914321
 69410
 42
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0002
+2
+2
+4
+4
+4
+1
+2
+3
+4
+2
+1
+3
+3
+1
+3
+3
+1
+4
+2
+3
+24
+60.0
 69793
 425
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+5
+2
+3
+4
+5
+1
+3
+1
+4
+2
+4
+2
+4
+2
+3
+3
+1
+4
+4
+3
+30
+75.0
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+3
+3
+4
+4
+2
+3
+3
+4
+2
+3
+2
+3
+2
+3
+2
+1
+3
+2
+3
+24
+60.0
 73619
 4251
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0400
+4
+1
+4
+1
+3
+1
+5
+4
+5
+1
+3
+3
+2
+4
+4
+4
+4
+4
+1
+4
+33
+82.5
 111881
 42513
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+2
+4
+3
+5
+1
+4
+2
+5
+2
+4
+3
+4
+3
+4
+3
+2
+4
+3
+3
+33
+82.5
 147906122
 69421
 53
 3
 Timeline 3 (Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
-19
-107
-88
+VIRAT_S_0002
+4
+4
+3
+3
+3
+3
+4
+4
+3
+5
+3
+2
+2
+3
+2
+1
+2
+2
+1
+0
+18
+45.0
 69900
 532
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
-54
-257
-203
+VIRAT_S_0100
+2
+3
+2
+4
+3
+3
+3
+4
+3
+5
+1
+1
+2
+2
+2
+2
+1
+2
+1
+0
+14
+35.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About three minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
-36
-104
-68
+VIRAT_S_0102
+5
+3
+5
+3
+5
+3
+4
+3
+5
+5
+4
+4
+4
+3
+4
+2
+2
+2
+2
+0
+27
+67.5
 74692
 5324
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
-60
-134
-74
+VIRAT_S_0400
+5
+3
+5
+4
+5
+3
+4
+3
+5
+5
+4
+4
+4
+3
+4
+2
+1
+2
+2
+0
+26
+65.0
 122609
 53241
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
-7
-28
-21
+VIRAT_S_0500
+4
+3
+4
+3
+2
+3
+4
+3
+4
+4
+3
+3
+1
+3
+3
+2
+2
+2
+2
+1
+22
+55.0
 147842712
 121682
 52314
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 5
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+2
+4
+2
+2
+4
+2
+2
+4
+2
+4
+1
+1
+3
+1
+1
+1
+3
+3
+1
+1
+16
+40.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+3
+2
+4
+2
+2
+2
+2
+2
+2
+3
+2
+3
+1
+1
+1
+3
+3
+3
+3
+2
+22
+55.0
 69891
 523
 3
 Timeline 3 (Event Blocks)
-About three minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+2
+4
+2
+2
+3
+2
+4
+4
+3
+2
+1
+1
+2
+3
+2
+1
+3
+3
+1
+3
+20
+50.0
 74599
 5231
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0400
+4
+1
+4
+2
+4
+2
+5
+4
+4
+1
+3
+3
+3
+4
+3
+4
+3
+3
+1
+4
+31
+77.5
 69420
 52
 2
 Timeline 2 (Density Graph)
-2:3:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+1
+4
+1
+3
+3
+3
+3
+3
+3
+3
+3
+4
+4
+32
+80.0
 147753370
 73889
 4521
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0002
+2
+2
+4
+1
+3
+3
+4
+5
+5
+1
+1
+3
+2
+3
+4
+3
+4
+2
 0
+4
+26
+65.0
 69820
 452
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+3
+2
+3
+2
+4
+3
+3
+4
+4
+2
+2
+2
+3
+2
+3
+3
+3
+2
+1
+3
+24
+60.0
 114581
 45213
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+1
+4
+1
+4
+1
+4
+1
+4
+1
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+35
+87.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+3
+3
+3
+4
+2
+3
+2
+3
+4
+3
+2
+3
+2
+2
+2
+2
+3
+3
+1
+23
+57.5
 69413
 45
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+5
+1
+5
+2
+5
+1
+3
+3
+4
+4
+4
+3
+3
+4
+3
+4
+35
+87.5
 147752820
 74709
 5341
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0002
+2
+3
+1
+5
+2
+3
+3
+4
+2
+1
+1
 0
+1
+2
+1
+2
+0
+2
+1
+4
+14
+35.0
 122780
 53412
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0100
+2
+4
+2
+4
+3
+3
+3
+3
+3
+1
+1
+1
+2
+2
+2
+1
+1
+2
+2
+4
+18
+45.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+3
+5
+2
+4
+2
+4
+1
+3
+3
+4
+3
+3
+3
+2
+3
+3
+4
+31
+77.5
 69421
 53
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+4
+3
+5
+2
+4
+2
+4
+1
+2
+3
+4
+3
+3
+3
+2
+3
+3
+4
+30
+75.0
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-1:3:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+3
+4
+2
+4
+2
+4
+1
+3
+3
+3
+3
+3
+3
+2
+3
+3
+4
+30
+75.0
 147653631
 69369
 1
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0002
+3
+1
+5
+1
+3
+1
+5
+5
+5
+1
+2
+4
+2
+4
+4
+4
+4
+4
 0
+4
+32
+80.0
 69381
 13
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+1
+5
+1
+3
+4
+4
+1
+5
+1
+3
+4
+2
+3
+4
+4
+4
+1
+4
+4
+33
+82.5
 69503
 135
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 70720
 1352
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+4
+1
+5
+1
+4
+1
+2
+4
+5
+1
+3
+4
+3
+1
+4
+4
+4
+4
+1
+4
+32
+80.0
 82892
 13524
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 147558243
 82820
 13452
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0002
+1
+3
+1
+2
+2
+3
+3
+5
+2
+3
 0
+0
+1
+2
+1
+2
+3
+2
+0
+2
+13
+32.5
 70713
 1345
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+5
+3
+4
+2
+4
+3
+4
+3
+4
+1
+4
+3
+3
+3
+3
+2
+3
+2
+2
+4
+29
+72.5
 69381
 13
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
+VIRAT_S_0102
+2
+4
+3
+2
+2
+3
+4
+5
+2
+1
+1
+2
+1
+3
+1
+1
+3
+2
 0
+4
+18
+45.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0400
+5
+2
+4
+1
+4
+2
+4
+3
+4
+1
+4
+3
+3
+3
+3
+3
+4
+3
+2
+4
+32
+80.0
 69502
 134
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+3
+2
+3
+3
+4
+2
+3
+3
+2
+2
+3
+3
+3
+3
+2
+3
+27
+67.5
 147494993
 81902
 12534
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 5
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+4
+4
+4
+3
+3
+3
+4
+4
+4
+2
+3
+2
+2
+3
+1
+1
+2
+1
+1
+18
+45.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-28:20 – 28:30
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+20
+50.0
 70621
 1253
 3
 Timeline 3 (Event Blocks)
-About three minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
+VIRAT_S_0102
+3
+3
+3
+2
+2
+4
+4
+4
+5
+5
+2
+2
+1
+3
+4
+2
+3
+1
+1
 0
+19
+47.5
 69380
 12
 2
 Timeline 2 (Density Graph)
-About nine minutes
-False
-45:00 – 46:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+3
+4
+4
+4
+4
+4
+3
+3
+3
+3
+2
+3
+3
+2
+2
+1
+1
+1
+2
+2
+19
+47.5
 69493
 125
 5
 Timeline 5 (Event Thumbnails)
-1:3:2
-False
-A safety helmet
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+2
+2
+2
+3
+3
+4
+4
+4
+4
+4
+1
+1
+2
+3
+3
+3
+2
+1
+1
+1
+18
+45.0
 147430481
 69381
 13
 3
 Timeline 3 (Event Blocks)
-Car 2
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+5
+1
+3
+3
+3
+3
+4
+1
+3
+4
+2
+2
+3
+3
+4
+2
+2
+4
+29
+72.5
 69502
 134
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-47:20 – 47:30
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+2
+3
+3
+2
+3
+3
+2
+1
+3
+1
+2
+2
+1
+3
+2
+3
+2
+4
+23
+57.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-About two minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+5
+1
+4
+2
+4
+3
+4
+2
+3
+4
+3
+3
+3
+3
+4
+3
+2
+3
+31
+77.5
 70710
 1342
 2
 Timeline 2 (Density Graph)
-About twenty minutes
-False
-30:00 – 31:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+2
+4
+2
+3
+4
+3
+4
+2
+2
+1
+1
+1
+3
+3
+1
+1
+2
+2
+3
+4
+21
+52.5
 82793
 13425
 5
 Timeline 5 (Event Thumbnails)
-1:3:2
-False
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0500
+2
+4
+3
+3
+2
+3
+2
+3
+3
+1
+1
+2
+1
+1
+2
+1
+2
+2
+2
+4
+18
+45.0
 147340531
 69403
 35
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+3
+2
+4
+2
+4
+2
+3
+2
+2
+2
+3
+3
+2
+2
+3
+3
+3
+3
+26
+65.0
 69719
 351
 1
 Timeline 1 (Base Interface)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0100
+2
+2
+3
+2
+4
+2
+4
+4
+3
+2
+1
+2
+3
+3
+2
+3
+3
+3
+1
+3
+24
+60.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-About five minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+3
+4
+2
+4
+2
+4
+2
+3
+2
+2
+3
+3
+3
+2
+2
+3
+3
+3
+3
+27
+67.5
 72882
 3514
 4
 Timeline 4 (Density Graph + Event Blocks)
-About nine minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+3
+4
+2
+4
+2
+4
+2
+3
+2
+2
+3
+3
+3
+2
+2
+3
+3
+3
+3
+27
+67.5
 104510
 35142
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+3
+2
+4
+2
+4
+2
+4
+2
+3
+2
+2
+3
+3
+3
+2
+3
+3
+3
+3
+3
+28
+70.0
 147328880
 69370
 2
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+5
+1
+3
+2
+3
+3
+3
+4
+2
+3
+3
+3
+4
+3
+31
+77.5
 69611
 243
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+5
+2
+4
+1
+5
+2
+4
+2
+4
+2
+4
+3
+4
+3
+3
+3
+4
+3
+3
+3
+33
+82.5
 93719
 24351
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-40:00 – 41:00
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+2
+2
+4
+2
+2
+2
+4
+2
+2
+2
+1
+3
+1
+3
+1
+3
+3
+3
+3
+3
+24
+60.0
 71803
 2435
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+5
+2
+4
+2
+4
+2
+3
+3
+4
+3
+3
+3
+3
+3
+3
+3
+31
+77.5
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+5
+2
+4
+2
+4
+2
+3
+3
+4
+3
+3
+3
+3
+3
+3
+3
+31
+77.5
 147308681
 69419
 51
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0002
+2
+2
+2
+2
+4
+2
+4
+3
+4
+1
+1
+1
+3
+3
+3
+3
+3
+3
+2
+4
+26
+65.0
 69881
 513
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+4
+2
+2
+1
+4
+2
+3
+2
+2
+3
+1
+3
+2
+2
+3
+4
+3
+3
+26
+65.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+3
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+2
+3
+3
+2
+28
+70.0
 74502
 5134
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+29
+72.5
 120710
 51342
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+2
+3
+2
+2
+3
+2
+4
+3
+4
+2
+1
+1
+2
+3
+3
+2
+3
+3
+2
+3
+23
+57.5
 147307347
 84800
 15432
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+4
+3
+4
+4
+3
+3
+2
+3
+2
+3
+3
+2
+1
+2
+2
+1
+2
+2
+20
+50.0
 70911
 1543
 3
 Timeline 3 (Event Blocks)
-Less than twelve minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
+VIRAT_S_0100
+1
+3
+3
+4
+4
+3
+4
+2
+3
+3
 0
+2
+3
+3
+2
+2
+1
+2
+3
+2
+20
+50.0
 69522
 154
 4
 Timeline 4 (Density Graph + Event Blocks)
-About two minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
+VIRAT_S_0102
+1
+3
+3
+4
+3
+3
+3
+3
+3
+3
 0
+2
+2
+2
+2
+2
+1
+2
+2
+2
+17
+42.5
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
+VIRAT_S_0400
+1
+4
+1
+1
+4
+2
+4
+4
+2
+4
 0
+0
+3
+3
+1
+1
+4
+3
+1
+1
+17
+42.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-3:1:2
-False
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0500
+2
+4
+1
+4
+2
+3
+2
+4
+2
+4
+1
 0
+1
+1
+1
+1
+1
+2
+1
+1
+10
+25.0
 147183355
 69689
 321
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0002
+1
+3
+3
+2
+1
+3
+3
+1
+3
+2
 0
+2
+0
+2
+2
+2
+3
+2
+4
+3
+20
+50.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+5
+1
+5
+1
+4
+1
+4
+1
+5
+1
+4
+4
+3
+3
+4
+4
+4
+4
+4
+4
+38
+95.0
 69400
 32
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0102
+3
+2
+3
+1
+2
+3
+3
+5
+4
+2
+2
+2
+1
+2
+3
+3
+4
+2
 0
+3
+22
+55.0
 101513
 32145
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 72582
 3214
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+1
+5
+1
+4
+1
+5
+1
+5
+1
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4
+39
+97.5
 147051997
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+4
+2
+3
+3
+3
+2
+3
+2
+2
+3
+2
+2
+2
+2
+3
+2
+3
+3
+24
+60.0
 69613
 245
 5
 Timeline 5 (Event Thumbnails)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+4
+2
+3
+2
+4
+2
+4
+1
+2
+3
+2
+3
+3
+2
+3
+3
+3
+4
+28
+70.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+1
+4
+2
+4
+2
+4
+1
+3
+3
+3
+3
+3
+3
+4
+3
+3
+4
+32
+80.0
 71821
 2453
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+5
+1
+5
+2
+4
+2
+4
+1
+2
+4
+4
+3
+3
+3
+4
+3
+3
+4
+33
+82.5
 93899
 24531
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0500
+2
+3
+4
+2
+3
+3
+4
+5
+3
+1
+1
+3
+2
+3
+2
+2
+3
+2
 0
+4
+22
+55.0
 147004721
 69369
 1
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 70713
 1345
 5
 Timeline 5 (Event Thumbnails)
-Less than eight minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69381
 13
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69502
 134
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 82820
 13452
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 147001785
 69370
 2
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0002
+2
+3
+3
+2
+3
+3
+2
+4
+2
+4
+1
+2
+2
+1
+1
+2
+3
+2
+1
+1
+16
+40.0
 69581
 213
 3
 Timeline 3 (Event Blocks)
-Less than eight minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+3
+2
+3
+2
+3
+2
+4
+2
+2
+2
+2
+2
+3
+2
+3
+3
+3
+3
+25
+62.5
 90722
 21354
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+3
+2
+4
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+2
+28
+70.0
 71503
 2135
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+4
+2
+4
+2
+4
+2
+4
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+2
+28
+70.0
 69389
 21
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0500
+3
+2
+4
+1
+4
+2
+4
+2
+4
+2
+2
+3
+3
+3
+3
+3
+4
+3
+3
+3
+30
+75.0
 146975493
 69370
 2
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0002
+3
+1
+5
+1
+4
+1
+5
+1
+5
+1
+2
+4
+3
+4
+4
+4
+4
+4
+4
+4
+37
+92.5
 69581
 213
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
+VIRAT_S_0100
+2
+4
+3
+3
+1
+3
+3
+4
+4
+2
+1
+2
 0
+2
+3
+1
+2
+2
+1
+3
+17
+42.5
 69389
 21
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+4
+1
+5
+1
+4
+1
+4
+1
+4
+1
+3
+4
+3
+3
+3
+4
+4
+4
+4
+4
+36
+90.0
 90722
 21354
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+1
+4
+1
+4
+1
+4
+1
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+34
+85.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+1
+4
+1
+4
+1
+4
+1
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+34
+85.0
 146975491
 71781
 2413
 3
 Timeline 3 (Event Blocks)
-Car 5
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0002
+2
+2
+4
+2
+4
+2
+4
+2
+3
+2
+1
+3
+3
+3
+2
+3
+3
+3
+3
+3
+27
+67.5
 69370
 2
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+2
+1
+4
+2
+4
+2
+4
+2
+3
+2
+1
+3
+3
+3
+2
+4
+3
+3
+3
+3
+28
+70.0
 93503
 24135
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+2
+4
+2
+4
+2
+4
+2
+4
+3
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+3
+13
+32.5
 69392
 24
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+3
+2
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+29
+72.5
 69609
 241
 1
 Timeline 1 (Base Interface)
-3:2:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0500
+2
+2
+4
+2
+4
+2
+4
+2
+3
+2
+1
+3
+3
+3
+2
+3
+3
+3
+3
+3
+27
+67.5
 146972571
 69420
 52
 2
 Timeline 2 (Density Graph)
-Car 5
-False
-22:00 – 23:00
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0002
+2
+4
+2
+2
+2
+5
+2
+4
+1
+2
+1
+1
+1
+1
 0
+1
+3
+0
+1
+3
+12
+30.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-Less than eight minutes
-False
-46:20 – 47:30
-False
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+4
+1
+4
+2
+5
+1
+5
+1
+5
+2
+3
+3
+4
+4
+4
+4
+3
+4
+4
+3
+36
+90.0
 74581
 5213
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+2
+4
+4
+2
+3
+3
+3
+1
+3
+3
+3
+3
+1
+3
+26
+65.0
 121502
 52134
 4
 Timeline 4 (Density Graph + Event Blocks)
-About twelve minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
 69889
 521
 1
 Timeline 1 (Base Interface)
-1:3:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0500
+1
+4
+1
+5
+1
+5
+1
+5
+1
+5
 0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+2.5
 146948076
 69370
 2
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0002
+1
+1
+5
+1
+1
+1
+5
+4
+2
+3
 0
+4
+0
+4
+1
+4
+4
+4
+1
+2
+24
+60.0
 94502
 25134
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+4
+3
+2
+5
+3
+3
+1
+5
+2
+3
+2
+4
+2
+4
+1
+3
+2
+4
+3
+28
+70.0
 69393
 25
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+5
+2
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+3
+4
+4
+4
+4
+39
+97.5
 69619
 251
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0400
+1
+1
+5
+1
+3
+1
+5
+5
+1
+1
 0
+4
+2
+4
+0
+4
+4
+4
+0
+4
+26
+65.0
 71881
 2513
 3
 Timeline 3 (Event Blocks)
-3:1:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+1
+5
+2
+3
+4
+3
+4
+4
+2
+4
+4
+2
+2
+3
+4
+3
+1
+1
+3
+27
+67.5
 146944030
 69370
 2
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0002
+3
+2
+4
+2
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+2
+3
+3
+3
+3
+2
+27
+67.5
 69603
 235
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+2
+4
+3
+2
+3
+3
+3
+3
+2
+2
+1
+2
+2
+2
+1
+1
+3
+2
+2
+3
+19
+47.5
 69391
 23
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 92882
 23514
 4
 Timeline 4 (Density Graph + Event Blocks)
-About twenty minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 71719
 2351
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0500
+3
+2
+4
+2
+3
+2
+4
+2
+3
+2
+2
+3
+2
+3
+2
+3
+3
+3
+3
+3
+27
+67.5
 146941069
 69402
 34
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69709
 341
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0100
+1
+1
+2
+2
+2
+2
+4
+2
+2
+2
 0
+1
+1
+3
+1
+4
+3
+3
+3
+3
+22
+55.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+5
+4
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+1
+3
+3
+3
+3
+29
+72.5
 72783
 3415
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+5
+2
+5
+1
+5
+2
+4
+2
+5
+2
+4
+4
+4
+3
+4
+3
+4
+3
+3
+3
+35
+87.5
 103520
 34152
 2
 Timeline 2 (Density Graph)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+3
+2
+2
+2
+4
+2
+4
+2
+4
+2
+2
+1
+3
+3
+3
+3
+3
+3
+3
+3
+27
+67.5
 146933121
 69380
 12
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0002
+4
+1
+5
+1
+5
+1
+4
+2
+4
+2
+3
+4
+4
+3
+3
+4
+4
+4
+3
+3
+35
+87.5
 69493
 125
 5
 Timeline 5 (Event Thumbnails)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+5
+1
+5
+1
+5
+1
+4
+1
+5
+2
+4
+4
+4
+3
+4
+4
+4
+4
+4
+3
+38
+95.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0102
+3
+5
+1
+5
+1
+4
+1
+4
+1
+4
+2
 0
+0
+0
+0
+0
+0
+1
+1
+1
+5
+12.5
 81911
 12543
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+1
+4
+1
+4
+3
+4
+1
+5
+2
+3
+3
+3
+3
+4
+4
+4
+2
+4
+3
+33
+82.5
 70622
 1254
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+1
+4
+1
+4
+3
+4
+2
+5
+2
+3
+3
+3
+3
+4
+4
+4
+2
+3
+3
+32
+80.0
 146919962
 69692
 324
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+3
+2
+4
+2
+4
+4
+4
+2
+2
+2
+3
+3
+3
+2
+3
+3
+1
+3
+25
+62.5
 101819
 32451
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0100
+2
+2
+4
+2
+4
+2
+4
+4
+2
+2
+1
+3
+3
+3
+1
+3
+3
+3
+1
+3
+24
+60.0
 69400
 32
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+3
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+2
+3
+29
+72.5
 72613
 3245
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 146859309
 69521
 153
 3
 Timeline 3 (Event Blocks)
-Car 5
-False
-20:00 – 22:00
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+20
+50.0
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-Less than fourteen minutes
-False
-38:20 – 38:30
-False
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+20
+50.0
 70900
 1532
 2
 Timeline 2 (Density Graph)
-About five minutes
-False
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+20
+50.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+20
+50.0
 84692
 15324
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+20
+50.0
 146816020
 69583
 215
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+2
+4
+4
+2
+3
+2
+4
+4
+2
+1
+1
+3
+2
+3
+1
+1
+3
+3
+1
+4
+22
+55.0
 71521
 2153
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+5
+1
+4
+2
+4
+2
+5
+1
+3
+4
+3
+3
+4
+3
+4
+3
+3
+4
+34
+85.0
 90902
 21534
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+5
+2
+4
+2
+4
+2
+5
+1
+3
+4
+3
+3
+4
+3
+3
+3
+3
+4
+33
+82.5
 69389
 21
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0400
+1
+1
+4
+2
+3
+3
+4
+1
+2
+1
 0
+3
+2
+3
+1
+4
+3
+2
+4
+4
+26
+65.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+5
+2
+4
+1
+4
+2
+5
+1
+3
+4
+3
+3
+4
+3
+3
+4
+3
+4
+34
+85.0
 146772938
 104780
 35412
 2
 Timeline 2 (Density Graph)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+2
+5
+2
+5
+2
+4
+2
+3
+3
+4
+4
+3
+3
+3
+3
+3
+3
+32
+80.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+5
+2
+4
+2
+5
+2
+4
+2
+3
+4
+3
+4
+3
+3
+3
+3
+3
+3
+32
+80.0
 69403
 35
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+3
+4
+3
+4
+3
+5
+2
+4
+2
+2
+3
+3
+4
+3
+2
+2
+2
+3
+3
+27
+67.5
 69722
 354
 4
 Timeline 4 (Density Graph + Event Blocks)
-About twelve minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+5
+2
+4
+2
+3
+3
+3
+4
+3
+3
+3
+3
+3
+3
+31
+77.5
 72909
 3541
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+5
+1
+5
+2
+4
+2
+3
+3
+4
+4
+3
+3
+3
+4
+3
+3
+33
+82.5
 146771812
 69603
 235
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+3
+1
+5
+1
+5
+1
+5
+1
+5
+1
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+38
+95.0
 71722
 2354
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0100
+3
+1
+5
+1
+5
+1
+5
+1
+5
+1
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+38
+95.0
 92909
 23541
 1
 Timeline 1 (Base Interface)
-About five minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+3
+1
+5
+1
+5
+1
+5
+1
+5
+1
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+38
+95.0
 69391
 23
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+1
+5
+1
+5
+1
+5
+1
+5
+1
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+38
+95.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+3
+1
+5
+1
+5
+1
+5
+1
+5
+1
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+38
+95.0
 146559166
 74791
 5423
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69910
 542
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 69422
 54
 4
 Timeline 4 (Density Graph + Event Blocks)
-About twenty minutes
-False
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 123599
 54231
 1
 Timeline 1 (Base Interface)
-3:1:2
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+50.0
 146511990
 111881
 42513
 3
 Timeline 3 (Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+2
+4
+2
+3
+4
+4
+4
+3
+2
+2
+3
+2
+3
+2
+3
+3
+1
+1
+3
+23
+57.5
 69410
 42
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0100
+2
+2
+3
+2
+3
+2
+4
+4
+3
+2
+1
+2
+2
+3
+2
+3
+3
+3
+1
+3
+23
+57.5
 73619
 4251
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+4
+1
+4
+1
+4
+2
+4
+3
+4
+1
+3
+3
+3
+3
+3
+4
+4
+3
+2
+4
+32
+80.0
 69793
 425
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+3
+2
+4
+3
+3
+2
+3
+3
+2
+3
+2
+3
+3
+3
+2
+3
+27
+67.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+5
+2
+4
+2
+4
+2
+4
+3
+3
+4
+3
+3
+3
+3
+3
+3
+3
+2
+30
+75.0
 146490541
 70791
 1423
 3
 Timeline 3 (Event Blocks)
-Car 4
-False
-32:00 – 35:00
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+1
+4
+2
+4
+2
+4
+1
+3
+3
+3
+3
+3
+3
+4
+3
+3
+4
+32
+80.0
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+5
+2
+3
+3
+3
+3
+4
+3
+3
+3
+3
+3
+31
+77.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0102
+1
+2
+3
+2
+2
+3
+4
+5
+3
+2
 0
+2
+1
+3
+2
+3
+3
+2
+0
+3
+19
+47.5
 83603
 14235
 5
 Timeline 5 (Event Thumbnails)
-About twelve minutes
-False
-30:00 – 31:00
-False
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+5
+1
+5
+2
+4
+2
+5
+2
+4
+1
+4
+4
+3
+4
+3
+4
+3
+3
+3
+4
+35
+87.5
 69510
 142
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+2
+2
+3
+1
+3
+2
+4
+3
+4
+2
+1
+2
+2
+3
+3
+3
+4
+3
+2
+3
+26
+65.0
 146489341
 69621
 253
 3
 Timeline 3 (Event Blocks)
-Car 3
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+3
+3
+4
+2
+3
+3
+2
+3
+2
+2
+3
+2
+1
+2
+2
+3
+2
+2
+21
+52.5
 71899
 2531
 1
 Timeline 1 (Base Interface)
-Less than sixteen minutes
-False
-29:20 – 29:30
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+4
+2
+4
+3
+2
+3
+5
+3
+2
+3
+3
+1
+4
+2
+3
+2
+2
+2
+24
+60.0
 69393
 25
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+4
+3
+3
+3
+4
+3
+4
+3
+3
+2
+2
+2
+2
+2
+1
+2
+1
+1
+2
+17
+42.5
 94682
 25314
 4
 Timeline 4 (Density Graph + Event Blocks)
-About nine minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
+VIRAT_S_0400
+3
+3
+4
+4
+2
+2
+3
+3
+1
+3
+2
+3
+1
+2
 0
+2
+1
+3
+2
+2
+18
+45.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-3:2:1
-False
-A safety vest
-False
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0500
+2
+3
+3
+4
+2
+3
+3
+3
+4
+3
+1
+2
+1
+2
+3
+2
+1
+2
+2
+2
+18
+45.0
 146445266
 110891
 41523
 3
 Timeline 3 (Event Blocks)
-Car 4
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+4
+2
+3
+2
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+29
+72.5
 73520
 4152
 2
 Timeline 2 (Density Graph)
-Less than fourteen minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+3
+2
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+29
+72.5
 69783
 415
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+3
+2
+4
+2
+3
+2
+3
+3
+2
+3
+2
+3
+3
+3
+3
+3
+28
+70.0
 69409
 41
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0400
+2
+4
+2
+2
+2
+2
+4
+5
+3
+3
+1
+1
+1
+3
+2
+1
+3
+3
 0
+2
+17
+42.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+3
+2
+4
+2
+4
+2
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+29
+72.5
 146411777
 69399
 31
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0002
+2
+2
+4
+2
+4
+2
+4
+4
+2
+2
+1
+3
+3
+3
+1
+3
+3
+3
+1
+3
+24
+60.0
 69683
 315
 5
 Timeline 5 (Event Thumbnails)
-Less than twelve minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-About one minute
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 72520
 3152
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+2
+2
+4
+2
+4
+2
+4
+2
+4
+2
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+28
+70.0
 100892
 31524
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+2
+5
+2
+4
+2
+4
+2
+4
+2
+4
+4
+3
+3
+3
+3
+3
+3
+3
+3
+32
+80.0
 146400674
 69793
 425
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+5
+2
+5
+1
+4
+2
+4
+1
+5
+1
+4
+4
+3
+3
+4
+3
+4
+3
+4
+4
+36
+90.0
 69410
 42
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0100
+1
+3
+2
+3
+1
+3
+1
+5
+1
+4
 0
+1
+0
+0
+0
+2
+2
+2
+0
+1
+8
+20.0
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
+VIRAT_S_0102
+5
+3
+5
+4
+5
+1
+3
+5
+5
+1
+4
+4
+4
+2
+4
+2
+1
+4
 0
+4
+29
+72.5
 111899
 42531
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+3
+2
+2
+1
+2
+3
+3
+1
+2
+2
+1
+1
+2
+3
+3
+4
+2
+4
+24
+60.0
 73621
 4253
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+2
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+3
+4
+4
+4
+4
+39
+97.5
 146320716
 69899
 531
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0002
+1
+1
+5
+1
+5
+1
+5
+5
+5
+1
 0
+4
+4
+4
+4
+4
+4
+4
+0
+4
+32
+80.0
 74680
 5312
 2
 Timeline 2 (Density Graph)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0100
+3
+3
+5
+1
+5
+1
+2
+1
+5
+1
+2
+4
+4
+1
+4
+2
+4
+4
+4
+4
+33
+82.5
 69421
 53
 3
 Timeline 3 (Event Blocks)
-About five minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+2
+2
+3
+1
+4
+3
+4
+1
+3
+1
+1
+2
+3
+3
+2
+3
+4
+2
+4
+4
+28
+70.0
 122492
 53124
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
+Timeline 4 (Density Graph + Event Blocks)
 VIRAT_S_0400
-Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+5
+4
+5
+1
+5
+1
+2
+1
+5
+1
+4
+4
+4
+1
+4
+1
+4
+4
+4
+4
+34
+85.0
 122492
 53124
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+1
+5
+2
+4
+4
+5
+1
+3
+3
+4
+3
+4
+3
+4
+3
+1
+4
+32
+80.0
 146313793
 69421
 53
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
+VIRAT_S_0002
+1
+4
+4
+1
+2
+4
+2
+5
+3
+1
 0
+3
+1
+1
+2
+1
+4
+1
+0
+4
+17
+42.5
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+2
+4
+2
+1
+2
+2
+2
+4
+2
+4
+1
+1
+1
+1
+1
+1
+4
+3
+1
+1
+15
+37.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+1
+5
+1
+4
+1
+4
+1
+4
+1
+3
+4
+3
+3
+3
+4
+4
+4
+4
+4
+36
+90.0
 74710
 5342
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+2
+1
+4
+1
+4
+1
+4
+2
+4
+1
+1
+3
+3
+3
+3
+4
+4
+4
+3
+4
+32
+80.0
 122789
 53421
 1
 Timeline 1 (Base Interface)
-2:3:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0500
+1
+5
+4
+1
+2
+2
+1
+5
+2
+1
 0
+3
+1
+0
+1
+0
+4
+3
+0
+4
+16
+40.0
 146303457
 15384
 -53984
 6
 Other
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+1
+4
+1
+3
+2
+4
+2
+3
+1
+2
+3
+2
+3
+2
+4
+4
+3
+3
+4
+30
+75.0
 470473
 401105
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0100
+1
+1
+2
+1
+3
+2
+5
+5
+3
+1
 0
+1
+2
+4
+2
+4
+4
+3
+0
+4
+24
+60.0
 63970
 -5398
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0102
+2
+3
+2
+1
+3
+2
+4
+4
+3
+1
+1
+1
+2
+3
+2
+2
+4
+3
+1
+4
+23
+57.5
 5329044
 5259676
 6
 Other
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+3
+1
+4
+1
+3
+2
+4
+3
+3
+1
+2
+3
+2
+3
+2
+4
+4
+3
+2
+4
+29
+72.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-1:3:2
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0500
+1
+1
+2
+1
+3
+2
+5
+4
+3
+1
 0
+1
+2
+4
+2
+4
+4
+3
+1
+4
+25
+62.5
 146284478
 69389
 21
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0002
+2
+2
+4
+1
+3
+2
+4
+4
+4
+2
+1
+3
+2
+3
+3
+3
+4
+3
+1
+3
+26
+65.0
 69582
 214
 4
 Timeline 4 (Density Graph + Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 69370
 2
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+1
+4
+2
+5
+2
+5
+1
+3
+3
+3
+4
+4
+3
+4
+3
+3
+4
+34
+85.0
 71511
 2143
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+5
+2
+4
+2
+4
+2
+4
+2
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+31
+77.5
 90803
 21435
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+30
+75.0
 146273701
 69421
 53
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-False
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+2
+4
+3
+3
+3
+2
+4
+3
+3
+3
+1
+2
+2
+3
+2
+1
+2
+3
+2
+2
+20
+50.0
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+4
+3
+3
+3
+2
+3
+4
+3
+4
+3
+2
+2
+2
+2
+1
+2
+3
+1
+1
+19
+47.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-21:00 – 22:00
-False
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0102
+3
+2
+4
+2
+4
+3
+5
+2
+4
+2
+2
+3
+3
+4
+3
+3
+3
+2
+3
+3
+29
+72.5
 74710
 5342
 2
 Timeline 2 (Density Graph)
-About nine minutes
-False
-30:00 – 31:00
-False
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+3
+4
+3
+4
+2
+3
+3
+3
+2
+2
+2
+1
+2
+3
+1
+1
+2
+2
+18
+45.0
 122789
 53421
 1
 Timeline 1 (Base Interface)
-2:1:3
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0500
+4
+3
+3
+4
+3
+3
+4
+2
+3
+3
+3
+2
+2
+3
+2
+2
+1
+2
+3
+2
+22
+55.0
 146269551
 69382
 14
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+2
+4
+2
+3
+2
+4
+4
+3
+3
+3
+2
+3
+3
+3
+3
+3
+1
+27
+67.5
 69513
 145
 5
 Timeline 5 (Event Thumbnails)
-Less than eight minutes
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+4
+2
+4
+2
+4
+2
+3
+3
+3
+4
+3
+3
+3
+2
+2
+3
+3
+3
+2
+1
+25
+62.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-About three minutes
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+2
+4
+2
+3
+2
+3
+4
+3
+3
+3
+2
+2
+3
+3
+3
+3
+1
+26
+65.0
 70820
 1452
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+3
+2
+4
+4
+3
+3
+3
+2
+3
+3
+3
+3
+3
+1
+27
+67.5
 83891
 14523
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+2
+5
+2
+4
+2
+3
+2
+5
+4
+4
+4
+3
+2
+4
+3
+3
+3
+3
+1
+30
+75.0
 146266265
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+5
+2
+4
+2
+4
+2
+4
+2
+4
+3
+4
+3
+3
+3
+3
+3
+3
+3
+3
+2
+30
+75.0
 69521
 153
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
+VIRAT_S_0100
+2
+4
+2
+2
+2
+2
+1
+4
+2
+2
+1
+1
+1
 0
+1
+1
+3
+3
+1
+3
+15
+37.5
 69369
 1
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0102
+1
+3
+4
+2
+2
+2
+4
+2
+2
+1
 0
+3
+1
+3
+1
+2
+3
+3
+3
+4
+23
+57.5
 70902
 1534
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+1
+4
+2
+4
+2
+4
+2
+3
+3
+3
+3
+3
+3
+4
+3
+3
+3
+31
+77.5
 84710
 15342
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+1
+4
+2
+3
+2
+4
+2
+3
+3
+3
+2
+3
+3
+4
+3
+3
+3
+30
+75.0
 146264656
 69410
 42
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-32:00 – 35:00
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+2
+1
+2
+4
+3
+2
+5
+3
+2
+3
+1
+1
+2
+4
+1
+4
+1
+3
+2
+2
+21
+52.5
 69789
 421
 1
 Timeline 1 (Base Interface)
-Less than sixteen minutes
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0100
+2
+1
+4
+3
+2
+4
+5
+4
+3
+3
+1
+3
+1
+4
+2
+4
+2
+1
+1
+2
+21
+52.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-21:00 – 22:00
-False
+Timeline 3 (Event Blocks)
 VIRAT_S_0102
-Timeline 3 (Event Blocks)
--1
--1
+3
+2
+4
+4
+3
+5
+3
+2
+3
+2
+2
+3
+2
+2
+2
+3
+1
 0
+3
+3
+21
+52.5
 73583
 4215
 5
 Timeline 5 (Event Thumbnails)
-About nine minutes
-False
-40:00 – 41:00
-False
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0400
+3
+2
+4
+3
+3
+5
+4
+4
+2
+3
+2
+3
+2
+3
+1
+3
+2
 0
+1
+2
+19
+47.5
 73583
 4215
 5
 Timeline 5 (Event Thumbnails)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
+VIRAT_S_0500
+4
+3
+2
+4
+3
+5
+4
+2
+4
+3
+3
+1
+2
+3
+3
+2
+1
 0
+3
+2
+20
+50.0
 146243771
 69381
 13
 3
 Timeline 3 (Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+2
+4
+1
+4
+2
+4
+1
+4
+2
+3
+3
+3
+3
+3
+3
+4
+3
+4
+3
+32
+80.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0100
+1
+1
+1
+1
+1
+2
+2
+5
+4
+2
 0
+0
+0
+1
+3
+4
+4
+3
+0
+3
+18
+45.0
 69503
 135
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+5
+1
+4
+2
+4
+1
+4
+2
+3
+4
+3
+3
+3
+3
+4
+3
+4
+3
+33
+82.5
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0400
+5
+1
+5
+1
+5
+1
+5
+1
+5
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+39
+97.5
 69520
 152
 2
 Timeline 2 (Density Graph)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0500
+2
+4
+3
+2
+2
+2
+2
+5
+4
+2
+1
+2
+1
+1
+3
+1
+3
+3
 0
+3
+18
+45.0
 146217689
 69422
 54
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+4
+1
+5
+1
+4
+2
+4
+2
+4
+1
+3
+4
+3
+3
+3
+4
+4
+3
+3
+4
+34
+85.0
 69909
 541
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0100
+2
+2
+3
+1
+4
+2
+4
+4
+4
+1
+1
+2
+3
+3
+3
+3
+4
+3
+1
+4
+27
+67.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+1
+3
+2
+5
+1
+5
+1
+3
+3
+2
+4
+4
+3
+4
+3
+4
+4
+34
+85.0
 74780
 5412
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+4
+1
+3
+1
+4
+1
+4
+1
+2
+3
+2
+3
+3
+3
+4
+4
+4
+4
+32
+80.0
 123491
 54123
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+1
+4
+2
+4
+2
+4
+1
+3
+3
+3
+3
+3
+3
+4
+3
+3
+4
+32
+80.0
 146210319
 74709
 5341
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0002
+1
+2
+4
+1
+4
+1
+5
+5
+5
+1
 0
+3
+3
+4
+4
+3
+4
+4
+0
+4
+29
+72.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0100
+3
+2
+4
+1
+3
+4
+5
+2
+4
+1
+2
+3
+2
+4
+3
+3
+4
+1
+3
+4
+29
+72.5
 122780
 53412
 2
 Timeline 2 (Density Graph)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0102
+4
+1
+5
+1
+4
+2
+4
+2
+5
+1
+3
+4
+3
+3
+4
+4
+4
+3
+3
+4
+35
+87.5
 69902
 534
 4
 Timeline 4 (Density Graph + Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+3
+2
+4
+1
+3
+2
+4
+2
+4
+1
+2
+3
+2
+3
+3
+3
+4
+3
+3
+4
+30
+75.0
 69421
 53
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+3
+4
+2
+2
+2
+2
+4
+2
+3
+1
+2
+1
+1
+3
+2
+1
+3
+3
+3
+4
+23
+57.5
 146209612
 69709
 341
 1
 Timeline 1 (Base Interface)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
+VIRAT_S_0002
+1
+4
+2
+5
+1
+5
+1
+4
+2
+3
 0
+1
+0
+0
+1
+1
+0
+0
+1
+2
+6
+15.0
 72793
 3425
 5
 Timeline 5 (Event Thumbnails)
-Less than eight minutes
-False
-28:20 – 28:30
-False
-VIRAT_S_0100
 Timeline 5 (Event Thumbnails)
--1
--1
+VIRAT_S_0100
+1
+4
+3
+3
+4
+2
+3
+4
+4
+2
 0
+2
+3
+2
+3
+1
+2
+3
+1
+3
+20
+50.0
 69371
 3
 3
 Timeline 3 (Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+4
+3
+2
+4
+3
+4
+4
+2
+3
+3
+1
+2
+3
+3
+2
+1
+1
+3
+22
+55.0
 103619
 34251
 1
 Timeline 1 (Base Interface)
-About six minutes
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0400
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0400
+2
+2
+4
+2
+4
+2
+4
+2
+4
+2
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+28
+70.0
 69421
 53
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0500
+4
+2
+4
+2
+4
+2
+3
+2
+4
+2
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+29
+72.5
 146208061
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-45:00 – 47:00
-False
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+3
+2
+4
+1
+4
+3
+4
+3
+5
+1
+2
+3
+3
+3
+4
+3
+4
+2
+2
+4
+30
+75.0
 69520
 152
 2
 Timeline 2 (Density Graph)
-I could not find the answer within five minutes.
-False
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0100
+3
+2
+3
+1
+2
+1
+5
+4
+4
+1
+2
+2
+1
+4
+3
+3
+4
+4
+1
+4
+28
+70.0
 70892
 1524
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+4
+2
+5
+1
+5
+2
+4
+2
+5
+1
+3
+4
+4
+3
+4
+3
+4
+3
+3
+4
+35
+87.5
 84611
 15243
 3
 Timeline 3 (Event Blocks)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+1
+4
+2
+5
+1
+4
+1
+3
+3
+3
+4
+3
+3
+4
+3
+4
+4
+34
+85.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
-0
+VIRAT_S_0500
+3
+1
+4
+1
+4
+1
+5
+3
+5
+1
+2
+3
+3
+4
+4
+4
+4
+4
+2
+4
+34
+85.0
 146207901
 69413
 45
 5
 Timeline 5 (Event Thumbnails)
-Car 1
-True
-43:00 – 45:00
-True
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+3
+3
+2
+1
+4
+2
+4
+4
+3
+1
+2
+1
+3
+3
+2
+2
+4
+3
+1
+4
+25
+62.5
 69821
 453
 3
 Timeline 3 (Event Blocks)
-Less than two minutes
-True
-48:20 – 48:30
-True
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0100
+2
+2
+2
+1
+3
+2
+3
+5
+3
+2
+1
+1
+2
+2
+2
+3
+4
+3
 0
+3
+21
+52.5
 69372
 4
 4
 Timeline 4 (Density Graph + Event Blocks)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+4
+3
+2
+4
+2
+3
+3
+3
+1
+2
+2
+3
+2
+2
+1
+3
+3
+2
+4
+24
+60.0
 73900
 4532
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+2
+1
+3
+2
+2
+2
+3
+3
+3
+1
+1
+2
+1
+2
+2
+4
+3
+3
+2
+4
+24
+60.0
 114689
 45321
 1
 Timeline 1 (Base Interface)
-1:2:3
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0500
+1
+1
+1
+1
+3
+2
+2
+5
+1
+1
 0
+0
+2
+1
+0
+4
+4
+3
+0
+4
+18
+45.0
 146206265
 69383
 15
 5
 Timeline 5 (Event Thumbnails)
-I could not find the answer within five minutes.
-False
-32:00 – 35:00
-False
-VIRAT_S_0002
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0002
+4
+3
+4
+2
+3
+2
+4
+3
+4
+2
+3
+3
+2
+3
+3
+2
+3
+3
+2
+3
+27
+67.5
 69521
 153
 3
 Timeline 3 (Event Blocks)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 2 (Density Graph)
--1
--1
+VIRAT_S_0100
+1
+4
+4
+2
+3
+4
+3
+3
+2
+2
 0
+3
+2
+2
+1
+1
+3
+1
+2
+3
+18
+45.0
 69369
 1
 1
 Timeline 1 (Base Interface)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0102
+3
+3
+4
+1
+4
+2
+4
+3
+4
+2
+2
+3
+3
+3
+3
+2
+4
+3
+2
+3
+28
+70.0
 70900
 1532
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+3
+2
+4
+3
+4
+2
+3
+3
+2
+3
+3
+3
+3
+3
+2
+3
+28
+70.0
 84692
 15324
 4
 Timeline 4 (Density Graph + Event Blocks)
-2:3:1
-False
-A slow-down sign
-True
-VIRAT_S_0500
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+2
+4
+2
+4
+2
+4
+3
+4
+2
+4
+3
+3
+3
+3
+3
+3
+3
+2
+3
+30
+75.0
 146201756
 69422
 54
 4
 Timeline 4 (Density Graph + Event Blocks)
-Car 1
-True
-I could not find the answer within five minutes.
-False
-VIRAT_S_0002
 Timeline 4 (Density Graph + Event Blocks)
--1
--1
-0
+VIRAT_S_0002
+3
+4
+2
+3
+4
+4
+2
+4
+2
+3
+2
+1
+3
+1
+1
+1
+2
+1
+1
+2
+15
+37.5
 69909
 541
 1
 Timeline 1 (Base Interface)
-I could not find the answer within five minutes.
-False
-I could not find the answer within five minutes.
-False
-VIRAT_S_0100
 Timeline 1 (Base Interface)
--1
--1
+VIRAT_S_0100
+1
+2
+2
+4
+2
+3
+1
+5
+2
+5
 0
+1
+1
+0
+1
+3
+1
+2
+0
+0
+9
+22.5
 69373
 5
 5
 Timeline 5 (Event Thumbnails)
-About four minutes
-True
-22:00 – 23:00
-True
-VIRAT_S_0102
 Timeline 5 (Event Thumbnails)
--1
--1
-0
+VIRAT_S_0102
+4
+1
+5
+1
+5
+1
+5
+1
+5
+1
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+39
+97.5
 74780
 5412
 2
 Timeline 2 (Density Graph)
-About six minutes
-True
-50:00 – 51:00
-True
-VIRAT_S_0400
 Timeline 2 (Density Graph)
--1
--1
-0
+VIRAT_S_0400
+4
+2
+4
+2
+4
+2
+5
+2
+4
+1
+3
+3
+3
+4
+3
+3
+3
+3
+3
+4
+32
+80.0
 123491
 54123
 3
 Timeline 3 (Event Blocks)
-2:1:3
-True
-An orange construction traffic barrel (cylinder-shaped sign)
-False
-VIRAT_S_0500
 Timeline 3 (Event Blocks)
--1
--1
-0
+VIRAT_S_0500
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+40
+100.0
