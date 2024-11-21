@@ -1,0 +1,2700 @@
+149488827
+69793
+425
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+84
+214
+130
+73619
+4251
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+91
+211
+120
+149466211
+69609
+241
+1
+Timeline 1 (Base Interface)
+Car 5
+False
+34:00 – 35:00
+False
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+84
+121
+37
+69392
+24
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+121
+250
+129
+149439530
+94502
+25134
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 5
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+2
+14
+12
+69619
+251
+1
+Timeline 1 (Base Interface)
+Less than eight minutes
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+3
+41
+38
+149353591
+69783
+415
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+206
+433
+227
+110900
+41532
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+128
+224
+96
+149215102
+74491
+5123
+3
+Timeline 3 (Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+343
+453
+110
+69880
+512
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+409
+543
+134
+149185311
+69392
+24
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+201
+252
+51
+69611
+243
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+68
+142
+74
+149140946
+69399
+31
+1
+Timeline 1 (Base Interface)
+Car 5
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+362
+415
+53
+69371
+3
+3
+Timeline 3 (Event Blocks)
+Less than eight minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+370
+460
+90
+149094645
+69413
+45
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+133
+413
+280
+114689
+45321
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+23
+74
+51
+148958404
+69372
+4
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+155
+506
+351
+73719
+4351
+1
+Timeline 1 (Base Interface)
+Less than two minutes
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+97
+494
+397
+148904494
+73520
+4152
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+91
+320
+229
+69409
+41
+1
+Timeline 1 (Base Interface)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+118
+317
+199
+148822625
+93683
+24315
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+121
+194
+73
+71799
+2431
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+93
+164
+71
+148796085
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+182
+356
+174
+69419
+51
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+64
+125
+61
+148786365
+69602
+234
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+202
+312
+110
+69370
+2
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+160
+233
+73
+148784892
+72789
+3421
+1
+Timeline 1 (Base Interface)
+Car 4
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+75
+145
+70
+69402
+34
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than sixteen minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+97
+153
+56
+148768751
+69622
+254
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+150
+342
+192
+69370
+2
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+194
+326
+132
+148743058
+74680
+5312
+2
+Timeline 2 (Density Graph)
+Car 5
+False
+18:00 – 20:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+90
+150
+60
+69421
+53
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+28:20 – 28:30
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+129
+272
+143
+148558714
+72582
+3214
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+217
+320
+103
+69689
+321
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+257
+589
+332
+148552210
+74709
+5341
+1
+Timeline 1 (Base Interface)
+Car 4
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+105
+190
+85
+69421
+53
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+222
+370
+148
+148551719
+69422
+54
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+129
+282
+153
+123599
+54231
+1
+Timeline 1 (Base Interface)
+Less than eight minutes
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+147
+231
+84
+148547931
+69370
+2
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+217
+403
+186
+69393
+25
+5
+Timeline 5 (Event Thumbnails)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+235
+396
+161
+148516311
+74791
+5423
+3
+Timeline 3 (Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+71
+172
+101
+69910
+542
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+105
+189
+84
+148506658
+69413
+45
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+229
+296
+67
+73880
+4512
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+11
+63
+52
+148463769
+74511
+5143
+3
+Timeline 3 (Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+332
+462
+130
+69882
+514
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+3
+215
+212
+148457705
+69410
+42
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+58
+189
+131
+69793
+425
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+50
+147
+97
+148379134
+69680
+312
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+128
+290
+162
+100613
+31245
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+83
+178
+95
+148377252
+69368
+0
+0
+Other
+Car 5
+False
+13:00 – 15:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+5
+63
+58
+69368
+0
+0
+Other
+Less than eight minutes
+False
+49:20 – 49:30
+False
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+9
+62
+53
+148367695
+69368
+0
+0
+Other
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+264
+427
+163
+69393
+25
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+73
+85
+12
+148355343
+71682
+2314
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 4
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+123
+207
+84
+92513
+23145
+5
+Timeline 5 (Event Thumbnails)
+Less than eight minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+162
+225
+63
+148250834
+69611
+243
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+200
+274
+74
+93719
+24351
+1
+Timeline 1 (Base Interface)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+119
+283
+164
+148242096
+69510
+142
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+274
+482
+208
+70791
+1423
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+99
+157
+58
+148225108
+69372
+4
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 4
+False
+32:00 – 35:00
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+72
+120
+48
+73881
+4513
+3
+Timeline 3 (Event Blocks)
+Less than fourteen minutes
+False
+29:20 – 29:30
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+20
+94
+74
+148191331
+69491
+123
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+0
+189
+189
+69380
+12
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+2
+163
+161
+148121549
+69520
+152
+2
+Timeline 2 (Density Graph)
+Car 2
+False
+16:00 – 18:00
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+17
+111
+94
+84611
+15243
+3
+Timeline 3 (Event Blocks)
+Less than twelve minutes
+False
+29:20 – 29:30
+False
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+12
+140
+128
+148121544
+69582
+214
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 5
+False
+13:00 – 15:00
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+18
+129
+111
+69370
+2
+2
+Timeline 2 (Density Graph)
+Less than fourteen minutes
+False
+38:20 – 38:30
+False
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+17
+128
+111
+148121371
+101909
+32541
+1
+Timeline 1 (Base Interface)
+Car 3
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+1
+84
+83
+69400
+32
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+49:20 – 49:30
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+11
+100
+89
+148121369
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+Car 4
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+28
+148
+120
+74709
+5341
+1
+Timeline 1 (Base Interface)
+Less than sixteen minutes
+False
+47:20 – 47:30
+False
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+15
+256
+241
+148088832
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+114
+325
+211
+123689
+54321
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+90
+185
+95
+148087855
+69513
+145
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+145
+218
+73
+70820
+1452
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+214
+290
+76
+148072624
+69609
+241
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+279
+460
+181
+71783
+2415
+5
+Timeline 5 (Event Thumbnails)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+431
+612
+181
+148063804
+70800
+1432
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+32:00 – 35:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+8
+64
+56
+69511
+143
+3
+Timeline 3 (Event Blocks)
+Less than fourteen minutes
+False
+29:20 – 29:30
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+20
+65
+45
+148063806
+69382
+14
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 5
+False
+13:00 – 15:00
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+20
+77
+57
+69511
+143
+3
+Timeline 3 (Event Blocks)
+Less than sixteen minutes
+False
+29:20 – 29:30
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+21
+64
+43
+148063807
+69369
+1
+1
+Timeline 1 (Base Interface)
+Car 5
+False
+20:00 – 22:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+6
+68
+62
+83693
+14325
+5
+Timeline 5 (Event Thumbnails)
+Less than two minutes
+True
+49:20 – 49:30
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+1
+67
+66
+148063808
+69511
+143
+3
+Timeline 3 (Event Blocks)
+Car 4
+False
+20:00 – 22:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+22
+66
+44
+70800
+1432
+2
+Timeline 2 (Density Graph)
+Less than sixteen minutes
+False
+47:20 – 47:30
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+27
+67
+40
+148063802
+69382
+14
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+11:00 – 14:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+2
+71
+69
+70800
+1432
+2
+Timeline 2 (Density Graph)
+Less than fourteen minutes
+False
+38:20 – 38:30
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+1
+63
+62
+148060312
+74710
+5342
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+22
+291
+269
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+Less than eight minutes
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+4
+306
+302
+148053790
+69380
+12
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+171
+465
+294
+69369
+1
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+201
+401
+200
+147916593
+69713
+345
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69371
+3
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147914321
+69410
+42
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+69793
+425
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+147906122
+69421
+53
+3
+Timeline 3 (Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+19
+107
+88
+69900
+532
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+54
+257
+203
+147842712
+121682
+52314
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 5
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+147753370
+73889
+4521
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69820
+452
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+147752820
+74709
+5341
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+122780
+53412
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+147653631
+69369
+1
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69381
+13
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147558243
+82820
+13452
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+70713
+1345
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+147494993
+81902
+12534
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 5
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69369
+1
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+28:20 – 28:30
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147430481
+69381
+13
+3
+Timeline 3 (Event Blocks)
+Car 2
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69502
+134
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+47:20 – 47:30
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147340531
+69403
+35
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69719
+351
+1
+Timeline 1 (Base Interface)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+147328880
+69370
+2
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69611
+243
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+147308681
+69419
+51
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69881
+513
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147307347
+84800
+15432
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+70911
+1543
+3
+Timeline 3 (Event Blocks)
+Less than twelve minutes
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147183355
+69689
+321
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69371
+3
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+147051997
+69392
+24
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69613
+245
+5
+Timeline 5 (Event Thumbnails)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+147004721
+69369
+1
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+70713
+1345
+5
+Timeline 5 (Event Thumbnails)
+Less than eight minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+147001785
+69370
+2
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+69581
+213
+3
+Timeline 3 (Event Blocks)
+Less than eight minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146975493
+69370
+2
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+69581
+213
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146975491
+71781
+2413
+3
+Timeline 3 (Event Blocks)
+Car 5
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69370
+2
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146972571
+69420
+52
+2
+Timeline 2 (Density Graph)
+Car 5
+False
+22:00 – 23:00
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+Less than eight minutes
+False
+46:20 – 47:30
+False
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146954212
+71881
+2513
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+94502
+25134
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+146948076
+69370
+2
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+94502
+25134
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+146944030
+69370
+2
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+69603
+235
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146941069
+69402
+34
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69709
+341
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146933121
+69380
+12
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 2 (Density Graph)
+-1
+-1
+0
+69493
+125
+5
+Timeline 5 (Event Thumbnails)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146919962
+69692
+324
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+101819
+32451
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146859309
+69521
+153
+3
+Timeline 3 (Event Blocks)
+Car 5
+False
+20:00 – 22:00
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69383
+15
+5
+Timeline 5 (Event Thumbnails)
+Less than fourteen minutes
+False
+38:20 – 38:30
+False
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+146816020
+69583
+215
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+71521
+2153
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146772938
+104780
+35412
+2
+Timeline 2 (Density Graph)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69371
+3
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146771812
+69603
+235
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+71722
+2354
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146559166
+74791
+5423
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146511990
+111881
+42513
+3
+Timeline 3 (Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69410
+42
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146490541
+70791
+1423
+3
+Timeline 3 (Event Blocks)
+Car 4
+False
+32:00 – 35:00
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69382
+14
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+146489341
+69621
+253
+3
+Timeline 3 (Event Blocks)
+Car 3
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+71899
+2531
+1
+Timeline 1 (Base Interface)
+Less than sixteen minutes
+False
+29:20 – 29:30
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146445266
+110891
+41523
+3
+Timeline 3 (Event Blocks)
+Car 4
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+73520
+4152
+2
+Timeline 2 (Density Graph)
+Less than fourteen minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146411777
+69399
+31
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69683
+315
+5
+Timeline 5 (Event Thumbnails)
+Less than twelve minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146400674
+69793
+425
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69410
+42
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146320716
+69899
+531
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+74680
+5312
+2
+Timeline 2 (Density Graph)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146313793
+69421
+53
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69902
+534
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+146303457
+15384
+-53984
+6
+Other
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+470473
+401105
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146284478
+69389
+21
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69582
+214
+4
+Timeline 4 (Density Graph + Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146273701
+69421
+53
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+22:00 – 23:00
+False
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69902
+534
+4
+Timeline 4 (Density Graph + Event Blocks)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+146269551
+69382
+14
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69513
+145
+5
+Timeline 5 (Event Thumbnails)
+Less than eight minutes
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146266265
+69383
+15
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69521
+153
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146264656
+69410
+42
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+32:00 – 35:00
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69789
+421
+1
+Timeline 1 (Base Interface)
+Less than sixteen minutes
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+146243771
+69381
+13
+3
+Timeline 3 (Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69369
+1
+1
+Timeline 1 (Base Interface)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146217689
+69422
+54
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 3 (Event Blocks)
+-1
+-1
+0
+69909
+541
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
+146210319
+74709
+5341
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 1 (Base Interface)
+-1
+-1
+0
+69373
+5
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146209612
+69709
+341
+1
+Timeline 1 (Base Interface)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+72793
+3425
+5
+Timeline 5 (Event Thumbnails)
+Less than eight minutes
+False
+28:20 – 28:30
+False
+VIRAT_S_0100
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+146208061
+69383
+15
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+45:00 – 47:00
+False
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69520
+152
+2
+Timeline 2 (Density Graph)
+I could not find the answer within five minutes.
+False
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146207901
+69413
+45
+5
+Timeline 5 (Event Thumbnails)
+Car 1
+True
+43:00 – 45:00
+True
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69821
+453
+3
+Timeline 3 (Event Blocks)
+Less than two minutes
+True
+48:20 – 48:30
+True
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146206265
+69383
+15
+5
+Timeline 5 (Event Thumbnails)
+I could not find the answer within five minutes.
+False
+32:00 – 35:00
+False
+VIRAT_S_0002
+Timeline 5 (Event Thumbnails)
+-1
+-1
+0
+69521
+153
+3
+Timeline 3 (Event Blocks)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 2 (Density Graph)
+-1
+-1
+0
+146201756
+69422
+54
+4
+Timeline 4 (Density Graph + Event Blocks)
+Car 1
+True
+I could not find the answer within five minutes.
+False
+VIRAT_S_0002
+Timeline 4 (Density Graph + Event Blocks)
+-1
+-1
+0
+69909
+541
+1
+Timeline 1 (Base Interface)
+I could not find the answer within five minutes.
+False
+I could not find the answer within five minutes.
+False
+VIRAT_S_0100
+Timeline 1 (Base Interface)
+-1
+-1
+0
