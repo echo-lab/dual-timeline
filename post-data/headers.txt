@@ -1,0 +1,876 @@
+0: Response ID
+1: Response Status
+2: IP Address
+3: Timestamp (mm/dd/yyyy)
+4: Duplicate
+5: Time Taken to Complete (Seconds)
+6: Seq. Number
+7: External Reference
+8: timelinesUsed
+9: Custom Variable 2
+10: Custom Variable 3
+11: Custom Variable 4
+12: Custom Variable 5
+13: Respondent Email
+14: Email List
+15: Country Code
+16: Region
+17: Country
+18: Longitude
+19: Latitude
+20: Radius
+21: Browser
+22: Device
+23: Operating System
+24: Language
+25: Title of research study: DUET: Dual United Event-Based Timelines (IRB # 24-559)Principal Investigator:Name: Sang Won LeePhone: 540-231-4857Email: sangwonlee@vt.edu Other study contact(s):Name: Andy LuuPhone: 571-332-0057Email: andyluu@vt.edu Key Information: The following is a short summary of this study to help you decide whether or not to be a part of this study. More detailed information is listed later on in this form. The purpose of this study is to get a better understanding of how security camera operators currently search for specific events over long periods of time and how the new system that we designed can assist them in the search process. This study is a one-hour-long session where we will simply ask you about your experiences and opinions with viewing long videos or surveillance video footage and then have you answer some questions by completing tasks with the interface that we developed. The following sections contain more detailed information.Detailed Information: The following is more detailed information about this study in addition to the information listed above.Who can I talk to?If you have questions  concerns  or complaints  or think the research has hurt you  talk to the research team at andyluu@vt.eduThis research has been reviewed and approved by the Virginia Tech Institutional Review Board (IRB). You may communicate with them at 540-231-3732 or irb@vt.edu if:You have questions about your rights as a research subjectYour questions  concerns  or complaints are not being answered by the research teamYou cannot reach the research teamYou want to talk to someone besides the research team to provide feedback about this researchHow many people will be studied?We plan to include about 15-30 people in this research study.What happens if I say yes  I want to be in this research? The researchers will provide a survey that should take about one hour to complete.During the survey  we will ask you about your experiences and opinions with viewing long videos or surveillance video footage.Afterward  you will be asked to answer questions by completing a set of tasks using a system that we created that has publicly available security camera footage with events throughout that footage and five different timeline visualizations to navigate through those events in the video.What happens if I say yes  but I change my mind later?You can leave the research at any time  for any reason  and it will not be held against you. If you decide to leave the research  contact the investigator so that the investigator can delete any of the information about you that we collected.Is there any way being in this study could be bad for me? (Detailed Risks)There are no known risks to participating in this study.What happens to the information collected for the research?We will make every effort to limit the use and disclosure of your personal information  including research study and medical records  only to people who have a need to review this information. We cannot promise complete confidentiality. Organizations that may inspect and copy your information include the IRB  Human Research Protection Program  and other authorized representatives of Virginia Tech.The results of this research study may be presented in summary form at conferences  in presentations  reports to the sponsor  academic papers  and as part of a thesis/dissertation.Can I be removed from the research without my OK?The person in charge of the research study or the sponsor can remove you from the research study without your approval. Possible reasons for removal include: if we have reason to believe you do not meet the eligibility requirements (i.e.  are not a security camera operator or related occupation that views long hours of video footage with event-based data)What else do I need to know? If you agree to take part in this research study  the research team will enter the email addresses into a random drawing and compensation will be given to approximately ten percent of participants as a $10 gift card. The odds of being selected will be maintained as 1 in 10. The participants will be contacted separately.
+26: Do you consent to participate in this research study?
+27: Please enter your email address.
+28: What gender do you identify as?
+29: What gender do you identify as? - Other
+30: How old are you?
+31: What race or ethnicity describes you?
+32: What race or ethnicity describes you? - Other
+33: Have you ever viewed surveillance video footage  if so  how often do you view surveillance video footage (Examples: footage of a site (home  street  retail stores  building  bird watchers  etc.))?
+34: If you have previously viewed surveillance video footage  what are the typical events or incidents are the ones that you look for when you view the footage?
+35: If you have previously viewed surveillance video footage  what information do you typically use and are given as clues to spot the events? (time window  profile  or nothing)?
+36: If you have previously viewed surveillance video footage  what software/products/systems did you use to view the surveillance video footage?
+37: In this study  you will be asked to use a video player with five different timeline visualizations to complete tasks in a random order. The following tutorial describes the five timeline visualizations (Timeline 1  2  3  4  and 5). Please watch the video carefully and try to understand how each timeline visualization works before you move on to the following questions.
+38: Please watch this quick tutorial about how to use the five different timeline visualizations and confirm that you have watched the entire tutorial. Here is a link to each of the timeline visualizations if you want to explore any of them further:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails)If you have any troubles viewing the videos here is a link to the YouTube Channel: https://youtube.com/@andyluu8958
+39: Please select the timeline visualization that is shown in the image below.
+40: Please select the timeline visualization that is shown in the image below.
+41: Please select the timeline visualization that is shown in the image below.
+42: Please select the timeline visualization that is shown in the image below.
+43: Please select the timeline visualization that is shown in the image below.
+44: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0002&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+45: Please enter the password displayed on the webpage.
+46: Task: The driver of this car gets out of the car and has a conversation with another person.What is the car that the other person gets into later?
+47: Task: During which timeframe do you see this man unloading a blue shoulder bag from his car?
+48: Please select the timeline visualization that you used to complete the previous tasks.
+49: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+50: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+51: System Usability Scale (SUS) - I thought the UI was easy to use.
+52: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+53: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+54: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+55: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+56: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+57: System Usability Scale (SUS) - I felt very confident using the UI.
+58: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+59: Page Timer
+60: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0100&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+61: Please enter the password displayed on the webpage.
+62: Task: How long do these two people stay in the building?
+63: Task: During which timeframe do you see a man in a white shirt run across the camera in this area?
+64: Please select the timeline visualization that you used to complete the previous tasks.
+65: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+66: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+67: System Usability Scale (SUS) - I thought the UI was easy to use.
+68: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+69: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+70: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+71: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+72: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+73: System Usability Scale (SUS) - I felt very confident using the UI.
+74: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+75: Page Timer
+76: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0102&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+77: Please enter the password displayed on the webpage.
+78: Task: How long does this CHICANO employee take a break for?
+79: Task: During which timeframe does the owner of this golf cart return and drive away?
+80: Please select the timeline visualization that you used to complete the previous tasks.
+81: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+82: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+83: System Usability Scale (SUS) - I thought the UI was easy to use.
+84: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+85: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+86: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+87: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+88: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+89: System Usability Scale (SUS) - I felt very confident using the UI.
+90: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+91: Page Timer
+92: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0400&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+93: Please enter the password displayed on the webpage.
+94: Task: How long does the blue pickup truck remain parked after two men in white shirts begin unloading objects from the trunk of the blue pickup truck?
+95: Task: During which timeframe does a couple run across the screen starting from this house carrying a pizza?
+96: Please select the timeline visualization that you used to complete the previous tasks.
+97: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+98: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+99: System Usability Scale (SUS) - I thought the UI was easy to use.
+100: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+101: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+102: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+103: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+104: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+105: System Usability Scale (SUS) - I felt very confident using the UI.
+106: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+107: Page Timer
+108: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0500&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+109: Please enter the password displayed on the webpage.
+110: Task: Order the following three events: - A person carrying a backpack rode a bike on the pedestrian sidewalk.
+111: Task: Order the following three events: - A person wearing pants ran to catch the green light while crossing the street.
+112: Task: Order the following three events: - A construction worker waved their hands to their colleagues.
+113: Task: What is the object unloaded from the white truck with a flatboard trailer?
+114: Please select the timeline visualization that you used to complete the previous tasks.
+115: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+116: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+117: System Usability Scale (SUS) - I thought the UI was easy to use.
+118: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+119: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+120: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+121: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+122: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+123: System Usability Scale (SUS) - I felt very confident using the UI.
+124: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+125: Page Timer
+126: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 1 (Base Interface)
+127: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 2 (Density Graph)
+128: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 3 (Event Blocks)
+129: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 4 (Density Graph + Event Blocks)
+130: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 5 (Event Thumbnails)
+131: Please explain your preference for the ranked choices you made in the previous question.
+132: Are there any other features you think would be nice to implement in our current system?
+133: Do you believe the tasks we had you perform were realistic to those you look for when you browse for events in surveillence camera footage?
+134: Do you have any questions for us?
+0: Response ID
+1: Response Status
+2: IP Address
+3: Timestamp (mm/dd/yyyy)
+4: Duplicate
+5: Time Taken to Complete (Seconds)
+6: Seq. Number
+7: External Reference
+8: timelinesUsed
+9: Custom Variable 2
+10: Custom Variable 3
+11: Custom Variable 4
+12: Custom Variable 5
+13: Respondent Email
+14: Email List
+15: Country Code
+16: Region
+17: Country
+18: Longitude
+19: Latitude
+20: Radius
+21: Browser
+22: Device
+23: Operating System
+24: Language
+25: Title of research study: DUET: Dual United Event-Based Timelines (IRB # 24-559)Principal Investigator:Name: Sang Won LeePhone: 540-231-4857Email: sangwonlee@vt.edu Other study contact(s):Name: Andy LuuPhone: 571-332-0057Email: andyluu@vt.edu Key Information: The following is a short summary of this study to help you decide whether or not to be a part of this study. More detailed information is listed later on in this form. The purpose of this study is to get a better understanding of how security camera operators currently search for specific events over long periods of time and how the new system that we designed can assist them in the search process. This study is a one-hour-long session where we will simply ask you about your experiences and opinions with viewing long videos or surveillance video footage and then have you answer some questions by completing tasks with the interface that we developed. The following sections contain more detailed information.Detailed Information: The following is more detailed information about this study in addition to the information listed above.Who can I talk to?If you have questions  concerns  or complaints  or think the research has hurt you  talk to the research team at andyluu@vt.eduThis research has been reviewed and approved by the Virginia Tech Institutional Review Board (IRB). You may communicate with them at 540-231-3732 or irb@vt.edu if:You have questions about your rights as a research subjectYour questions  concerns  or complaints are not being answered by the research teamYou cannot reach the research teamYou want to talk to someone besides the research team to provide feedback about this researchHow many people will be studied?We plan to include about 15-30 people in this research study.What happens if I say yes  I want to be in this research? The researchers will provide a survey that should take about one hour to complete.During the survey  we will ask you about your experiences and opinions with viewing long videos or surveillance video footage.Afterward  you will be asked to answer questions by completing a set of tasks using a system that we created that has publicly available security camera footage with events throughout that footage and five different timeline visualizations to navigate through those events in the video.What happens if I say yes  but I change my mind later?You can leave the research at any time  for any reason  and it will not be held against you. If you decide to leave the research  contact the investigator so that the investigator can delete any of the information about you that we collected.Is there any way being in this study could be bad for me? (Detailed Risks)There are no known risks to participating in this study.What happens to the information collected for the research?We will make every effort to limit the use and disclosure of your personal information  including research study and medical records  only to people who have a need to review this information. We cannot promise complete confidentiality. Organizations that may inspect and copy your information include the IRB  Human Research Protection Program  and other authorized representatives of Virginia Tech.The results of this research study may be presented in summary form at conferences  in presentations  reports to the sponsor  academic papers  and as part of a thesis/dissertation.Can I be removed from the research without my OK?The person in charge of the research study or the sponsor can remove you from the research study without your approval. Possible reasons for removal include: if we have reason to believe you do not meet the eligibility requirements (i.e.  are not a security camera operator or related occupation that views long hours of video footage with event-based data)What else do I need to know? If you agree to take part in this research study  the research team will enter the email addresses into a random drawing and compensation will be given to approximately ten percent of participants as a $10 gift card. The odds of being selected will be maintained as 1 in 10. The participants will be contacted separately.
+26: Do you consent to participate in this research study?
+27: Please enter your email address.
+28: What gender do you identify as?
+29: What gender do you identify as? - Other
+30: How old are you?
+31: What race or ethnicity describes you?
+32: What race or ethnicity describes you? - Other
+33: Have you ever viewed surveillance video footage  if so  how often do you view surveillance video footage (Examples: footage of a site (home  street  retail stores  building  bird watchers  etc.))?
+34: If you have previously viewed surveillance video footage  what are the typical events or incidents are the ones that you look for when you view the footage?
+35: If you have previously viewed surveillance video footage  what information do you typically use and are given as clues to spot the events? (time window  profile  or nothing)?
+36: If you have previously viewed surveillance video footage  what software/products/systems did you use to view the surveillance video footage?
+37: In this study  you will be asked to use a video player with five different timeline visualizations to complete tasks in a random order. The following tutorial describes the five timeline visualizations (Timeline 1  2  3  4  and 5). Please watch the video carefully and try to understand how each timeline visualization works before you move on to the following questions.
+38: Please watch this quick tutorial about how to use the five different timeline visualizations and confirm that you have watched the entire tutorial. Here is a link to each of the timeline visualizations if you want to explore any of them further:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails)If you have any troubles viewing the videos here is a link to the YouTube Channel: https://youtube.com/@andyluu8958
+39: Please select the timeline visualization that is shown in the image below.
+40: Please select the timeline visualization that is shown in the image below.
+41: Please select the timeline visualization that is shown in the image below.
+42: Please select the timeline visualization that is shown in the image below.
+43: Please select the timeline visualization that is shown in the image below.
+44: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0002&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+45: Please enter the password displayed on the webpage.
+46: Task: The driver of this car gets out of the car and has a conversation with another person.What is the car that the other person gets into later?
+47: Task: During which timeframe do you see this man unloading a blue shoulder bag from his car?
+48: Please select the timeline visualization that you used to complete the previous tasks.
+49: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+50: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+51: System Usability Scale (SUS) - I thought the UI was easy to use.
+52: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+53: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+54: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+55: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+56: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+57: System Usability Scale (SUS) - I felt very confident using the UI.
+58: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+59: Page Timer
+60: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0100&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+61: Please enter the password displayed on the webpage.
+62: Task: How long do these two people stay in the building?
+63: Task: During which timeframe do you see a man in a white shirt run across the camera in this area?
+64: Please select the timeline visualization that you used to complete the previous tasks.
+65: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+66: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+67: System Usability Scale (SUS) - I thought the UI was easy to use.
+68: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+69: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+70: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+71: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+72: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+73: System Usability Scale (SUS) - I felt very confident using the UI.
+74: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+75: Page Timer
+76: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0102&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+77: Please enter the password displayed on the webpage.
+78: Task: How long does this CHICANO employee take a break for?
+79: Task: During which timeframe does the owner of this golf cart return and drive away?
+80: Please select the timeline visualization that you used to complete the previous tasks.
+81: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+82: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+83: System Usability Scale (SUS) - I thought the UI was easy to use.
+84: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+85: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+86: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+87: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+88: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+89: System Usability Scale (SUS) - I felt very confident using the UI.
+90: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+91: Page Timer
+92: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0400&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+93: Please enter the password displayed on the webpage.
+94: Task: How long does the blue pickup truck remain parked after two men in white shirts begin unloading objects from the trunk of the blue pickup truck?
+95: Task: During which timeframe does a couple run across the screen starting from this house carrying a pizza?
+96: Please select the timeline visualization that you used to complete the previous tasks.
+97: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+98: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+99: System Usability Scale (SUS) - I thought the UI was easy to use.
+100: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+101: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+102: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+103: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+104: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+105: System Usability Scale (SUS) - I felt very confident using the UI.
+106: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+107: Page Timer
+108: Please open this link in a different tab: https://duetimelines.vercel.app/?videotype=VIRAT_S_0500&password=${timelinesUsed}If the interface seems a little small  please resize your window until it is as large as possible. Once you open the web page and briefly play with the timeline visualization  please move to the next section to complete the tasks.
+109: Please enter the password displayed on the webpage.
+110: Task: Order the following three events: - A person carrying a backpack rode a bike on the pedestrian sidewalk.
+111: Task: Order the following three events: - A person wearing pants ran to catch the green light while crossing the street.
+112: Task: Order the following three events: - A construction worker waved their hands to their colleagues.
+113: Task: What is the object unloaded from the white truck with a flatboard trailer?
+114: Please select the timeline visualization that you used to complete the previous tasks.
+115: System Usability Scale (SUS) - I think that I would like to use this UI frequently.
+116: System Usability Scale (SUS) - I found the UI unnecessarily complex.
+117: System Usability Scale (SUS) - I thought the UI was easy to use.
+118: System Usability Scale (SUS) - I think that I would need the support of a technical person to be able to use this UI.
+119: System Usability Scale (SUS) - I found the various functions in this UI were well integrated.
+120: System Usability Scale (SUS) - I thought there was too much inconsistency in this UI.
+121: System Usability Scale (SUS) - I would imagine that most people would learn to use this UI very quickly.
+122: System Usability Scale (SUS) - I found the UI very cumbersome to use.
+123: System Usability Scale (SUS) - I felt very confident using the UI.
+124: System Usability Scale (SUS) - I needed to learn a lot of things before I could get going with this UI.
+125: Page Timer
+126: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 1 (Base Interface)
+127: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 2 (Density Graph)
+128: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 3 (Event Blocks)
+129: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 4 (Density Graph + Event Blocks)
+130: Please rank (1-5) the following in order of which timeline visualization you liked the most  if you need a refresher  here are links for each of the timeline visualizations:Timeline 1 (Base Interface)Timeline 2 (Density Graph)Timeline 3 (Event Blocks)Timeline 4 (Density Graph + Event Blocks)Timeline 5 (Event Thumbnails) - Timeline 5 (Event Thumbnails)
+131: Please explain your preference for the ranked choices you made in the previous question.
+132: Are there any other features you think would be nice to implement in our current system?
+133: Do you believe the tasks we had you perform were realistic to those you look for when you browse for events in surveillence camera footage?
+134: Do you have any questions for us?
+149488827
+5
+4
+2
+3
+1
+149466211
+5
+4
+2
+3
+1
+149439530
+5
+4
+3
+1
+2
+149353591
+5
+4
+3
+2
+1
+149215102
+5
+4
+3
+2
+1
+149185311
+5
+4
+3
+2
+1
+149140946
+5
+1
+4
+3
+2
+149094645
+5
+4
+3
+1
+2
+148958404
+5
+3
+4
+2
+1
+148904494
+5
+4
+2
+3
+1
+148822625
+5
+3
+2
+1
+4
+148796085
+5
+3
+2
+4
+1
+148786365
+5
+4
+2
+3
+1
+148784892
+5
+4
+3
+2
+1
+148768751
+5
+3
+2
+4
+1
+148743058
+1
+3
+2
+4
+5
+148558714
+5
+4
+3
+2
+1
+148552210
+1
+3
+4
+5
+2
+148551719
+5
+4
+2
+3
+1
+148547931
+4
+3
+2
+5
+1
+148516311
+5
+4
+3
+2
+1
+148506658
+2
+4
+5
+3
+1
+148492163
+2
+5
+4
+3
+1
+148463769
+5
+4
+2
+3
+1
+148457705
+5
+3
+2
+1
+4
+148379134
+5
+4
+1
+2
+3
+148377252
+4
+5
+3
+2
+1
+148367695
+1
+4
+2
+5
+3
+148355343
+1
+5
+4
+3
+2
+148250834
+5
+4
+3
+2
+1
+148242096
+4
+5
+2
+3
+1
+148225108
+1
+2
+4
+3
+5
+148191331
+3
+2
+5
+4
+1
+148121549
+5
+3
+2
+4
+1
+148121544
+4
+3
+5
+2
+1
+148121371
+4
+3
+5
+2
+1
+148121369
+5
+4
+3
+1
+2
+148088832
+5
+4
+3
+1
+2
+148087855
+5
+4
+3
+2
+1
+148072624
+5
+4
+2
+1
+3
+148063804
+2
+1
+5
+4
+3
+148063806
+2
+1
+5
+4
+3
+148063807
+2
+1
+5
+4
+3
+148063808
+2
+1
+5
+3
+4
+148063802
+4
+2
+5
+3
+1
+148060312
+4
+5
+3
+1
+2
+148053790
+5
+4
+3
+2
+1
+147916593
+5
+4
+3
+1
+2
+147914321
+3
+5
+2
+4
+1
+147906122
+4
+2
+3
+5
+1
+147842712
+5
+2
+1
+3
+4
+147753370
+5
+4
+3
+2
+1
+147752820
+5
+4
+3
+2
+1
+147653631
+5
+4
+3
+2
+1
+147558243
+2
+5
+4
+3
+1
+147494993
+4
+1
+2
+5
+3
+147430481
+2
+4
+3
+1
+5
+147340531
+5
+4
+3
+2
+1
+147328880
+5
+4
+3
+1
+2
+147308681
+5
+4
+2
+3
+1
+147307347
+4
+5
+1
+3
+2
+147183355
+5
+4
+2
+3
+1
+147051997
+5
+2
+3
+1
+4
+147004721
+4
+2
+3
+1
+5
+147001785
+5
+4
+3
+1
+2
+146975493
+5
+2
+4
+3
+1
+146975491
+3
+1
+2
+5
+4
+146972571
+5
+4
+3
+2
+1
+146954212
+5
+2
+3
+1
+4
+146948076
+5
+4
+2
+3
+1
+146944030
+4
+2
+1
+3
+5
+146941069
+5
+4
+3
+2
+1
+146933121
+5
+4
+3
+1
+2
+146919962
+5
+3
+2
+4
+1
+146859309
+3
+1
+2
+4
+5
+146816020
+5
+3
+2
+1
+4
+146772938
+5
+4
+3
+2
+1
+146771812
+5
+4
+2
+3
+1
+146559166
+3
+5
+4
+2
+1
+146511990
+3
+5
+4
+1
+2
+146490541
+5
+4
+3
+2
+1
+146489341
+2
+5
+1
+3
+4
+146445266
+5
+4
+2
+1
+3
+146411777
+5
+4
+2
+1
+3
+146400674
+4
+5
+3
+1
+2
+146320716
+5
+4
+2
+3
+1
+146313793
+5
+3
+2
+4
+1
+146303457
+5
+4
+3
+1
+2
+146284478
+5
+4
+3
+2
+1
+146273701
+2
+1
+3
+4
+5
+146269551
+4
+3
+1
+2
+5
+146266265
+5
+2
+4
+3
+1
+146264656
+4
+2
+1
+3
+5
+146243771
+5
+4
+2
+3
+1
+146217689
+5
+4
+3
+2
+1
+146210319
+5
+1
+3
+4
+2
+146209612
+2
+4
+5
+3
+1
+146208061
+4
+5
+2
+1
+3
+146207901
+5
+4
+2
+1
+3
+146206265
+4
+3
+5
+2
+1
+146201756
+5
+3
+2
+4
+1
