@@ -328,5 +328,420 @@ for row in dataframe1.values:
             + "\n"
         )
 
+        # VIRAT_S_0102 Data
+
+        virat_s_0102_timelines_used_value = row_as_list[77]
+        print(virat_s_0102_timelines_used_value)
+
+        virat_s_0102_timelines_used_value_decrypted = (
+            int(virat_s_0102_timelines_used_value) - 69368
+        )
+        print(virat_s_0102_timelines_used_value_decrypted)
+
+        virat_s_0102_timelines_used_value_decrypted_last_digit = (
+            virat_s_0102_timelines_used_value_decrypted % 10
+        )
+        print(virat_s_0102_timelines_used_value_decrypted_last_digit)
+
+        virat_s_0102_timeline_from_timelines_used = timeline_types[
+            virat_s_0102_timelines_used_value_decrypted_last_digit
+        ]
+        print(virat_s_0102_timeline_from_timelines_used)
+
+        virat_s_0102_q1 = "Task: How long does this CHICANO employee take a break for?"
+        virat_s_0102_q1_correct_response = "About four minutes"
+        virat_s_0102_q1_response = row_as_list[78]
+        print(virat_s_0102_q1_response)
+
+        virat_s_0102_q1_correct_or_not = (
+            virat_s_0102_q1_correct_response == virat_s_0102_q1_response
+        )
+
+        print(virat_s_0102_q1_correct_or_not)
+
+        virat_s_0102_q2 = "Task: During which timeframe does the owner of this golf cart return and drive away?"
+        virat_s_0102_q2_correct_response = "22:00 – 23:00"
+        virat_s_0102_q2_response = row_as_list[79]
+        print(virat_s_0102_q2_response)
+
+        virat_s_0102_q2_correct_or_not = (
+            virat_s_0102_q2_correct_response == virat_s_0102_q2_response
+        )
+
+        print(virat_s_0102_q2_correct_or_not)
+
+        virat_s_0102_video_name = "VIRAT_S_0102"
+        print(virat_s_0102_video_name)
+
+        virat_s_0102_user_timeline_type = row_as_list[80]
+        print(virat_s_0102_user_timeline_type)
+
+        virat_s_0102_page_timer = row_as_list[91]
+
+        virat_s_0102_page_timer_first_click = -1
+
+        virat_s_0102_page_timer_last_click = -1
+
+        if virat_s_0102_page_timer != "None":
+
+            virat_s_0102_page_timer = virat_s_0102_page_timer.split("\n")
+
+            first_click_split = virat_s_0102_page_timer[0].split(" : ")
+
+            first_click = first_click_split[1].replace("_x000D_", "")
+
+            virat_s_0102_page_timer_first_click = int(first_click)
+
+            last_click_split = virat_s_0102_page_timer[1].split(" : ")
+
+            last_click = last_click_split[1].replace("_x000D_", "")
+
+            virat_s_0102_page_timer_last_click = int(last_click)
+
+        print(virat_s_0102_page_timer_first_click)
+
+        print(virat_s_0102_page_timer_last_click)
+
+        virat_s_0102_page_timer_time_between_clicks = (
+            virat_s_0102_page_timer_last_click - virat_s_0102_page_timer_first_click
+        )
+
+        print(virat_s_0102_page_timer_time_between_clicks)
+
+        question_responses_with_answers_csv.write(
+            response_id
+            + ", "
+            + virat_s_0102_timelines_used_value
+            + ", "
+            + str(virat_s_0102_timelines_used_value_decrypted)
+            + ", "
+            + virat_s_0102_timeline_from_timelines_used
+            + ", "
+            + virat_s_0102_user_timeline_type
+            + ", "
+            + str(virat_s_0102_page_timer_first_click)
+            + ", "
+            + str(virat_s_0102_page_timer_last_click)
+            + ", "
+            + str(virat_s_0102_page_timer_time_between_clicks)
+            + ", "
+            + virat_s_0102_q1
+            + ", "
+            + virat_s_0102_video_name
+            + ", "
+            + virat_s_0102_q1_response
+            + ", "
+            + virat_s_0102_q1_correct_response
+            + ", "
+            + str(virat_s_0102_q1_correct_or_not)
+            + "\n"
+        )
+
+        question_responses_with_answers_csv.write(
+            response_id
+            + ", "
+            + virat_s_0102_timelines_used_value
+            + ", "
+            + str(virat_s_0102_timelines_used_value_decrypted)
+            + ", "
+            + virat_s_0102_timeline_from_timelines_used
+            + ", "
+            + virat_s_0102_user_timeline_type
+            + ", "
+            + str(virat_s_0102_page_timer_first_click)
+            + ", "
+            + str(virat_s_0102_page_timer_last_click)
+            + ", "
+            + str(virat_s_0102_page_timer_time_between_clicks)
+            + ", "
+            + virat_s_0102_q2
+            + ", "
+            + virat_s_0102_video_name
+            + ", "
+            + virat_s_0102_q2_response
+            + ", "
+            + virat_s_0102_q2_correct_response
+            + ", "
+            + str(virat_s_0102_q2_correct_or_not)
+            + "\n"
+        )
+
+        # VIRAT_S_0400 Data
+
+        virat_s_0400_timelines_used_value = row_as_list[93]
+        print(virat_s_0400_timelines_used_value)
+
+        virat_s_0400_timelines_used_value_decrypted = (
+            int(virat_s_0400_timelines_used_value) - 69368
+        )
+        print(virat_s_0400_timelines_used_value_decrypted)
+
+        virat_s_0400_timelines_used_value_decrypted_last_digit = (
+            virat_s_0400_timelines_used_value_decrypted % 10
+        )
+        print(virat_s_0400_timelines_used_value_decrypted_last_digit)
+
+        virat_s_0400_timeline_from_timelines_used = timeline_types[
+            virat_s_0400_timelines_used_value_decrypted_last_digit
+        ]
+        print(virat_s_0400_timeline_from_timelines_used)
+
+        virat_s_0400_q1 = "Task: How long does the blue pickup truck remain parked after two men in white shirts begin unloading objects from the trunk of the blue pickup truck?"
+        virat_s_0400_q1_correct_response = "About six minutes"
+        virat_s_0400_q1_response = row_as_list[94]
+        print(virat_s_0400_q1_response)
+
+        virat_s_0400_q1_correct_or_not = (
+            virat_s_0400_q1_correct_response == virat_s_0400_q1_response
+        )
+
+        print(virat_s_0400_q1_correct_or_not)
+
+        virat_s_0400_q2 = "Task: During which timeframe does a couple run across the screen starting from this house carrying a pizza?"
+        virat_s_0400_q2_correct_response = "50:00 – 51:00"
+        virat_s_0400_q2_response = row_as_list[95]
+        print(virat_s_0400_q2_response)
+
+        virat_s_0400_q2_correct_or_not = (
+            virat_s_0400_q2_correct_response == virat_s_0400_q2_response
+        )
+
+        print(virat_s_0400_q2_correct_or_not)
+
+        virat_s_0400_video_name = "VIRAT_S_0400"
+        print(virat_s_0400_video_name)
+
+        virat_s_0400_user_timeline_type = row_as_list[96]
+        print(virat_s_0400_user_timeline_type)
+
+        virat_s_0400_page_timer = row_as_list[107]
+
+        virat_s_0400_page_timer_first_click = -1
+
+        virat_s_0400_page_timer_last_click = -1
+
+        if virat_s_0400_page_timer != "None":
+
+            virat_s_0400_page_timer = virat_s_0400_page_timer.split("\n")
+
+            first_click_split = virat_s_0400_page_timer[0].split(" : ")
+
+            first_click = first_click_split[1].replace("_x000D_", "")
+
+            virat_s_0400_page_timer_first_click = int(first_click)
+
+            last_click_split = virat_s_0400_page_timer[1].split(" : ")
+
+            last_click = last_click_split[1].replace("_x000D_", "")
+
+            virat_s_0400_page_timer_last_click = int(last_click)
+
+        print(virat_s_0400_page_timer_first_click)
+
+        print(virat_s_0400_page_timer_last_click)
+
+        virat_s_0400_page_timer_time_between_clicks = (
+            virat_s_0400_page_timer_last_click - virat_s_0400_page_timer_first_click
+        )
+
+        print(virat_s_0400_page_timer_time_between_clicks)
+
+        question_responses_with_answers_csv.write(
+            response_id
+            + ", "
+            + virat_s_0400_timelines_used_value
+            + ", "
+            + str(virat_s_0400_timelines_used_value_decrypted)
+            + ", "
+            + virat_s_0400_timeline_from_timelines_used
+            + ", "
+            + virat_s_0400_user_timeline_type
+            + ", "
+            + str(virat_s_0400_page_timer_first_click)
+            + ", "
+            + str(virat_s_0400_page_timer_last_click)
+            + ", "
+            + str(virat_s_0400_page_timer_time_between_clicks)
+            + ", "
+            + virat_s_0400_q1
+            + ", "
+            + virat_s_0400_video_name
+            + ", "
+            + virat_s_0400_q1_response
+            + ", "
+            + virat_s_0400_q1_correct_response
+            + ", "
+            + str(virat_s_0400_q1_correct_or_not)
+            + "\n"
+        )
+
+        question_responses_with_answers_csv.write(
+            response_id
+            + ", "
+            + virat_s_0400_timelines_used_value
+            + ", "
+            + str(virat_s_0400_timelines_used_value_decrypted)
+            + ", "
+            + virat_s_0400_timeline_from_timelines_used
+            + ", "
+            + virat_s_0400_user_timeline_type
+            + ", "
+            + str(virat_s_0400_page_timer_first_click)
+            + ", "
+            + str(virat_s_0400_page_timer_last_click)
+            + ", "
+            + str(virat_s_0400_page_timer_time_between_clicks)
+            + ", "
+            + virat_s_0400_q2
+            + ", "
+            + virat_s_0400_video_name
+            + ", "
+            + virat_s_0400_q2_response
+            + ", "
+            + virat_s_0400_q2_correct_response
+            + ", "
+            + str(virat_s_0400_q2_correct_or_not)
+            + "\n"
+        )
+
+        # VIRAT_S_0500 Data
+
+        virat_s_0500_timelines_used_value = row_as_list[109]
+        print(virat_s_0500_timelines_used_value)
+
+        virat_s_0500_timelines_used_value_decrypted = (
+            int(virat_s_0500_timelines_used_value) - 69368
+        )
+        print(virat_s_0500_timelines_used_value_decrypted)
+
+        virat_s_0500_timelines_used_value_decrypted_last_digit = (
+            virat_s_0500_timelines_used_value_decrypted % 10
+        )
+        print(virat_s_0500_timelines_used_value_decrypted_last_digit)
+
+        virat_s_0500_timeline_from_timelines_used = timeline_types[
+            virat_s_0500_timelines_used_value_decrypted_last_digit
+        ]
+        print(virat_s_0500_timeline_from_timelines_used)
+
+        virat_s_0500_q1 = "Task: Order the following three events: - A person carrying a backpack rode a bike on the pedestrian sidewalk.:A person wearing pants ran to catch the green light while crossing the street.:A construction worker waved their hands to their colleagues."
+        virat_s_0500_q1_correct_response = "2:1:3"
+        virat_s_0500_q1_response = (
+            row_as_list[110] + ":" + row_as_list[111] + ":" + row_as_list[112]
+        )
+        print(virat_s_0500_q1_response)
+
+        virat_s_0500_q1_correct_or_not = (
+            virat_s_0500_q1_correct_response == virat_s_0500_q1_response
+        )
+
+        print(virat_s_0500_q1_correct_or_not)
+
+        virat_s_0500_q2 = "Task: What is the object unloaded from the white truck with a flatboard trailer?"
+        virat_s_0500_q2_correct_response = "A slow-down sign"
+        virat_s_0500_q2_response = row_as_list[113]
+        print(virat_s_0500_q2_response)
+
+        virat_s_0500_q2_correct_or_not = (
+            virat_s_0500_q2_correct_response == virat_s_0500_q2_response
+        )
+
+        print(virat_s_0500_q2_correct_or_not)
+
+        virat_s_0500_video_name = "VIRAT_S_0500"
+        print(virat_s_0500_video_name)
+
+        virat_s_0500_user_timeline_type = row_as_list[114]
+        print(virat_s_0500_user_timeline_type)
+
+        virat_s_0500_page_timer = row_as_list[125]
+
+        virat_s_0500_page_timer_first_click = -1
+
+        virat_s_0500_page_timer_last_click = -1
+
+        if virat_s_0500_page_timer != "None":
+
+            virat_s_0500_page_timer = virat_s_0500_page_timer.split("\n")
+
+            first_click_split = virat_s_0500_page_timer[0].split(" : ")
+
+            first_click = first_click_split[1].replace("_x000D_", "")
+
+            virat_s_0500_page_timer_first_click = int(first_click)
+
+            last_click_split = virat_s_0500_page_timer[1].split(" : ")
+
+            last_click = last_click_split[1].replace("_x000D_", "")
+
+            virat_s_0500_page_timer_last_click = int(last_click)
+
+        print(virat_s_0500_page_timer_first_click)
+
+        print(virat_s_0500_page_timer_last_click)
+
+        virat_s_0500_page_timer_time_between_clicks = (
+            virat_s_0500_page_timer_last_click - virat_s_0500_page_timer_first_click
+        )
+
+        print(virat_s_0500_page_timer_time_between_clicks)
+
+        question_responses_with_answers_csv.write(
+            response_id
+            + ", "
+            + virat_s_0500_timelines_used_value
+            + ", "
+            + str(virat_s_0500_timelines_used_value_decrypted)
+            + ", "
+            + virat_s_0500_timeline_from_timelines_used
+            + ", "
+            + virat_s_0500_user_timeline_type
+            + ", "
+            + str(virat_s_0500_page_timer_first_click)
+            + ", "
+            + str(virat_s_0500_page_timer_last_click)
+            + ", "
+            + str(virat_s_0500_page_timer_time_between_clicks)
+            + ", "
+            + virat_s_0500_q1
+            + ", "
+            + virat_s_0500_video_name
+            + ", "
+            + virat_s_0500_q1_response
+            + ", "
+            + virat_s_0500_q1_correct_response
+            + ", "
+            + str(virat_s_0500_q1_correct_or_not)
+            + "\n"
+        )
+
+        question_responses_with_answers_csv.write(
+            response_id
+            + ", "
+            + virat_s_0500_timelines_used_value
+            + ", "
+            + str(virat_s_0500_timelines_used_value_decrypted)
+            + ", "
+            + virat_s_0500_timeline_from_timelines_used
+            + ", "
+            + virat_s_0500_user_timeline_type
+            + ", "
+            + str(virat_s_0500_page_timer_first_click)
+            + ", "
+            + str(virat_s_0500_page_timer_last_click)
+            + ", "
+            + str(virat_s_0500_page_timer_time_between_clicks)
+            + ", "
+            + virat_s_0500_q2
+            + ", "
+            + virat_s_0500_video_name
+            + ", "
+            + virat_s_0500_q2_response
+            + ", "
+            + virat_s_0500_q2_correct_response
+            + ", "
+            + str(virat_s_0500_q2_correct_or_not)
+            + "\n"
+        )
 
 question_responses_with_answers_csv.close()
