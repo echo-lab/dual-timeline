@@ -26,3 +26,5 @@ Task: Order the following three events: - A person wearing pants ran to catch th
 Task: Order the following three events: - A construction worker waved their hands to their colleagues.
 Task: What is the object unloaded from the white truck with a flatboard trailer?
 Please select the timeline visualization that you used to complete the previous tasks.
+
+Timeline 1 (Base Interface),Timeline 2 (Density Graph),Timeline 3 (Event Blocks),Timeline 4 (Density Graph + Event Blocks),Timeline 5 (Event Thumbnails)
