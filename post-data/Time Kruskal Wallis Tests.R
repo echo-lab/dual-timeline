@@ -8,7 +8,7 @@ result = kruskal.test(TimeBetweenClicks ~ TimelineType,
                       data = myDataTime)
 print(result)
 
-boxplot(TimeBetweenClicks ~ TimelineType,
+print(boxplot(TimeBetweenClicks ~ TimelineType,
         data=myDataTime,
         main="Different boxplots for each Timeline Type",
         xlab="Time Between First and Last Click",
@@ -17,5 +17,10 @@ boxplot(TimeBetweenClicks ~ TimelineType,
         border="red",
         horizontal=TRUE,
         notch=TRUE
-)
+))
+
+# averages
+aggregate(myDataTime$TimeBetweenClicks, list(myDataTime$TimelineType), FUN=mean)
+
+unique(myDataTime$PID)
 
