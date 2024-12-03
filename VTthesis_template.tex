@@ -1,0 +1,1275 @@
+%       File: VTthesis_template.tex
+%     Created: Thu Mar 24 11:00 AM 2016 EDT
+%     Last Change: Thursday, December 19, 2019
+%     Author: Alan M. Lattimer, VT
+%	  With modifications by Carrie Cross, Robert Browder, and LianTze Lim. 
+%
+% This template is designed to operate with XeLaTeX.
+%
+% All elements in the Title, Abstract, and Keywords MUST be formatted as text and NOT as math.
+%
+%Further instructions for using this template are embedded in the document. Additionally, there are comments at the end of the file that give suggestions on writing your thesis.  
+%
+%In addition to the standard formatting options, the following options are defined for the VTthesis class: proposal, prelim, doublespace, draft. 
+
+\documentclass[doublespace,draft,nopageskip]{VTthesis} % nopageskip - Removes arbitrary blank pages.
+
+% Using the following header instead will create a draft copy of your thesis
+%\documentclass[doublespace,draft]{VTthesis}
+
+% The lipsum package is just included to put dummy text in the document in order to demonstrate page headers and table of contents behavior. You should remove it once you begin writing your actual thesis or dissertation.
+\usepackage{lipsum}
+
+% Title of your thesis
+\title{DUET: Distinct but United Event-based Timelines}
+
+% You should include 3-5 keywords, separated by commas
+\keywords{timeline, visualization, event-based, usability, security}
+
+% Your name, including middle initial(s)
+\author{Andy Luu}
+
+% Change this to your program, e.g. Physics, Civil Engineering, etc.
+\program{Computer Science} 
+
+% Change this to your degree, e.g. Master of Science, Master of Art, etc.
+\degree{Master's of Science} 
+
+% This should be your defense date:
+\submitdate{December 18th, 2024} 
+
+% Committee members. Only have five readers and one chair available.
+% Only use the ones you need and don't include the ones you don't need.
+% You can also declare a Co-advisor. If you do, the principal and co-advisors
+% will be listed as co-advisors on the title page.  Per the VT ETD standards, 
+% you should not include titles or educational qualifications such as PhD or Dr.
+% You should, however, include middle initials if possible.
+\principaladvisor{Dr. Sang Won Lee}
+\firstreader{Dr. Sol Lim}
+\secondreader{Dr. Yan Chen}
+
+% The dedication and acknowledgement pages are optional. Comment them out to remove them.
+\dedication{This is where you put your dedications.}
+\acknowledge{This is where you put your acknowledgments.}
+
+% The abstract is required.
+\abstract{Through innovations in sensors and storage, the collection of event-based data has increased significantly in recent years. Personal security cameras allow users to collect event data in their homes, Google Maps allows users to view places they have been throughout the day, and web browsers collect a history of the sites users visit. Despite the innovations in event-based data collection, the Graphical User Interfaces (GUIs) designed for these systems have not changed for years. Many applications stick to a linear timeline to display the events which leads to large gaps of downtime when sparse events occur throughout the day. However, linear timelines create a natural sense of temporal perception since users can easily tell what time of day certain events occur. Our project seeks to create a novel interface for users to search more efficiently through time-series data with sparse events. Through our design, users will be able to leverage the simple temporal perception that a linear timeline provides, as well as avoid unnecessary searching to locate specific events. By seamlessly integrating a linear timeline with density visualizations with a timeline of events, we aim to allow users to search and view events with ease. To evaluate our interface, we conducted two usability studies, first with law enforcement and then with individuals who utilize home security systems. Our findings inform the design of future event-based timeline visualizations.}
+
+% The general audience abstract is required. There are currently no word limits.
+\abstractgenaud{Through innovations in sensors and storage, the collection of event-based data has increased significantly in recent years. Personal security cameras allow users to collect event data in their homes, Google Maps allows users to view places they have been throughout the day, and web browsers collect a history of the sites users visit. Despite the innovations in event-based data collection, the Graphical User Interfaces (GUIs) designed for these systems have not changed for years. Many applications stick to a linear timeline to display the events which leads to large gaps of downtime when sparse events occur throughout the day. However, linear timelines create a natural sense of temporal perception since users can easily tell what time of day certain events occur. Our project seeks to create a novel interface for users to search more efficiently through time-series data with sparse events. Through our design, users will be able to leverage the simple temporal perception that a linear timeline provides, as well as avoid unnecessary searching to locate specific events. By seamlessly integrating a linear timeline with density visualizations with a timeline of events, we aim to allow users to search and view events with ease. To evaluate our interface, we conducted two usability studies, first with law enforcement and then with individuals who utilize home security systems. Our findings inform the design of future event-based timeline visualizations.}
+
+\begin{document}
+% The following lines set up the front matter of your thesis or dissertation and are required to ensure proper formatting per the VT ETD standards. 
+  \frontmatter
+  \maketitle
+  \tableofcontents
+
+% The list of figures and tables are now optional per the official ETD standards.  Unless you have a very good reason for removing them, you should leave these lists in the document. Comment them out to remove them.
+	\listoffigures
+	\listoftables
+    \printnomenclature %Creates a list of abbreviations. Comment out to remove it. 
+
+% sample text for abbreviations:
+NLP is a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages.
+ 
+\nomenclature{NLP}{Natural Language Processing}
+ 
+$\sigma$ is the eighteenth letter of the Greek alphabet, and carries the 's' sound. In the system of Greek numerals, it has a value of 200. 
+ 
+\nomenclature{$\sigma$}{The total mass of angels per unit area}
+
+% The following sets up the document for the main part of the thesis or dissertation. Do not comment out or remove this line.
+\mainmatter
+
+%now go ahead and start writing your thesis
+\chapter{Introduction} \label{ch:introduction}
+\section{Introduction} \label{se:introduction}
+As humans continue to use technology more and more in their daily lives, collecting large amounts of event-based data has become easier than ever. Event-based data, or information related to specific events, including when, why, and how they occurred can be collected digitally as people use their devices or through a combination of sensors and computer vision in different environments \cite{satterthwaiteEventBasedDataData}. For example, as people browse the web daily, their web browsers keep track of every website that they visit with a short timestamp so that the user remembers when they last accessed that link. Google Maps recently implemented a similar feature for users that allows the application to track their location throughout the day continuously, storing the paths that users take and the places that they visit \cite{macarullarodriguezGoogleTimelineAccuracy2018}. These types of event-based data can easily be used to identify patterns and trends in users' lives and how they can improve certain aspects of their lives \cite{satterthwaiteEventBasedDataData}. However, despite the many improvements that event-based data brings to our lives, the methods that have been used to display these events to users have stagnated in their improvements for many years.
+
+Currently, most applications display these events through a horizontal linear timeline. For example, Ring security cameras use an infinitely scrollable container where each hour is contained by a certain number of pixels and then the events are placed in those containers as they occur throughout the day \cite{kellyRingVideoDoorbell2023}. Although the benefits of this linear timeline approach are clear since users can easily tell when events occur throughout the day, the current methods of implementation are not user-friendly when there are sparse events. If there are only a couple of events that occur throughout the day, users may have to scroll across the entire timeline to find when those events occur. Other applications have attempted other methods of displaying events like browser search histories that display them in a vertical list without the gaps in between but users are not able to temporally perceive event occurrences when presented with this format. Our project seeks to find a balance between the natural temporal perception that linear timelines offer and the usability of event timelines.
+
+We test this balance through the DUET (Distinct but United Event-based Timelines) project, an interface that we have developed that allows users to utilize multiple different timeline visualizations to find certain events in a video. Currently, the website supports multiple security camera videos from a publicly available dataset with twelve different types of events that occur throughout the videos. The website also allows users to filter by the different types of events so they can narrow their search to the types that they are looking for. Through the interface that we created, we are interested in learning more about: 
+
+\begin{enumerate}
+    \item What difficulties do users face when searching for specific events in long timelines with sparse events? 
+    \item What tools or features can be implemented into existing navigation methods to ease searching for specific events in long timelines with sparse events? 
+\end{enumerate}
+
+To gather preliminary thoughts about these questions and improve our interface before conducting a study with the general public, we conducted a pilot study (N=5), where we interviewed various types of users of security cameras. 
+Specifically, we interviewed Police Officers, a Homeowner, an Undergraduate Researcher working on a farm, and a Government Office Security Specialist. 
+Through the initial study, we were able to gather preliminary feedback about the initial interface that we developed. 
+From the feedback that we gathered, we implemented improvements to the interface such as adding an adjustable playback rate for users to slow down and fast forward the video and zoom into the video thumbnails. 
+After implementing the improvements we conducted a more general user study (N=100), where we recruited any individuals who actively use a home security system such as the Ring camera system. 
+During the user study, we gave participants two tasks to complete per video using a different timeline visualization to complete the tasks for each video and then a short exit questionnaire based on their thoughts about the timeline visualization. 
+From the user study we found X, and Y. 
+Through the results of our user studies, we believe that the balance which we created can be extended to design event-based timeline visualizations for other domains outside of law enforcement. 
+      
+%Copy/paste the code below to add sections and subsections to each chapter. Add your own text to the chapter and (sub)section labels to create custom headings.          
+%    \section{One Section} \label{se:one_section}
+%			\lipsum[2]
+%			\subsection{A sub-section} \label{ss:this_subsection}
+%				\lipsum[1-4]
+%		\section{Another Section} \label{se:another_section}
+%			\lipsum[1-2]
+
+\chapter{Review of Literature} \label{ch:lit_review}
+\section{Related works} \label{se:one_section}
+
+
+\subsection{Use cases for Event-based data} \label{ss:this_subsection}
+
+Many researchers in the scientific community have discovered the enormous potential of exploiting the amount of available event-based data due to the increase in the types of sensors that capture different environmental conditions. For example, in a survey of existing literature focused on the processing and analysis of event-based data,  researchers found event-based data used in domains such as digital preservation, journalism, social media, and more \cite{tzelepisEventbasedMediaProcessing2016}.
+
+\subsubsection{Video and Audio Surveillance Systems}
+One especially relevant domain was how event-based data was used was video surveillance systems. 
+
+One example of previous research proposes an ontology to represent prior knowledge related to the analysis of event-based data in videos. The proposed ontology was composed of two parts, the basic concepts and the domain-specific extensions. To demonstrate the usability and effectiveness of their proposed ontology, the researchers created a specialized version for underground video surveillance systems \cite{sanmiguelOntologyEventDetection2009}.
+Another example of previous research focuses mainly on how to use attribute grammar to detect anomalies in video footage where the researchers found that in confined environments, it was possible to distinguish most anomalies that occur. \cite{seong-wookjooAttributeGrammarBasedEvent2006}. 
+Another example of research focuses mainly on proposing a procedure for constructing time-space diagrams to visualize the progression and evaluation of the coordination of traffic signals at arterials using event-based data. The findings of this study show that time-space diagrams can be constructed using automatically collected high-resolution event-based traffic data \cite{zhengUseEventBasedTraffic2014}.
+
+Other researchers have also looked at how the data is used to detect and classify different audio events. 
+
+One example of previous research focuses mainly on detecting audio events in noisy environments aiming to create a method to detect abnormal situations using audio clues instead of visual cues. To detect these abnormal audio cues, the researchers created a system that segmented audio segments into shot and normal classes using feature extraction with a false rejection rate of under ten percent \cite{clavelEventsDetectionAudioBased2005}. 
+Another previous study expanded its scope to audio events that occur in our daily environment, specifically in a traditional office setting by developing an audio-based surveillance system that can monitor any environment and classify the information that it collects in a meaningful fashion. The researchers concluded that an audio-based surveillance system that combines unsupervised and supervised clustering methods would be effective once relevant events were identified \cite{harmaAutomaticSurveillanceAcoustic2005}. 
+
+\subsubsection{Life-logging Systems}
+One especially relevant domain was how event-based data was used for logging the lives of people and animals. 
+
+One example of previous research focused on fostering the concept of life-logging as a mainstream activity in everyday life. The researchers saw that with the decreasing costs of computer storage and the advancements of sensing technology, tracking life activities has become easier than ever which could help understand human performance in a variety of tasks. Thus the researchers created a comprehensive summary of life logging, including its research history, current technologies and applications, and its limitations \cite{gurrinLifeLoggingPersonalBig2014}.
+Another example of previous research focuses on analyzing life logs to support creating applications using an individual's life logs. The researchers demonstrated a method to help analyze life logs by automatically augmenting descriptions to life log events by using semantic web technologies. From their experiments, the researchers found that their method created vivid descriptions of life log events, opening greater possibilities for using life logs in the future \cite{mileoSemanticallyEnhancingMultimedia2014}.
+Another example of previous research uses life-logging as a method to aid people with dementia in maintaining their identities. The researchers utilized SenseCam images to create meaningful discussions about the user's recent memories to construct a version of the user's identity during therapy sessions to explore the potential of life-logging technology in supporting health care professionals \cite{piasekUsingLifeloggingHelp2014}.
+Another example of previous research focuses on using life logs to detect wildlife morbidity events to reduce threats to wildlife populations. The researchers developed the Wildlife Morbidity and Mortality Event Alert System which integrates pre-diagnostic clinical data in near real-time from a network of wildlife rehabilitation organizations to detect early signs of unusual wildlife morbidity and mortality events. While demonstrating their system, the researchers were able to alert events associated with both common and emerging diseases in various wildlife populations \cite{kellyEarlyDetectionWildlife2021}.
+
+
+One example of previous research 
+% One Interesting thing
+The 
+%results
+To  \cite{}.
+Another example of previous research 
+% One Interesting thing
+The 
+%results
+To  \cite{}.
+
+From these existing works, it is clear that processing event-based data leads to multiple novel improvements across various different domains.
+
+\subsection{Augmenting Existing Navigation Interfaces} \label{ss:this_subsection}
+As previously mentioned, linear timelines are one of the most popular methods for navigating through events due to the natural sense of temporal perception that they offer. Many applications take advantage of this benefit whether that be in the form of a progress slider in a video or a recollection of significant events in history. However, the traditional horizontal slider is no longer effective enough for users hence why researchers in some domains have attempted to augment current interfaces with new visualizations.
+
+One example of previous research focuses mainly on improving the navigation of educational videos using data generated from user interactions. The researchers used the interaction data to implement LectureScape which included a 2D timeline with a density graph based on user interactions, a method to search for keywords with an interactive transcript, and video highlights using storyboards, a word cloud, and bookmarks.  From their findings, the researchers saw that their augmentations drew attention to important and confusing points in the videos and allowed users to have better control and flexibility during navigation \cite{kimDatadrivenInteractionTechniques2014}.
+Another example of a 2D timeline interface can be seen with BrowseLine, which focuses a visualization for users to identify temporal patterns from their browsing history. The researchers believed that by using the other web browsing the user was doing at a certain time, a user may be able to recall when they visited the page they were looking for. To test their hypothesis, the researchers implemented a 2D timeline with rows for each hour and a horizontal list of which websites were visited in that hour grouped by domains. They also implemented domain filtering and thumbnail and metadata previews to further help users recall their past search history. The findings of this study show the temporal data from traditional browsing histories can be leveraged through visual pattern recognition to enhance a user's ability to recall past browsing history \cite{hoeberBrowseLine2DTimeline2009}.
+Aside from web browsing history, some researchers have focused on users' personal history through LifeLines, a visualization software for searching through a person's biological data. LifeLines presents a youth record on a single screen, providing direct access to all details of certain information, and promoting critical alerts on the overview level. The findings of this study emphasize the importance of creating and iterating on visualizations of personal data, especially life events that happen every day \cite{milashLifeLinesVisualizingPersonal1996}. 
+
+From these works, it is clear that traditional navigation methods, although effective, benefit significantly in usability from new augmentations.
+
+\subsection{Personal Security Systems} \label{ss:this_subsection}
+As previously mentioned, methods of displaying event-based data, especially traditional video surveillance systems have not been improved for years. 
+One set of researchers from the  NRI Institute of Information Technology aimed to study different methods to address current issues with video surveillance systems. Due to a lack of an existing standard, they decided to create a review of requirements, current approaches, and explanations of concepts to new users. The requirements were split into functional requirements and non-functional requirements. As for current approaches, the researchers saw that a computer-based approach provided high stability, great compatibility with cameras, simultaneous operation, and more. Lastly, the researchers explained concepts for new users such as how motion detection, object tracking, and human activity recognition work in these systems \cite{kaleReviewSecuringHome2012}.
+Other researchers also noticed the popularity of video surveillance systems but saw that manufacturers each had unique protocols so they sought to create low-cost software for integrating those systems. The researchers combined a low-range server for video streaming, a Raspberry PI for motion notifications, and a cellphone application for remote video access and SMS notifications. The findings of their study introduce a low-cost, scalable video surveillance system using a Raspberry Pi which can be augmented with other modules to become a a complete security system in the future \cite{abrilDevelopmentDesignUnified2020}.
+Another example of previous research also focused on a low-cost system but sought to improve its usability with some new features instead. The researchers began with a TP-LINK model NC220 camera which had WiFi connectivity, night vision, motion and sound detection, alerts, and a mobile application for live streaming. To improve the current architecture, the researchers used Telegram to allow users to activate and deactivate alerts and notify users of motion alerts. The researchers evaluated their proposed system against the original system using the SUS score with the results heavily favoring the proposed system. The findings of this study introduce an improved low-cost video surveillance system that enhances the current system's alert and notification capabilities \cite{abasoloImprovingUsabilityIntrusion2021}. 
+
+It is clear from these works that there is value in implementing new software and designs for current video surveillance systems.
+
+\chapter{Implementation} \label{ch:implementation}
+\section{Base Interface} \label{se:base_interface}
+% Insert Figure 1 here
+The interface that we designed for DUET is shown in Figure 1. When you first launch the website, you are greeted with a large view of a single security camera video provided by the VIRAT Video Dataset \cite{VIRATVideoData}. Underneath the video player is a standard linear timeline with the elapsed time of the video, basic video controls, and the total duration of the video similar to existing video players like YouTube \cite{YouTube}. After the linear timeline with video controls, the next feature is a toggle for showing or hiding the bounding rectangles for events. We implemented this toggle since some events may have information that the bounding rectangles may cover but the user wants to see. The last initial features are dropdown menus for selecting a video from a list of available videos and selecting the timeline type. 
+
+% Timeline 2: Feature - Density graph
+\subsection{Density Graph}
+After implementing the initial linear timeline, we created some new features that we believed would improve how users navigate through the long videos with sparse events. The first new feature we implemented was a density graph above the existing linear timeline in the base interface similar to other video navigation platforms like YouTube \cite{YouTube, kimDatadrivenInteractionTechniques2014}. 
+To create the density graph, we parsed through all of the events in the current video, incremented the graph at the starting point of each event, and decremented the graph after the stopping point of each of the events. The main purpose of the density graph was to create a 2D timeline to inform the user temporally when events are occurring in the video \cite{yanTwoDimensionalTimeline2004, brehmerTimelinesRevisitedDesign2017, nguyenSchemaLineTimelineVisualization2014}.
+After we created the density graph which showed all the events in the video, we believed that a user should have the ability to filter through the different event types in the video. To implement filtering based on event types, we added a third dropdown menu with all of the different event types, allowing users to select one of the event types in the video. After the user selects one of the event types, the 2D timeline is repopulated with just the events of that event type in the video. To separate the density graph from the base interface, we currently refer to the base interface with the density graph as Timeline 2.
+
+\subsection{Event Blocks}
+Ater implementing the density graph and filtering by event type, we wanted to implement a timeline that was space-efficent for a user which led to creating a linear timeline with event blocks \cite{lipkaScalableTimelineVisualization2016}. 
+In our implementation, an event block is a block generated from the timeline based on sections of the timeline where events occur during that block of time \cite{hoeberBrowseLine2DTimeline2009, yanTwoDimensionalTimeline2004, brehmerTimelinesRevisitedDesign2017}. 
+To generate the event blocks, we repurposed the density graph and took the points where events started to happen (the points where the density graph started to rise) and the points where events ended (the points where the density graph started to fall) and then grouped the events between those points into one block. 
+We also created a separate color for each event block based on their event type and allowed users to click on an event block to fast-forward the user to the first event that occurs in the event block \cite{gordon5PrinciplesVisual}. 
+We then placed all the event blocks horizontally above the linear timeline in the base interface with no periods of downtime in between them. After placing the event blocks, we synced the event blocks to a new linear timeline underneath the event blocks which would follow along with when an event occurred in the original timeline and allow the users to navigate between the different event blocks. 
+Through the event blocks and new linear timeline, we created a 2D timeline where the user can navigate through the events without the large periods of downtime that the video may have, creating a space-efficient method of event navigation. 
+To separate the event blocks from the base interface and density graph, we currently refer to the linear timeline with the event blocks as Timeline 3. 
+
+\subsection{Density Graph + Event Blocks}
+Once we finished implementing the density graph above the linear timeline on the base interface and the new linear timeline with the event blocks, we created a combined version of the two features that placed the new linear timeline with the event blocks above the density graph. The main purpose of this combined version was for users to gain the benefits of both of the features, being able to see temporally when events occur in the timeline as well as have an improved method of navigating between those events. To separate this iteration from the others, we currently refer to the timeline with the density graph and the event blocks as Timeline 4.
+
+\subsection{Event List with Thumbnails}
+Lastly, we decided to implement one more timeline visualization which shows a list of the events on the left side of the video player. Each of the events in the lists was displayed with a thumbnail of the first frame of the event, the event type, and the start time of that event \cite{hoeberBrowseLine2DTimeline2009, yanTwoDimensionalTimeline2004, brehmerTimelinesRevisitedDesign2017}. We were able to generate the thumbnails using a provided MatLab script that the VIRAT ground dataset uses to draw the bounding rectangles onto each of the frames \cite{VIRATVideoData}. We also implemented a function where when a user clicks on one of the events, they are fast-forwarded to the start time of that event so they can watch that event happen. The main purpose of creating the event list with thumbnails was to provide users with a visual method of navigation, similar to other video-watching platforms \cite{YouTube}. To separate this feature from the others, we currently refer to the linear timeline with a list of events with thumbnails as Timeline 5.
+
+\chapter{Pilot Study Design (Initial Methods)} \label{ch:pilot_study}
+\section{Study Design} \label{se:one_section}
+\subsection{Procedure}
+
+The interviews were conducted either in person in a conference room or remotely via Zoom according to the preference of the participant. Each interview took approximately an hour to complete and each participant was compensated with a \$30 electronic gift card for their time. We recorded the entire interview through Zoom and then utilized its transcription feature to transcribe the audio from each interview. The audio for all of the interviews was stored in a password-protected, encrypted OneDrive folder managed by Virginia Tech. Our interviews were split into three sections. 
+
+\subsubsection{Intake Interview} 
+The first section mainly focused on expanding on each participant's responses to the sign-up survey. During the signup survey, we asked each participant this set of questions:
+
+\begin{itemize}
+    \item What is your current role at the organization and what responsibilities do you have in this role?
+    \item How often do you view the security camera footage as a part of your work? 
+        \begin{itemize}
+            \item Every Day
+            \item Every Week
+            \item Every Month
+            \item Every Year
+            \item Other
+        \end{itemize}
+    \item What are the typical events or incidents are the ones that you look for when you view the footage?
+    \item What information do you typically use and are given as clues to spot the events? (time window, profile, or nothing?)
+    \item Could you share the most challenging and time-consuming tasks that you had to do when reviewing camera footage? How long does it usually take for you to review the camera footage to find what you are looking for?
+    \item What software does your organization use to view the footage that you collect from the security cameras?
+    \item If there is software you use from other companies, are there any features that they share in common?
+    \item Does your software have any special features for identifying events (i.e. computer vision for event identification)? If so, how does that help you find more quickly? When is it not helpful? 
+    \item Are there any current issues that you have with the current software that your organization uses to search for events across long periods of footage?
+\end{itemize}
+
+Before the interview, we looked through each participant's responses to the questions asked in the sign-up survey and highlighted any interesting sections that we wanted to discuss further during the interview. After expanding on the participant's responses from the sign-up survey, we sent the participant a link to the DUET website with each of the timeline visualizations that we developed. During the tutorial, we showed them the base interface, how to switch between the different types of timelines and videos, and a brief overview of each of the timeline visualizations that we implemented.
+
+\subsubsection{Usability Study}
+After familiarizing the participants with the timeline visualizations we developed, we had each participant attempt to complete at least one of three types of tasks that we created to represent different real-world scenarios that security camera operators may face. 
+
+The first task involved understanding the sequence between two different events. First, we had each participant find when a white car drove into the parking lot from the back entrance of the parking lot. We also required the man exiting the white car to be wearing a white shirt to narrow down the possibilities. Next, we had the participant calculate how long until after the first event occurs, that a white car and a black car pull into the parking lot and people exit from both cars. We designed this task to mimic when a security camera operator has to find an event that happened after a previous event that occurred in the footage that a bystander remembered.
+
+The second task involved counting the number of people that fit certain criteria. First, we had each participant switch to a video showing an intersection with a parking lot and stop sign where people waited for their friends to come and pick them up from. Then we asked them to focus on the stop sign and count how many people who were waiting at the stop sign were carrying a suitcase. This task was designed to mimic when an operator has to review footage to find people who fit a given profile. 
+
+The third task involved a scenario where the person that the participant is trying to find does not exist in the given security camera footage they are reviewing. First, we had each participant find when a woman with a white shirt unloaded her purse from a gray car which was a real task that occurred in the video. Next, we asked each participant to focus on the white security office building next to the parking lot and find the shirt color of the man that exists for that building. However, there is not a man who ever exits from the white security office building. This task was designed to mimic when an operator can not find a matching event from a given description.
+
+\subsubsection{Exit Interview}
+After the three tasks, we asked each participant some further questions about our timeline visualizations to gauge their opinions on our system.  Specifically, we asked: 
+
+\begin{itemize}
+    \item What was the timeline representation that you liked using the most?
+    \begin{itemize}
+        \item Timeline 1 (Linear Timeline)
+        \item Timeline 2 (Linear Timeline + Density Graph)
+        \item Timeline 3 (Linear Timeline + Timeline of Event Blocks)
+        \item Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Linear Timeline + Event Thumbnails)
+    \end{itemize}
+    \item Please explain your answer to the previous question.
+    \item What was the timeline representation that you liked using the least?
+    \begin{itemize}
+        \item Timeline 1 (Linear Timeline)
+        \item Timeline 2 (Linear Timeline + Density Graph)
+        \item Timeline 3 (Linear Timeline + Timeline of Event Blocks)
+        \item Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Linear Timeline + Event Thumbnails)
+    \end{itemize}
+    \item Please explain your answer to the previous question.
+    \item What are your overall opinions on our current system?
+    \item Are there any other features you think would be nice to implement in our current system?
+    \item Do you believe the tasks we had you perform were realistic to those you look for when you browse for events in your security camera footage?
+\end{itemize}
+
+After the exit questions, we answered any questions the participants had, thanked them for their time, and let them know the timeline for compensation.
+
+\chapter{Results From Pilot Study} \label{ch:results}
+
+\section{Case Study (Police Officers)} \label{se:one_section}
+% Talk about who the participant is and where we recruited them from
+During the pilot study interviews, we interviewed two Police Officers from different departments in our local area. We recruited these two police officers by calling the police stations and asking if they were willing to have a short interview about how they use security camera footage in their roles and to test the initial timeline visualizations that we developed. The first police officer we interviewed is a detective for their precinct. The officer mentioned that for his role, he gets assigned various cases including white-collar crimes, violent crimes, and sexual violence crimes so he has to view security camera footage very frequently for his role while investigating these cases.
+
+% One interesting thing we learned from the interview
+One interesting challenge we found out from the first police officer during the intake interview was that the different methods of recording security camera footage that businesses use vary widely. The detective found the variety of recording methods challenging since they have to go to the location of each of the businesses, get the video footage and the video player that the business uses onto their own local computer, and then there are times when the players are not able to play the footage so they can not view the footage. 
+
+% Another interesting thing we learned from the interview
+Another interesting piece of information we learned from the first police officer during the intake interview was when they informed us about loss prevention agents. The police officer explained that for larger businesses like Walmart and Target, there are specialized individuals that the police officers ask to clip down the security camera footage to the points of interest that are related to the crime. We did not know about these loss prevention agents before so we were grateful to the police officer for showing us another group that regularly views security camera footage that we could ask about our system.
+
+% How they performed on the tasks
+As for how the first police officer performed on the tasks, due to timing constraints, we were not able to ask them to complete the tasks but they brought up an important design consideration while we were showcasing the timeline visualizations. The design consideration they brought up was the ability to toggle on and off any advanced features that obscure the user's view of the video. The detective was adamant about being able to toggle the rectangular bounding boxes because they had previous cases where there was important evidence that was being covered by the bounding boxes.
+
+% Interesting information from the exit interview.
+During the exit interview with the first police officer, he ranked the five timeline visualizations in order from favorite to least favorite and the results were: Timeline 5 (Linear Timeline + Event Thumbnails), Timeline 1 (Linear Timeline),  Timeline 2 (Linear Timeline + Density Graph), Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks), Timeline 3 (Linear Timeline + Timeline of Event Blocks). When asked about his rankings, the detective explained that he liked the visual thumbnails of Timeline 5 the most out of the visualizations and did not like the Event Blocks of Timeline 3. The main reason that they did not like the Event Blocks was because they did not like how little control they had since the computer was automatically cutting out the periods of downtime. The detective emphasized that even though there are no instances when an event is happening, it is still important to allow the user to see those periods because there could be evidence that can be found in those periods.
+
+% Another information from the exit interview.
+Lastly, we asked the detective about any other features that he would like to see us implement, they mentioned that a feature to save certain timestamps of the video as bookmarks would be beneficial as well as the ability to fast forward or slow down the footage since many of the existing players they use have that feature since the videos are so long.
+
+% Officer #2
+The second police officer we interviewed was a crime prevention officer for our university's police department. The officer mentioned that for his role, he performs security assessments of buildings, reports crime statistics, trains new recruits to the academy, and helps with patrols or investigations when needed so he has to view security camera footage often when helping with the investigations. 
+
+% One interesting thing we learned from the interview
+During the second police officer's intake interview, they reiterated the challenge that the first police officer mentioned about different businesses having vastly different methods of recording security camera footage. They mentioned that most of the businesses will provide the officers footage just simply as videos on a DVD or a USB drive so they use the default media players that the computers at the precinct come with, which limits the amount of intelligent features that they can use to gather evidence from the footage. 
+
+% Another interesting thing we learned from the interview
+The second officer also brought up a feature that the first officer wanted when explaining one of their security camera footage viewing software. The second officer mentioned that the software that they use to view security camera footage from cameras that they have set up across the campus can set bookmarks for certain timestamps in the footage but the bookmarks only show up as small flags on the timeline and there is no feature to file them away for the user to click later.
+
+% How they performed on the tasks
+Next, we moved on to a brief tutorial about each of the timeline visualizations. After explaining each of the visualizations, we asked the second police officer to give an initial ranking on their preference for the five timeline visualizations before asking them to solve tasks. The initial ranking from the second police officer from favorite to least favorite was: Timeline 5 (Linear Timeline + Event Thumbnails), Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks), Timeline 3 (Linear Timeline + Timeline of Event Blocks), Timeline 2 (Linear Timeline + Density Graph), Timeline 1 (Linear Timeline). They emphasized that they liked the immediate visual feedback of the Event Thumbnails as well as how the density graph showed them across the entire timeline when events were happening. We then had the second police officer complete the counting task we created which they chose to use Timeline 5 to complete and took around five minutes to find all of the people who were waiting at the stop sign who were carrying suitcases. 
+
+After he completed the counting task, we asked the police officer if they thought the task was realistic to an actual situation they faced when reviewing security camera footage to which they said that the task was realistic since we gave them a description of a suspect that they should watch out for so they checked and noted down when each case of a person who matched that description showed up in the video. They also explained that they chose Timeline 5 to complete the task since the thumbnails gave them an immediate visual of a person potentially walking over to the stop sign so they could click that event thumbnail and then watch the video from there to see if their suspicion was correct.
+
+Due to timing constraints again, we were not able to have the second police officer attempt the other tasks so we moved on to asking them to give another ranking of the timeline visualizations after they had the chance to use them to complete a task. Their ranking of the timeline visualizations remained the same as their initial ranking so we moved forward to the exit interview where we asked if there were any changes or other features he wanted to see us make to the timeline visualizations.
+
+% Interesting information from the exit interview.
+The second police officer brought up two improvements that he wanted for the timeline visualizations. The first improvement was the ability to zoom into the thumbnail images for the Event Thumbnails since the images are pretty small. While they were performing the counting task, they could find the person in the thumbnail easily because of the boundary box on the thumbnail but they had some trouble figuring out what the person in the thumbnail was doing. If they could zoom into the thumbnails, they could have an easier time identifying what the person is doing in the thumbnail.
+
+% Another information from the exit interview.
+The other improvement the police officer suggested was to have some form of indicator on the event thumbnails to tell the user that they have already clicked on that such as changing their opacity to be less saturated. They pointed out that while they were looking through the event thumbnails, some were very similar to each other so at points, they forgot whether they had clicked that event or not.
+
+\section{Case Study (Homeowner)} \label{se:one_section}
+% Talk about who the participant is and where we recruited them from
+After interviewing the police officers, we tried to find other types of people who used security camera footage to interview which led us to Prolific. We used Prolific to create an advertisement for our pilot study since the website is designed to help researchers advertise their studies across the world. Since we had previous luck using Zoom for the interviews with the police officers, we decided that Zoom interviews would be sufficient for any participants recruited through Prolific. 
+
+The first participant we recruited from Prolific has been a homeowner for twenty years. The homeowner mentioned having a Ring Camera and an ADT home security system for safety purposes since they live in an urban community. They mainly view the security camera footage daily to ensure that no criminal breaks into their home or cars, keep an eye out for anyone walking around their house that they do not recognize, and help look out for their neighbor's homes and cars.
+
+% One interesting thing we learned from the interview
+One interesting challenge we found out from the homeowner during the intake interview was that her Ring camera often detects false positives. She described one case of a false positive as when an insect or some other object would fly into view of her camera and then the motion detection would record that as a person moving across their front lawn. Another case of a false positive that she reported was when a delivery driver would come by and drop off a package, it would send her multiple notifications of motion being detected since they would come to her porch to drop off the package.
+
+% Another interesting thing we learned from the interview
+While they were explaining the false positives, the homeowner brought up another interesting challenge with the Ring security camera software. She mentioned that although the software has features like sending notifications to alert the user when the camera detects motion, allowing the user to view the camera footage in real-time, and storing the motion alerts for the user to view later, there is no filtering that is done on the motion events aside from time-based filtering. This lack of filtering is important to note since, if the camera filtered based on people's actions, it would help the users know which notifications are important to check so they do not check as many false positives.
+
+% How they performed on the tasks
+We then moved on to the tutorial on the five timeline visualizations and asked for their initial ranking on their preference for the five timeline visualizations before asking them to solve tasks. The initial ranking from the homeowner from favorite to least favorite was: Timeline 5 (Linear Timeline + Event Thumbnails), Timeline 2 (Linear Timeline + Density Graph), Timeline 1 (Linear Timeline), Timeline 3 (Linear Timeline + Timeline of Event Blocks), Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks). The homeowner liked Timeline 5 the most initially because of the immediate visual feedback, similar to the police officers. 
+
+We then had the homeowner complete the counting task we created they initially chose to use Timeline 5 but then after asking us for some clarification, switched to Timeline 4 to complete the task. The homeowner took around five minutes to find all of the people who were waiting at the stop sign who were carrying suitcases. When asked about why she chose to switch to Timeline 4, the homeowner said they chose Timeline 4 because it allowed them to narrow down the events to when a person is carrying an object through the event filtering and then they could use the density graph to know when those types of events were happening.
+
+After the counting task, we had the homeowner complete the task that involved understanding the sequence between two different events which the homeowner took around twelve minutes to complete using Timeline 4. After completing the two tasks, we asked the homeowner to rank the timeline visualizations now that they have had some experience using them. The ranking from the homeowner from favorite to least favorite after completing the tasks was: Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks), Timeline 2 (Linear Timeline + Density Graph), Timeline 1 (Linear Timeline), Timeline 3 (Linear Timeline + Timeline of Event Blocks), Timeline 5 (Linear Timeline + Event Thumbnails). When asked about her change in ranking, she mentioned that she really liked the density graph and the event filtering that Timeline 4 offered while she was completing the tasks. 
+
+Lastly, she emphasized that she would like to see other security camera footage viewing software adopt the filtering that we had in our timeline visualizations.
+\section{Case Study (Researcher)} \label{se:one_section}
+% Talk about who the participant is and where we recruited them from
+The second participant we recruited from Prolific was a student who worked on a farm during her undergraduate studies as an undergraduate researcher. The student mentioned that they mainly viewed the security camera footage weekly to ensure that no animals like deer, raccoons, groundhogs, and more wander onto the farm and eat the crops since those crops are what her research was based on. To collect the security camera footage, the farm used GoPros which they placed in various areas around the farm and used the software the GoPros came with to review the footage as well as a camera and software made by a company named Access which would send them motion notifications on their mobile devices. 
+
+During the intake interview, an interesting new discovery from the student was the use of security camera footage for a purpose other than surveillance. Although they were using the security camera footage to check for pests invading the farm, they were also using the cameras to check the growth of the plants and other aspects of the plants related to their research. We had not considered other use cases of security camera footage aside from surveillance before this interview.
+
+% How they performed on the tasks
+We then moved on to the tutorial on the five timeline visualizations and asked for their initial ranking on their preference for the five timeline visualizations before asking them to solve tasks. The initial ranking from the student from favorite to least favorite was: Timeline 5 (Linear Timeline + Event Thumbnails), Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks), Timeline 3 (Linear Timeline + Timeline of Event Blocks), Timeline 2 (Linear Timeline + Density Graph), Timeline 1 (Linear Timeline). The student liked Timeline 5 the most initially because the thumbnails allowed her to verify that the system classified the event correctly while filtering the events. 
+
+We then had the student complete the counting task we created they chose to use Timeline 5 to complete the task. The student took around four minutes and found one of the people who were waiting at the stop sign who were carrying suitcases. After explaining where the other people who fit the criteria were in the video, the student explained that she was confused by what points in the video counted as waiting and did not know that the Event Thumbnails only showed the first frame of the event.
+
+After the counting task, we had the student complete the task that involved understanding the sequence between two different events which the student took around six minutes to complete using Timeline 5. After completing the two tasks, we asked the student to rank the timeline visualizations now that they have had some experience using them. The ranking from the student from favorite to least favorite after completing the tasks was the same as her initial ranking. When asked about why she did not change her ranking, she mentioned that she liked the visual feedback from the Event Thumbnails and being able to click a thumbnail to immediately fast forward to that event.
+
+Lastly, she emphasized that she would like our system to have a feature to slow down and speed up the videos because some videos she reviews are over ten hours long so having a speed-up feature helps make reviewing the downtime faster for those long videos.
+
+\section{Case Study (Government Office Security Specialist)} \label{se:one_section}
+% Talk about who the participant is and where we recruited them from
+The third participant we recruited from Prolific was a Security Specialist who works in an office for the water district of a government agency. 
+
+The security specialist mentioned that they mainly viewed the security camera footage daily to ensure that they could respond quickly to any incidents that occur with customers in the building lobby or in the parking lot outside of the office. 
+
+To collect the security camera footage, the office used cameras they placed in various areas around and outside the office which were wired with Ethernet for a stable internet connection and streamed the footage to the security office's computers. 
+
+During the intake interview, the main challenge that the security specialist brought up with his current security camera software as not being able to speed up the footage since having to watch the footage in real-time makes reviewing cases that happen during the weekend hard to review since they can not speed up past the long amounts of downtime in the security camera footage.
+
+% How they performed on the tasks
+We then moved on to the tutorial on the five timeline visualizations and asked for their initial ranking on their preference for the five timeline visualizations before asking them to solve tasks. The initial ranking from the security specialist from favorite to least favorite was: 
+
+Timeline 5 (Linear Timeline + Event Thumbnails), Timeline 3 (Linear Timeline + Timeline of Event Blocks), Timeline 4 (Linear Timeline + Density Graph + Timeline of Event Blocks), Timeline 2 (Linear Timeline + Density Graph), Timeline 1 (Linear Timeline). 
+
+The security specialist liked Timeline 5 the most initially because the thumbnails allowed him to immediately see if an event was in the area that he was interested in looking for or not. 
+
+We then had the security specialist complete the counting task we created they chose to use Timeline 5 to complete the task. The security specialist took around five minutes and found all of the people who were waiting at the stop sign who were carrying suitcases. However, the security specialist reported two people in the video who were not part of the criteria that we asked him to look for. The specialist explained that he was not sure of some of the people who were carrying a backpack so he miscounted those people toward the total number of people he found.
+
+After the counting task, we had the security specialist complete the task that involved understanding the sequence between two different events which the student took around seven minutes to complete using Timeline 5. After completing the two tasks, we asked the security specialist to rank the timeline visualizations now that they have had some experience using them. The ranking from the student from favorite to least favorite after completing the tasks was the same as his initial ranking. When asked about why he did not change her ranking, he mentioned that he liked the visual feedback from the Event Thumbnails when finding the events in the video.
+
+Lastly, he also emphasized that he would like our system to have a feature to slow down and speed up the videos.
+
+\chapter{Improvements Made After Pilot Study and User Study Design} \label{ch:methods}
+
+\section{Improvements Made After Pilot Study} \label{se:one_section}
+After the pilot study, we gathered the transcriptions from the five interviews and created a codebook with each code consisting of a label, definition, notes about the code, and the participants that mentioned something related to that code. After collecting all of the codes, we split the code labels into two types of labels based on if the participant was talking about our timeline visualizations or not.  We then used Miro to organize our codes into different categories. For the codes that were not related to comments about our timeline visualizations, the categories were: The context of reviewing camera footage, What users seek when reviewing camera footage, Useful video reviewing software features, Information given to users before reviewing footage, and Difficulties with reviewing camera footage. For the codes related to comments about our timeline visualizations, the categories were: Navigability of the current system, Timeline type preference reasons, Suggested video reviewing software features, and Limitations with current features. After organizing the codes, we used the codes to inform improvements to our current timeline visualizations.
+
+% Base Interface: moved the boundary box toggle to next to current time, added speeding up and slowing down buttons, and play back rate indicator
+For the improvements that we made to the Timeline 1 (Base Interface), we started by adding a method to speed up and slow down the playback rate of the video since it was a heavily requested feature from the participants of the pilot study. We used Youtube's player to play our videos so we implemented speed up and slow down buttons which would increase and decrease the playback rate respectively based on the preset rates that YouTube already has. We also added an indicator underneath the linear timeline to report to the user the video's current playback rate.
+% Event Filtering: Changed dropdown menu to select with a permanent sidebar
+
+After adding the playback rate controls, we changed the dropdown menu for the event types to a menu where all the event types are shown to the user at once and then when the user selects an event type, a radio button is checked. We decided to change the dropdown menu because we wanted users to be able to see all of the event types present to in the video immediately when the interface is loaded. We added this new select menu to a permanent sidebar that is on the left side of the video player.
+
+% Density graph: Highlights the section of the graph in white when that event is occurring
+% event block: highlights the block in white when events in the block are occurringg
+% 2 plus 3: hovering over the block highlights in green so the user knows which block corresponds to which peak on the density graph
+As for the improvements made to Timeline 2 (Density Graph), we implemented a feature where when the timeline is within an event, the density graph at that event will be highlighted in white so that the user knows which event is currently happening. We implemented a similar feature for Timeline 3 (Event Blocks) where when an event is occurring in the event block, the event block will have a white outline around it to notify the user. After implementing these two features, we also made a change to Timeline 4 (Density Graph + Event Blocks) where when a user hovers over an event block, the event block has a green outline and the density graph for that event block is highlighted in green so that the user can tell which event block corresponds to which peak on the density graph before they click that event block.
+
+%thumnails: moved them to underneath the linear timeline and added feature to click and zoom in 
+Lastly for Timeline 5 (Event Thumbnails), since the sidebar on the left was not being used by the menu for the event types, we made the list of thumbnails a horizontal list and placed it underneath the linear timeline and video controls. We also added a feature based on feedback from the pilot study where when a user clicks on one of the thumbnails, it will zoom into the image and allow the user to get a closer look at what action is happening in the thumbnail. 
+
+% Explain later why we removed video dropdown
+\section{User Study Design} \label{se:one_section}
+
+After we made the improvements based on the pilot study, we wanted to modify our study to be a general user study. We decided to use QuestionPro as the main platform for the general user study since after looking our pilot study, we believed we could convert the interview questions and tasks into a survey format which would allow us to be able to gather more results since the survey could be completed asynchronously by the participants. For our survey, the first section presented to the user was the consent form outlining all of the necessary preliminary information for this study, if a participant did not want to participate in the study after reading the consent form, they could reply with "I do NOT consent to participate in this research." which would terminate the survey. If they did choose to participate in the study, they would then be presented with the introduction section. In the introduction, we asked participants: 
+
+\begin{itemize}
+    \item Please enter your email address.
+    \item What gender do you identify as?
+    \begin{itemize}
+        \item Male
+        \item Female
+        \item Non-Binary
+        \item Prefer not to disclose
+        \item Other
+    \end{itemize}
+    \item How old are you?
+    \begin{itemize}
+        \item Under 18
+        \item 18 - 24
+        \item 25 - 34
+        \item 35 - 44
+        \item 45 - 54
+        \item 55 - 64
+        \item Above 64
+    \end{itemize}
+    \item What race or ethnicity describes you?
+    \begin{itemize}
+        \item American Indian or Alaskan Native
+        \item Asian / Pacific Islander
+        \item Black or African American
+        \item Hispanic
+        \item White / Caucasian
+        \item Other
+    \end{itemize}
+    \item Have you ever viewed surveillance video footage, if so, how often do you view surveillance video footage (Examples: footage of a site (home, street, retail stores, building, bird watchers, etc.))?
+     \begin{itemize}
+        \item Daily
+        \item Weekly
+        \item Monthly
+        \item Yearly
+        \item Never
+    \end{itemize}
+    \item If you have previously viewed surveillance video footage, what are the typical events or incidents are the ones that you look for when you view the footage?
+    \item If you have previously viewed surveillance video footage, what information do you typically use and are given as clues to spot the events? (time window, profile, or nothing)?
+    \item If you have previously viewed surveillance video footage, what software/products/systems did you use to view the surveillance video footage?
+\end{itemize}
+
+We asked participants basic gender, age, and ethnicity questions and questions based on our participant's previous usage of security camera video footage to gauge how diverse our participant pool was. After the participant answered the questions in the introduction section, we moved on to the tutorial section where the participant was asked to watch a brief tutorial about how to use all five of the different timeline visualizations and then confirm that they have watched the tutorial by answering five questions. Each of the five questions showed the participant a picture of a timeline visualization we created along with this question: 
+
+\begin{itemize}
+    \item Please select the timeline visualization that is shown in the image below.
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+\end{itemize}
+
+After finishing the tutorial block, we created a Question Pro block for each of the five videos. Each block would record the time that the user spent within the block and begin by asking the participant to open a link to our DUET website with the video associated with that block playing and a randomized timeline visualization. We then asked the participant to enter in a password displayed on the website for that block which was used to handle the timeline randomization. After entering in the password, we asked the participants to use the current timeline visualization to solve two questions for that block. For each question, we also added an option for a user to choose if they could not find the answer within five minutes so that a user would not get stuck on a question for too long. After attempting to solve the two questions for that specific event block using the randomized timeline visualization, we asked participants to select the timeline visualization that they used to complete the two questions and then asked them to judge the timeline visualization using the System Usability Scale or SUS scale.
+
+\subsection{VIRAT_0002}
+
+For this video which was a video of a parking lot near some office buildings, the questions for that block were: 
+
+\begin{itemize}
+    \item Task: The driver of this car gets out of the car and has a conversation with another person. What is the car that the other person gets into later?
+    \begin{itemize}
+        \item Car 1
+        \item Car 2
+        \item Car 3
+        \item Car 4
+        \item Car 5
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Task: During which timeframe do you see this man unloading a blue shoulder bag from his car?
+    \begin{itemize}
+        \item 11:00 – 14:00
+        \item 18:00 – 20:00
+        \item 20:00 – 22:00
+        \item 32:00 – 35:00
+        \item 43:00 – 45:00
+        \item 13:00 – 15:00
+        \item 16:00 – 18:00
+        \item 22:00 – 23:00
+        \item 34:00 – 35:00
+        \item 45:00 – 47:00
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Please select the timeline visualization that you used to complete the previous tasks.
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+    \item System Usability Scale (SUS)
+    \begin{itemize}
+        \item I think that I would like to use this UI frequently.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I found the UI unnecessarily complex.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I thought the UI was easy to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I think that I would need the support of a technical person to be able to use this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the various functions in this UI were well integrated.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I thought there was too much inconsistency in this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I would imagine that most people would learn to use this UI very quickly.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the UI very cumbersome to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I felt very confident using the UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I needed to learn a lot of things before I could get going with this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\subsection{VIRAT_0100}
+
+For this video which was a video of common area on a college campus with a cafe and a large open seating area, the questions for that block were: 
+
+\begin{itemize}
+    \item Task: How long do these two people stay in the building?
+    \begin{itemize}
+        \item Less than eight minutes
+        \item Less than fourteen minutes
+        \item Less than sixteen minutes
+        \item Less than two minutes
+        \item Less than twelve minutes
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Task: During which timeframe do you see a man in a white shirt run across the camera in this area?
+    \begin{itemize}
+        \item 48:20 – 48:30
+        \item 28:20 – 28:30
+        \item 49:20 – 49:30
+        \item 29:20 – 29:30
+        \item 38:20 – 38:30
+        \item 47:20 – 47:30
+        \item 27:20 – 27:30
+        \item 46:20 – 47:30
+        \item 26:20 – 27:30
+        \item 34:20 – 35:30
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Please select the timeline visualization that you used to complete the previous tasks.
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+    \item System Usability Scale (SUS)
+    \begin{itemize}
+        \item I think that I would like to use this UI frequently.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I found the UI unnecessarily complex.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I thought the UI was easy to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I think that I would need the support of a technical person to be able to use this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the various functions in this UI were well integrated.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I thought there was too much inconsistency in this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I would imagine that most people would learn to use this UI very quickly.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the UI very cumbersome to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I felt very confident using the UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I needed to learn a lot of things before I could get going with this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\subsection{VIRAT_0102}
+
+For this video which was a video of the outside of a store named CHICANO on a college campus, the questions for that block were: 
+
+\begin{itemize}
+    \item Task: How long does this CHICANO employee take a break for?
+    \begin{itemize}
+        \item About one minute
+        \item About two minutes
+        \item About four minutes
+        \item About three minutes
+        \item About five minutes
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Task: During which timeframe does the owner of this golf cart return and drive away?
+    \begin{itemize}
+        \item 21:00 – 22:00
+        \item 22:00 – 23:00
+        \item 19:00 – 20:00
+        \item 20:00 – 21:00
+        \item 40:00 – 41:00
+        \item 26:00 – 27:00
+        \item 27:00 – 28:00
+        \item 24:00 – 25:00
+        \item 25:00 – 26:00
+        \item 47:00 – 48:00
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Please select the timeline visualization that you used to complete the previous tasks.
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+    \item System Usability Scale (SUS)
+    \begin{itemize}
+        \item I think that I would like to use this UI frequently.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I found the UI unnecessarily complex.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I thought the UI was easy to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I think that I would need the support of a technical person to be able to use this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the various functions in this UI were well integrated.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I thought there was too much inconsistency in this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I would imagine that most people would learn to use this UI very quickly.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the UI very cumbersome to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I felt very confident using the UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I needed to learn a lot of things before I could get going with this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\subsection{VIRAT_0400}
+
+For this video which was a video of two parking lots with a three way street with stop signs in between them, the questions for that block were: 
+
+\begin{itemize}
+    \item Task: How long does the blue pickup truck remain parked after two men in white shirts begin unloading objects from the trunk of the blue pickup truck?
+    \begin{itemize}
+        \item About six minutes
+        \item About nine minutes
+        \item About twelve minutes
+        \item About twenty minutes
+        \item About thirty minutes
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Task: During which timeframe does a couple run across the screen starting from this house carrying a pizza?
+    \begin{itemize}
+        \item 50:00 – 51:00
+        \item 20:00 – 21:00
+        \item 30:00 – 31:00
+        \item 40:00 – 41:00
+        \item 10:00 – 11:00
+        \item 55:00 – 56:00
+        \item 25:00 – 26:00
+        \item 35:00 – 36:00
+        \item 45:00 – 46:00
+        \item 15:00 – 16:00
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Please select the timeline visualization that you used to complete the previous tasks.
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+    \item System Usability Scale (SUS)
+    \begin{itemize}
+        \item I think that I would like to use this UI frequently.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I found the UI unnecessarily complex.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I thought the UI was easy to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I think that I would need the support of a technical person to be able to use this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the various functions in this UI were well integrated.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I thought there was too much inconsistency in this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I would imagine that most people would learn to use this UI very quickly.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the UI very cumbersome to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I felt very confident using the UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I needed to learn a lot of things before I could get going with this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\subsection{VIRAT_0500}
+
+For this video which was a video of a street where there is construction happening in the middle of the street, the questions for that block were: 
+
+\begin{itemize}
+    \item Task: What is the object unloaded from the white truck with a flatboard trailer?
+    \begin{itemize}
+        \item A slow-down sign
+        \item An orange construction traffic barrel (cylinder-shaped sign)
+        \item A backpack
+        \item A safety helmet
+        \item A safety vest
+        \item I could not find the answer within five minutes.
+    \end{itemize}
+    \item Task: Order the following three events:
+    \begin{itemize}
+        \item A person carrying a backpack rode a bike on the pedestrian sidewalk.
+        \item A person wearing pants ran to catch the green light while crossing the street.
+        \item A construction worker waved their hands to their colleagues.
+    \end{itemize}
+    \item Please select the timeline visualization that you used to complete the previous tasks.
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+    \item System Usability Scale (SUS)
+    \begin{itemize}
+        \item I think that I would like to use this UI frequently.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I found the UI unnecessarily complex.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I thought the UI was easy to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I think that I would need the support of a technical person to be able to use this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the various functions in this UI were well integrated.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I thought there was too much inconsistency in this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I would imagine that most people would learn to use this UI very quickly.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I found the UI very cumbersome to use.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+	\item I felt very confident using the UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+        \item I needed to learn a lot of things before I could get going with this UI.
+            \begin{itemize}
+                \item Strongly Disagree
+                \item Disagree
+                \item Neutral
+                \item Agree
+                \item Strongly Agree
+            \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\subsubsection{Exit Interview}
+After completing tasks using the five different videos with the five different timeline visualizations, we asked each participant some exit questions before they completed the survey.  Specifically, we asked: 
+
+\begin{itemize}
+    \item Please rank (1-5) the following in order of which timeline visualization you liked the most:
+    \begin{itemize}
+        \item Timeline 1 (Base Interface)
+        \item Timeline 2 (Density Graph)
+        \item Timeline 3 (Timeline of Event Blocks)
+        \item Timeline 4 (Density Graph + Timeline of Event Blocks)
+        \item Timeline 5 (Event Thumbnails)
+    \end{itemize}
+    \item Please explain your preference for the ranked choices you made in the previous question.
+    \item Are there any other features you think would be nice to implement in our current system?
+    \item Do you believe the tasks we had you perform were realistic to those you look for when you browse for events in surveillence camera footage?
+    \item Do you have any questions for us?
+\end{itemize}
+
+After the exit questions, we thanked the participant for their time, and let them know the timeline for compensation.
+
+\chapter{Results} \label{ch:results}
+To analyze the data collected from the survey and user study, we decided to focus on four different aspects, number of questions the user got correct based on the timeline visualization they used, the user's SUS Questionnaire score for the timeline visualization that they used, the time the user took to complete each question block, and the user's personal ranking of the five timeline visualizations.
+
+\section{Correctness Results}
+For the Correctness Results, we calculated a user's correctness score based on how many questions the user got correct for each timeline visualization. If a user got none of the questions correct, their score was zero, if the user got one question correct, their score was 0.5 and if the user got both questions correct, their score was 1. After we got the scores from each participant for each of the five different timeline visualizations, we calculated the mean Correctness scores for each timeline visualization. 
+
+For Timeline 1 (Base Interface), the mean Correctness score was 0.53. For Timeline 2 (Density Graph), the mean Correctness score was 0.66. For Timeline 3 (Event Blocks), the mean Correctness score was 0.65. For Timeline 4 (Density Graph + Event Blocks), the mean Correctness score was 0.67. For Timeline 5 (Event Thumbnails), the mean Correctness score was 0.66. 
+
+Running a Kruskal Wallis test against the Correctness scores for all of the timelines, we see our Correctness scores are not statistically significant (p = 0.122). Thus, we can not conclude from the Correctness scores that the Timeline visualization affects the user's ability to find the correct events while searching for events in the video footage.
+Running a Pearson's Chi-squared test against the Correctness scores for all of the timelines, we see our Correctness scores are not statistically significant (p = 0.2696). Thus, we can not conclude from the Correctness scores that the Timeline visualization affects the user's ability to find the correct events while searching for events in the video footage.
+
+Add a sentence here about like our thoughts on this
+
+\section{SUS Questionnaire Results}
+
+For the SUS Questionnaire Results, we calculated the SUS Questionnaire scores for each of the timeline visualizations for each participant and then calculated the mean SUS Questionnaire score as well as created box plots for each of the timeline visualizations using all of the participants' SUS Questionnaire scores.
+
+For Timeline 1 (Base Interface), the mean SUS Questionnaire score was 58.78, which can be described as between the Poor and Ok range, with the box plot statistics being min: 12.50, Q1: 47.50, median: 58.75, Q3: 72.50, and max: 95.00. 
+For Timeline 2 (Density Graph), the mean SUS Questionnaire score was 61.53 which can be described as Ok, with the box plot statistics being min: 20.00, Q1: 50.00, median: 60.00, Q3: 75.00, and max: 100.00. 
+For Timeline 3 (Event Blocks), the mean SUS Questionnaire score was 67.36 which can be described as between the Ok and Good range, with the box plot statistics being min: 15.00, Q1: 52.50, median: 70.00, Q3: 80.00, and max: 100.00. 
+For Timeline 4 (Density Graph + Event Blocks), the mean SUS Questionnaire score was 66.36 which can also be described as between the Ok and Good range, with the box plot statistics being min: 25.00, Q1: 52.50, median: 68.75, Q3: 83.75, and max: 100.00. 
+For Timeline 5 (Event Thumbnails), the mean SUS Questionnaire score was 70.11 which can be described as Good, with the box plot statistics being min: 32.50, Q1: 55.00, median: 72.50, Q3: 83.75, and max: 100.00. 
+
+The SUS Questionnaire score can also be interpreted as a “letter grade”, with the percentage ratings between 0-100 similar to the traditional academic grading scale. Using the letter grade interpretation, the letter grades for each respective timeline are Timeline 1 (Base Interface) and Timeline 2 (Density Graph): D, Timeline 3 (Event Blocks), Timeline 4 (Density Graph + Event Blocks), and Timeline 5 (Event Thumbnails): C. Running a Kruskal Wallis test against the SUS Questionnaire scores for all of the timelines, we see our SUS Questionnaire scores are statistically significant (p = 0.0004135). Thus, we can conclude that our SUS Questionnaire grades show that the Timeline visualization greatly affects the user's usability while searching for events in the video footage.
+
+Add a sentence here about like our thoughts on this
+
+\section{Time Results}
+
+For the Time Results, we calculated the mean time taken to complete a question block using each of the timeline visualizations as well as created box plots for each of the timeline visualizations using all of the participants' times.
+
+For Timeline 1 (Base Interface), the mean time taken to complete the tasks in the question block was 104.23 seconds, with the box plot statistics being min: 21.00 seconds, Q1: 61.50 seconds, median: 84.00 seconds, Q3: 112.00 seconds, and max: 181.00 seconds. For Timeline 2 (Density Graph), the mean time taken to complete the tasks in the question block was 115.74 seconds, with the box plot statistics being min: 34.00 seconds, Q1: 64.00 seconds, median: 94.00 seconds, Q3: 147.50 seconds, and max: 269.00 seconds. For Timeline 3 (Event Blocks), the mean time taken to complete the tasks in the question block was 96.58 seconds, with the box plot statistics being min: 13.00 seconds, Q1: 63.50 seconds, median: 85.00 seconds, Q3: 113.50 seconds, and max: 148.00 seconds. For Timeline 4 (Density Graph + Event Blocks), the mean time taken to complete the tasks in the question block was 103.60 seconds, with the box plot statistics being min: 12.00 seconds, Q1: 71.00 seconds, median: 92.00 seconds, Q3: 110.50 seconds, and max: 153.00 seconds. For Timeline 5 (Event Thumbnails), the mean time taken to complete the tasks in the question block was 109.77 seconds, with the box plot statistics being min: 30.00 seconds, Q1: 60.50 seconds, median: 73.00 seconds, Q3: 157.50 seconds, and max: 302.00 seconds.
+
+Running a Kruskal Wallis test against the time taken to complete a question block using each of the timeline visualizations, we see our Time data is not statistically significant (p = 0.7123). Thus, we can not conclude from the Time data that the Timeline visualization affects the user's ability to find the correct events while searching for events in the video footage quicker.
+
+\section{Timeline Visualzation Ranking Results}
+DO THIS TOMORROW
+ %Christian Rohrer (2022). When to use which user-experience research methods.  https://www.nngroup.com/articles/which-ux-research-methods/ AND Raluca Budiu (2017). Quantitative vs. Qualitative Usability Testing. https://www.nngroup.com/articles/quant-vs-qual/ AND Raluca Budiu (2022). Why you cannot trust numbers from qualitative user studies. https://www.nngroup.com/articles/true-score/ 
+	\chapter{Discussion} \label{ch:discussion}
+Our study highlights some of the improvements that could be made to traditional timeline visualizations to help users navigate through long videos more seamlessly. We built upon existing concepts such as the traditional linear timeline, the density graph, and using thumbnails as well as implemented new methods for a user to navigate through events using the event blocks. Thus, we believe that the DUET system can introduce more user-friendly methods of timeline navigation for events that happen in a video regardless of the length of the video. We also believe that DUET can be expanded to other domains aside from security camera footage, for example, the system could be used to search for different events that happen in movies which could help screenwriters find scenes quicker that they want to take inspiration from when creating new films. DUET could help students who are taking asynchronous classes who have to review long lecture videos since the students could skip directly to certain areas in the video that they want to review. We believe many different domains could utilize our system to make their video analyzing experience faster.
+Although expanding the use cases for DUET highlights one primary limitation of the system, most video footage does not have the events labeled. However, although we did not create the DUET system to automatically detect and label events, we believe that event recognition and labeling is a perfect task for an emerging technology in the computer science sphere which is AI and LLMs. We believe that in a future iteration of Octave, we could allow the user to upload a large video to the interface and then using LLMs and computer vision, we could parse the video to find and create filters for different types of events that occur in the video which then could be stored and used by the user to find different events in the video they just uploaded. However, using AI and LLMs to automatically detect and label events comes with its own struggles as well since this approach can lead to inaccurate labels or categorizations. There may need to be some form of user review or some other form of human review of the generated labels before they are able to be used which could hinder the initial process of using the platform for any type of video. To help aid in the review of the generated labels, we plan to create a way to edit, archive and delete different event types and video categorizations so that users can handle the inaccuracies. We think that even with the potential inaccuracies, the benefits of DUET would outweigh the limitations.
+
+ %For security cameras and video footage in general, events are not labeled. How does this affect the relevance of DUET? Maybe a common approach is automatic event detection/labeling. But this approach yields inaccuracies – does that affect DUET? Discuss this here as a potential limitation
+	\chapter{Conclusion} \label{ch:conclusions}
+
+We believe our study highlights and evaluates the main design limitations of using a linear timeline to search through specific events in long videos, and shows the promise of different methods to help visualize the events in the video to users. 
+
+Our study focuses on the feasibility of implementing and combining different timeline visualizations for events to help aid navigating through long videos as well as the usability of the different timeline visualizations that were implemented into DUET. 
+
+While some of the findings reaffirm existing results such as that users prefer the visual aspects of the event thumbnails, leading to its higher usability scores as well as that a linear timeline with no addons is not well suited for finding events which is shown by Timeline 1's poor preformance across the board, other findings do suggest that existing video players could benefit with some additions. For example, Timeline 3 allowed users to take less time completing the tasks than all the others and Timeline 4 led to the highest correctness score over the other timeline visualizations. These examples highlight that a method to remove the downtime in long videos improves the ability for users to search for events in those videos.
+
+We believe DUET’s designs could be used to inform how to improve the usability of existing video players and timeline visualizations implemented in other systems such as Ring, Youtube and more.
+	\chapter{Summary} \label{ch:summary}
+
+	% This is the standard bibtex file. Do not include the .bib extension in <bib_file_name>.
+	% Uncomment the following lines to include your bibliography: 
+	%\bibliography{<bib_file_name>}
+	%\bibliographystyle{plainnat}   
+
+	% This formats the chapter name to appendix to properly define the headers:
+	\appendix
+
+	% Add your appendices here. You must leave the appendices enclosed in the appendices environment in order for the table of contents to be correct.
+	\begin{appendices}
+		\chapter{First Appendix} \label{app:appendix_one}
+			\section{Section one} \label{ase:app_one_sect_1}
+				\lipsum[1-3]
+			\section{Section two} \label{ase:app_one_sect_2}
+				\lipsum[1-3]
+		\chapter{Second Appendix} \label{app:appendix_two}
+			\lipsum[2]
+	\end{appendices}
+
+%%
+%% The next two lines define the bibliography style to be used, and
+%% the bibliography file.
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{sample-base}
+\end{document}
+
+
+%****************************************************************************
+% Below are some general suggestions for writing your dissertation:
+%
+% 1. Label everything with a meaningful prefix so that you
+%    can refer back to sections, tables, figures, equations, etc.
+%    Usage \label{<prefix>:<label_name>} where some suggested
+%    prefixes are:
+%			ch: Chapter
+%     		se: Section
+%     		ss: Subsection
+%     		sss: Sub-subsection
+%			app: Appendix
+%     		ase: Appendix section
+%     		tab: Tables
+%     		fig: Figures
+%     		sfig: Sub-figures
+%     		eq: Equations
+%
+% 2. The VTthesis class provides for natbib citations. You should upload
+%	 one or more *.bib bibtex files. Suppose you have two bib files: some_refs.bib and 
+%    other_refs.bib.  Then your bibliography line to include them
+%    will be:
+%      \bibliography{some_refs, other_refs}
+%    where multiple files are separated by commas. In the body of 
+%    your work, you can cite your references using natbib citations.
+%    Examples:
+%      Citation                     Output
+%      -------------------------------------------------------
+%      \cite{doe_title_2016}        [18]
+%      \citet{doe_title_2016}       Doe et al. [18]
+%      \citet*{doe_title_2016}      Doe, Jones, and Smith [18]
+%
+%    For a complete list of options, see
+%      https://www.ctan.org/pkg/natbib?lang=en
+%
+% 3. Here is a sample table. Notice that the caption is centered at the top. Also
+%    notice that we use booktabs formatting. You should not use vertical lines
+%    in your tables.
+% 
+%				\begin{table}[htb]
+%					\centering
+%					\caption{Approximate computation times in hh:mm:ss for full order 						versus reduced order models.}
+%					\begin{tabular}{ccc}
+%						\toprule
+%						& \multicolumn{2}{c}{Computation Time}\\
+%						\cmidrule(r){2-3}
+%						$\overline{U}_{in}$ m/s & Full Model & ROM \\
+%						\midrule
+%						0.90 & 2:00:00 & 2:08:00\\
+%						0.88 & 2:00:00 & 0:00:03\\
+%						0.92 & 2:00:00 & 0:00:03\\
+%						\midrule
+%						Total & 6:00:00 & 2:08:06\\
+%						\bottomrule
+%					\end{tabular}
+%					\label{tab:time_rom}
+%				\end{table}
+% 
+% 4. Below are some sample figures. Notice the caption is centered below the
+%    figure.
+%    a. Single centered figure:
+%					\begin{figure}[htb]
+%						\centering
+%						\includegraphics[scale=0.5]{my_figure.eps}
+%						\caption{Average outlet velocity magnitude given an average  
+%				        input velocity magnitude of 0.88 m/s.} 
+%						\label{fig:output_rom}
+%					\end{figure}
+%    b. Two by two grid of figures with subcaptions
+%					\begin{figure}[htb]
+%						\centering
+%						\begin{subfigure}[h]{0.45\textwidth}
+%							\centering
+%							\includegraphics[scale=0.4]{figure_1_1.eps}
+%							\caption{Subcaption number one}
+%							\label{sfig:first_subfig}
+%						\end{subfigure}
+%						\begin{subfigure}[h]{0.45\textwidth}
+%							\centering
+%							\includegraphics[scale=0.4]{figure_1_2.png}
+%							\caption{Subcaption number two}
+%							\label{sfig:second_subfig}
+%						\end{subfigure}
+%
+%						\begin{subfigure}[h]{0.45\textwidth}
+%							\centering
+%							\includegraphics[scale=0.4]{figure_2_1.pdf}
+%							\caption{Subcaption number three}
+%							\label{sfig:third_subfig}
+%						\end{subfigure}
+%						\begin{subfigure}[h]{0.45\textwidth}
+%							\centering
+%							\includegraphics[scale=0.4]{figure_2_2.eps}
+%							\caption{Subcaption number four}
+%							\label{sfig:fourth_subfig}
+%						\end{subfigure}
+%						\caption{Here is my main caption describing the relationship between the 4 subimages}
+%						\label{fig:main_figure}
+%					\end{figure}
+%
+%----------------------------------------------------------------------------
+%
+% The following is a list of definitions and packages provided by VTthesis:
+%
+% A. The following packages are provided by the VTthesis class:
+%      amsmath, amsthm, amssymb, enumerate, natbib, hyperref, graphicx, 
+%      tikz (with shapes and arrows libraries), caption, subcaption,
+%      listings, verbatim
+%
+% B. The following theorem environments are defined by VTthesis:
+%      theorem, proposition, lemma, corollary, conjecture
+% 
+% C. The following definition environments are defined by VTthesis:
+%      definition, example, remark, algorithm
+%
+%----------------------------------------------------------------------------
+%
+%  I hope this template file and the VTthesis class will keep you from having 
+%  to worry about the formatting and allow you to focus on the actual writing.
+%  Good luck, and happy writing.
+%    Alan Lattimer, VT, 2016
+%
+%****************************************************************************
+
+
+
+
+
