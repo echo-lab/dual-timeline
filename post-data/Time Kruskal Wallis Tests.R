@@ -1,14 +1,17 @@
-myDataTime = valid_time_no_dups
+library(FSA)
+library(dplyr)
+
+myDataTime = finalTime
 print(myDataTime)
 
 # Show the group levels
-print(levels(myDataTime$TimelineType))
+print(levels(myDataTime$TIMELINE))
 
-result = kruskal.test(TimeBetweenClicks ~ TimelineType,
+result = kruskal.test(TIME ~ TIMELINE,
                       data = myDataTime)
 print(result)
 
-print(boxplot(TimeBetweenClicks ~ TimelineType,
+print(boxplot(TIME ~ TIMELINE,
         data=myDataTime,
         main="Different boxplots for each Timeline Type",
         xlab="Time Between First and Last Click",
@@ -19,8 +22,19 @@ print(boxplot(TimeBetweenClicks ~ TimelineType,
         notch=TRUE
 ))
 
-# averages
-aggregate(myDataTime$TimeBetweenClicks, list(myDataTime$TimelineType), FUN=mean)
 
-unique(myDataTime$PID)
+dunnResult = dunnTest(TIME ~ TIMELINE,
+                      data = myDataTime,
+                      method="bh")
+
+print(dunnResult)
+
+summary_data_time = myDataTime %>% group_by(TIMELINE) %>% summarise(mean = mean(TIME), se = sd(TIME) / sqrt(n()))
+
+print(summary_data_time)
+
+# averages
+aggregate(myDataTime$TIME, list(myDataTime$TIMELINE), FUN=mean)
+
+PIDs = unique(myDataTime$PID)
 

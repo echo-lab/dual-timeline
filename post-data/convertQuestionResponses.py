@@ -10,10 +10,11 @@ timeline_types = {
     4: "Timeline 4 (Density Graph + Event Blocks)",
     5: "Timeline 5 (Event Thumbnails)",
     6: "Other",
+    7: "Other",
 }
 
 # Define variable to load the dataframe
-dataframe = openpyxl.load_workbook("rawData.xlsx")
+dataframe = openpyxl.load_workbook("finalRawData.xlsx")
 
 # Define variable to read sheet
 dataframe1 = dataframe.active
@@ -50,6 +51,7 @@ for row in dataframe1.values:
                 row_as_list.append(value.encode("utf-8"))
 
         response_id = row_as_list[0]
+        print("Response ID")
         print(response_id)
 
         # VIRAT_S_0002 Data

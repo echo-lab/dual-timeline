@@ -1,20 +1,17 @@
 library(dplyr)
+library(FSA)
 
-myDataSus = valid_just_sus_scores
+myDataSus = finalSusScores
 print(myDataSus)
 
-pid_list = c("147906122", "148060312", "148063802", "148063804", "148063806", "148063807", "148063808", "148072624", "148087855", "148088832", "148121369", "148121371", "148121544", "148121549", "148191331", "148225108", "148242096", "148250834", "148355343", "148379134", "148457705", "148463769", "148516311", "148547931", "148551719", "148552210", "148558714", "148743058", "148768751", "148784892", "148786365", "148796085", "148822625", "148904494", "148958404", "149094645", "149140946", "149185311", "149215102", "149353591", "149439530", "149466211", "149508537")
-
-filteredMyDataSus = myDataSus %>% filter(PID %in% pid_list)
-
 # Show the group levels
-print(levels(myDataSus$TimelineType))
+print(levels(myDataSus$TIMELINE))
 
-result = kruskal.test(SUS ~ TimelineType,
+kwResult = kruskal.test(SUS ~ TIMELINE,
                       data = myDataSus)
-print(result)
+print(kwResult)
 
-boxPlot <- boxplot(SUS ~ TimelineType,
+boxPlot <- boxplot(SUS ~ TIMELINE,
         data=myDataSus,
         main="Different boxplots for each Timeline Type",
         xlab="SUS Score",
@@ -27,10 +24,27 @@ boxPlot <- boxplot(SUS ~ TimelineType,
 
 boxPlot
 
-# averages
-aggregate(myDataSus$SUS, list(myDataSus$TimelineType), FUN=mean)
+dunnResult = dunnTest(SUS ~ TIMELINE,
+         data = myDataSus,
+         method="bh")
 
-filteredResult = kruskal.test(SUS ~ TimelineType,
-                      data = filteredMyDataSus)
-print(filteredResult)
+print(dunnResult)
+
+summary_data_sus = myDataSus %>% group_by(TIMELINE) %>% summarise(mean = mean(SUS), se = sd(SUS) / sqrt(n()))
+
+print(summary_data_sus)
+
+ggplot(summary_data, aes(x = TIMELINE, y = mean, fill = mean)) +
+  geom_bar(stat = "identity", position = position_dodge(), width=0.7) +
+  labs(title = "Correctness Bar Chart",
+       x = "Timeline Type",
+       y = "Average SUS Score") +
+  geom_errorbar(aes(ymin = mean - se, ymax = mean + se))
+
+# averages
+aggregate(myDataSus$SUS, list(myDataSus$TIMELINE), FUN=mean)
+
+#filteredResult = kruskal.test(SUS ~ TimelineType,
+#                      data = filteredMyDataSus)
+#print(filteredResult)
 
