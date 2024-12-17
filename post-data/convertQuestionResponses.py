@@ -14,7 +14,7 @@ timeline_types = {
 }
 
 # Define variable to load the dataframe
-dataframe = openpyxl.load_workbook("finalRawData.xlsx")
+dataframe = openpyxl.load_workbook("finalFinalRawData.xlsx")
 
 # Define variable to read sheet
 dataframe1 = dataframe.active
@@ -29,7 +29,7 @@ for row in dataframe1.values:
     if current_line_num == 0:
 
         question_responses_with_answers_csv.write(
-            "Response ID, Timeline Used Value, Timeline Used Value Decrypted, Timeline Type (TimelinesUsed), Timeline Type (User Entry), First Click Time (Seconds), Last Click Time (Seconds), Time Between First and Last Click (Seconds), Question, Video Name, Their Answer, Correct Answer, Is Correct\n"
+            "Response ID, Timeline Used Value, Timeline Used Value Decrypted, Timeline Type (TimelinesUsed), Timeline Type (User Entry), First Click Time (Seconds), Last Click Time (Seconds), Time Between First and Last Click (Seconds), Question, Video Name, Their Answer, Correct Answer, Is Correct, Time Viewing Footage\n"
         )
 
         current_line_num += 1
@@ -53,6 +53,10 @@ for row in dataframe1.values:
         response_id = row_as_list[0]
         print("Response ID")
         print(response_id)
+        
+        time_spent_viewing_footage = row_as_list[33]
+        print("Time Spent Viewing Footage")
+        print(time_spent_viewing_footage)
 
         # VIRAT_S_0002 Data
 
@@ -160,6 +164,8 @@ for row in dataframe1.values:
             + virat_s_0002_q1_correct_response
             + ", "
             + str(virat_s_0002_q1_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -189,6 +195,8 @@ for row in dataframe1.values:
             + virat_s_0002_q2_correct_response
             + ", "
             + str(virat_s_0002_q2_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -298,6 +306,8 @@ for row in dataframe1.values:
             + virat_s_0100_q1_correct_response
             + ", "
             + str(virat_s_0100_q1_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -327,6 +337,8 @@ for row in dataframe1.values:
             + virat_s_0100_q2_correct_response
             + ", "
             + str(virat_s_0100_q2_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -436,6 +448,8 @@ for row in dataframe1.values:
             + virat_s_0102_q1_correct_response
             + ", "
             + str(virat_s_0102_q1_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -465,6 +479,8 @@ for row in dataframe1.values:
             + virat_s_0102_q2_correct_response
             + ", "
             + str(virat_s_0102_q2_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -574,6 +590,8 @@ for row in dataframe1.values:
             + virat_s_0400_q1_correct_response
             + ", "
             + str(virat_s_0400_q1_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -603,6 +621,8 @@ for row in dataframe1.values:
             + virat_s_0400_q2_correct_response
             + ", "
             + str(virat_s_0400_q2_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -714,6 +734,8 @@ for row in dataframe1.values:
             + virat_s_0500_q1_correct_response
             + ", "
             + str(virat_s_0500_q1_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
@@ -743,6 +765,8 @@ for row in dataframe1.values:
             + virat_s_0500_q2_correct_response
             + ", "
             + str(virat_s_0500_q2_correct_or_not)
+            + ", "
+            + time_spent_viewing_footage
             + "\n"
         )
 
